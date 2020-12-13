@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.wsj.com/articles/battery-free-energy-harvesting-perpetual-machines-the-weird-future-of-computing-11601697600?mod=e2tw",
+  "self": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/battery-free-energy-harvesting-perpetual-machines-the-weird-future-of-computing-11601697600?mod=e2tw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-04T06:20:19Z",
+        "uri": "http://archive.md/20201004062019/https://www.wsj.com/articles/battery-free-energy-harvesting-perpetual-machines-the-weird-future-of-computing-11601697600?mod=e2tw"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-04T06:20:19Z",
+      "uri": "http://archive.md/20201004062019/https://www.wsj.com/articles/battery-free-energy-harvesting-perpetual-machines-the-weird-future-of-computing-11601697600?mod=e2tw"
+    },
+    "last": {
+      "datetime": "2020-10-04T06:20:19Z",
+      "uri": "http://archive.md/20201004062019/https://www.wsj.com/articles/battery-free-energy-harvesting-perpetual-machines-the-weird-future-of-computing-11601697600?mod=e2tw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wsj.com/articles/battery-free-energy-harvesting-perpetual-machines-the-weird-future-of-computing-11601697600?mod=e2tw",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/battery-free-energy-harvesting-perpetual-machines-the-weird-future-of-computing-11601697600?mod=e2tw",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wsj.com/articles/battery-free-energy-harvesting-perpetual-machines-the-weird-future-of-computing-11601697600?mod=e2tw"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wsj.com/articles/battery-free-energy-harvesting-perpetual-machines-the-weird-future-of-computing-11601697600?mod=e2tw"
+}

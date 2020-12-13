@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-10T04:58:08Z",
+        "uri": "https://wayback.archive-it.org/all/20200810045808/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-08-10T04:58:08Z",
+        "uri": "https://web.archive.org/web/20200810045808/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-08-10T05:56:05Z",
+        "uri": "https://web.archive.org/web/20200810055605/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-08-10T06:39:57Z",
+        "uri": "https://web.archive.org/web/20200810063957/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-08-10T17:00:14Z",
+        "uri": "http://archive.md/20200810170014/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-08-11T01:35:36Z",
+        "uri": "https://web.archive.org/web/20200811013536/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-08-11T07:12:21Z",
+        "uri": "https://web.archive.org/web/20200811071221/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-08-19T03:06:54Z",
+        "uri": "https://web.archive.org/web/20200819030654/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-09-22T17:41:33Z",
+        "uri": "https://web.archive.org/web/20200922174133/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-10-10T20:37:02Z",
+        "uri": "https://web.archive.org/web/20201010203702/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-11-01T12:56:55Z",
+        "uri": "https://web.archive.org/web/20201101125655/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-11-12T05:27:31Z",
+        "uri": "https://web.archive.org/web/20201112052731/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      },
+      {
+        "datetime": "2020-12-02T16:02:37Z",
+        "uri": "https://web.archive.org/web/20201202160237/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-10T04:58:08Z",
+      "uri": "https://wayback.archive-it.org/all/20200810045808/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+    },
+    "last": {
+      "datetime": "2020-12-02T16:02:37Z",
+      "uri": "https://web.archive.org/web/20201202160237/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/08/10/us/wwe-kamala-james-harris-death/index.html"
+}

@@ -1,0 +1,282 @@
+{
+  "original_uri": "https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-04T13:34:53Z",
+        "uri": "https://wayback.archive-it.org/all/20200904133453/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-04T20:45:57Z",
+        "uri": "https://wayback.archive-it.org/all/20200904204557/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-04T20:59:35Z",
+        "uri": "https://wayback.archive-it.org/all/20200904205935/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-04T21:11:28Z",
+        "uri": "https://wayback.archive-it.org/all/20200904211128/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-06T08:12:11Z",
+        "uri": "https://wayback.archive-it.org/all/20200906081211/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-06T08:16:24Z",
+        "uri": "https://wayback.archive-it.org/all/20200906081624/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-06T23:55:36Z",
+        "uri": "https://wayback.archive-it.org/all/20200906235536/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-06T23:58:17Z",
+        "uri": "https://wayback.archive-it.org/all/20200906235817/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-13T11:52:22Z",
+        "uri": "https://wayback.archive-it.org/all/20200913115222/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-13T11:52:46Z",
+        "uri": "https://wayback.archive-it.org/all/20200913115246/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-13T19:07:10Z",
+        "uri": "https://wayback.archive-it.org/all/20200913190710/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-13T19:07:30Z",
+        "uri": "https://wayback.archive-it.org/all/20200913190730/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-15T19:38:33Z",
+        "uri": "https://wayback.archive-it.org/all/20200915193833/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-15T19:39:44Z",
+        "uri": "https://wayback.archive-it.org/all/20200915193944/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-20T10:02:48Z",
+        "uri": "https://wayback.archive-it.org/all/20200920100248/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-20T10:07:13Z",
+        "uri": "https://wayback.archive-it.org/all/20200920100713/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-21T23:39:26Z",
+        "uri": "https://wayback.archive-it.org/all/20200921233926/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-21T23:46:08Z",
+        "uri": "https://wayback.archive-it.org/all/20200921234608/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-22T20:45:47Z",
+        "uri": "https://wayback.archive-it.org/all/20200922204547/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-22T20:47:05Z",
+        "uri": "https://wayback.archive-it.org/all/20200922204705/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-25T01:22:34Z",
+        "uri": "https://wayback.archive-it.org/all/20200925012234/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-27T12:14:36Z",
+        "uri": "https://wayback.archive-it.org/all/20200927121436/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-27T12:18:16Z",
+        "uri": "https://wayback.archive-it.org/all/20200927121816/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-28T00:03:55Z",
+        "uri": "https://wayback.archive-it.org/all/20200928000355/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-09-28T00:05:26Z",
+        "uri": "https://wayback.archive-it.org/all/20200928000526/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T15:52:58Z",
+        "uri": "https://wayback.archive-it.org/all/20201004155258/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T15:53:34Z",
+        "uri": "https://wayback.archive-it.org/all/20201004155334/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-08T00:25:58Z",
+        "uri": "https://wayback.archive-it.org/all/20201008002558/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-08T00:25:59Z",
+        "uri": "https://wayback.archive-it.org/all/20201008002559/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-11T11:56:34Z",
+        "uri": "https://wayback.archive-it.org/all/20201011115634/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-11T11:56:35Z",
+        "uri": "https://wayback.archive-it.org/all/20201011115635/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-11T14:59:45Z",
+        "uri": "https://wayback.archive-it.org/all/20201011145945/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-11T14:59:46Z",
+        "uri": "https://wayback.archive-it.org/all/20201011145946/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-14T18:55:09Z",
+        "uri": "https://wayback.archive-it.org/all/20201014185509/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-14T18:55:10Z",
+        "uri": "https://wayback.archive-it.org/all/20201014185510/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-18T10:28:58Z",
+        "uri": "https://wayback.archive-it.org/all/20201018102858/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-18T10:29:01Z",
+        "uri": "https://wayback.archive-it.org/all/20201018102901/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-26T10:08:30Z",
+        "uri": "https://wayback.archive-it.org/all/20201026100830/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-26T10:08:34Z",
+        "uri": "https://wayback.archive-it.org/all/20201026100834/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-01T17:02:21Z",
+        "uri": "https://wayback.archive-it.org/all/20201101170221/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-01T17:02:55Z",
+        "uri": "https://wayback.archive-it.org/all/20201101170255/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-06T19:13:22Z",
+        "uri": "https://wayback.archive-it.org/all/20201106191322/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-06T19:13:23Z",
+        "uri": "https://wayback.archive-it.org/all/20201106191323/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-08T18:38:31Z",
+        "uri": "https://wayback.archive-it.org/all/20201108183831/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-08T18:39:50Z",
+        "uri": "https://wayback.archive-it.org/all/20201108183950/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-10T21:57:29Z",
+        "uri": "https://wayback.archive-it.org/all/20201110215729/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-10T21:57:33Z",
+        "uri": "https://wayback.archive-it.org/all/20201110215733/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-12T01:37:40Z",
+        "uri": "https://wayback.archive-it.org/all/20201112013740/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-12T01:37:42Z",
+        "uri": "https://wayback.archive-it.org/all/20201112013742/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-12T21:18:33Z",
+        "uri": "https://wayback.archive-it.org/all/20201112211833/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-12T21:18:36Z",
+        "uri": "https://wayback.archive-it.org/all/20201112211836/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-14T23:18:47Z",
+        "uri": "https://wayback.archive-it.org/all/20201114231847/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-14T23:18:50Z",
+        "uri": "https://wayback.archive-it.org/all/20201114231850/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-15T08:47:08Z",
+        "uri": "https://wayback.archive-it.org/all/20201115084708/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-15T08:47:12Z",
+        "uri": "https://wayback.archive-it.org/all/20201115084712/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-16T21:53:08Z",
+        "uri": "https://wayback.archive-it.org/all/20201116215308/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-16T21:53:10Z",
+        "uri": "https://wayback.archive-it.org/all/20201116215310/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-22T12:30:41Z",
+        "uri": "https://wayback.archive-it.org/all/20201122123041/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-22T12:30:45Z",
+        "uri": "https://wayback.archive-it.org/all/20201122123045/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-22T16:25:18Z",
+        "uri": "https://wayback.archive-it.org/all/20201122162518/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-22T16:25:21Z",
+        "uri": "https://wayback.archive-it.org/all/20201122162521/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-29T21:33:36Z",
+        "uri": "https://wayback.archive-it.org/all/20201129213336/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-29T21:33:38Z",
+        "uri": "https://wayback.archive-it.org/all/20201129213338/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-01T01:03:15Z",
+        "uri": "https://wayback.archive-it.org/all/20201201010315/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-01T01:03:17Z",
+        "uri": "https://wayback.archive-it.org/all/20201201010317/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-04T13:34:53Z",
+      "uri": "https://wayback.archive-it.org/all/20200904133453/http://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+    },
+    "last": {
+      "datetime": "2020-12-01T01:03:17Z",
+      "uri": "https://wayback.archive-it.org/all/20201201010317/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/09/03/economy/unemployment-benefits-coronavirus/index.html"
+}

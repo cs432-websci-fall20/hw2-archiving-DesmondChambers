@@ -1,0 +1,794 @@
+{
+  "original_uri": "https://www.wsj.com/?mod=e2tw",
+  "self": "http://localhost:1208/timemap/json/https://www.wsj.com/?mod=e2tw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-11-21T05:15:40Z",
+        "uri": "https://webarchive.loc.gov/all/20151121051540/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2015-11-25T11:14:10Z",
+        "uri": "https://webarchive.loc.gov/all/20151125111410/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2015-12-02T08:50:31Z",
+        "uri": "https://webarchive.loc.gov/all/20151202085031/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2015-12-09T21:46:11Z",
+        "uri": "https://webarchive.loc.gov/all/20151209214611/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2015-12-17T23:28:11Z",
+        "uri": "https://webarchive.loc.gov/all/20151217232811/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-03-15T22:15:46Z",
+        "uri": "https://web.archive.org/web/20160315221546/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-03-22T12:13:04Z",
+        "uri": "https://webarchive.loc.gov/all/20160322121304/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-03-24T04:08:04Z",
+        "uri": "https://webarchive.loc.gov/all/20160324040804/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-04-05T08:46:16Z",
+        "uri": "https://webarchive.loc.gov/all/20160405084616/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-04-09T17:09:14Z",
+        "uri": "https://webarchive.loc.gov/all/20160409170914/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-04-24T20:35:20Z",
+        "uri": "https://webarchive.loc.gov/all/20160424203520/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-06-23T10:44:47Z",
+        "uri": "https://webarchive.loc.gov/all/20160623104447/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-07-02T06:35:07Z",
+        "uri": "https://webarchive.loc.gov/all/20160702063507/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-07-10T09:28:12Z",
+        "uri": "https://webarchive.loc.gov/all/20160710092812/http://wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-07-10T09:28:13Z",
+        "uri": "https://webarchive.loc.gov/all/20160710092813/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-07-11T19:31:08Z",
+        "uri": "https://webarchive.loc.gov/all/20160711193108/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-07-15T03:42:32Z",
+        "uri": "https://webarchive.loc.gov/all/20160715034232/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-07-22T14:16:27Z",
+        "uri": "https://webarchive.loc.gov/all/20160722141627/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-07-25T20:50:51Z",
+        "uri": "https://webarchive.loc.gov/all/20160725205051/http://wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-07-25T20:50:53Z",
+        "uri": "https://webarchive.loc.gov/all/20160725205053/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2016-07-29T12:23:41Z",
+        "uri": "https://webarchive.loc.gov/all/20160729122341/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-02-01T01:03:23Z",
+        "uri": "https://webarchive.loc.gov/all/20170201010323/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-02-01T01:03:26Z",
+        "uri": "https://webarchive.loc.gov/all/20170201010326/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-02-08T17:52:03Z",
+        "uri": "https://webarchive.loc.gov/all/20170208175203/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-02-08T17:52:05Z",
+        "uri": "https://webarchive.loc.gov/all/20170208175205/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-02-16T09:02:38Z",
+        "uri": "https://webarchive.loc.gov/all/20170216090238/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-02-16T09:02:39Z",
+        "uri": "https://webarchive.loc.gov/all/20170216090239/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-02-23T09:23:40Z",
+        "uri": "https://webarchive.loc.gov/all/20170223092340/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-02-23T09:23:41Z",
+        "uri": "https://webarchive.loc.gov/all/20170223092341/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-03-02T10:09:48Z",
+        "uri": "https://webarchive.loc.gov/all/20170302100948/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-03-02T10:09:49Z",
+        "uri": "https://webarchive.loc.gov/all/20170302100949/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-03-09T16:08:22Z",
+        "uri": "https://webarchive.loc.gov/all/20170309160822/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-03-09T16:08:23Z",
+        "uri": "https://webarchive.loc.gov/all/20170309160823/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-03-16T16:14:48Z",
+        "uri": "https://webarchive.loc.gov/all/20170316161448/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-03-16T16:14:50Z",
+        "uri": "https://webarchive.loc.gov/all/20170316161450/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-03-23T23:45:34Z",
+        "uri": "https://webarchive.loc.gov/all/20170323234534/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-03-23T23:45:35Z",
+        "uri": "https://webarchive.loc.gov/all/20170323234535/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-03-31T01:08:58Z",
+        "uri": "https://webarchive.loc.gov/all/20170331010858/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-03-31T01:09:00Z",
+        "uri": "https://webarchive.loc.gov/all/20170331010900/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-04-07T05:14:27Z",
+        "uri": "https://webarchive.loc.gov/all/20170407051427/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-04-07T05:14:28Z",
+        "uri": "https://webarchive.loc.gov/all/20170407051428/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-04-14T23:36:44Z",
+        "uri": "https://webarchive.loc.gov/all/20170414233644/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-04-14T23:36:46Z",
+        "uri": "https://webarchive.loc.gov/all/20170414233646/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-04-21T08:12:44Z",
+        "uri": "https://webarchive.loc.gov/all/20170421081244/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-04-21T08:12:46Z",
+        "uri": "https://webarchive.loc.gov/all/20170421081246/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-04-29T14:39:37Z",
+        "uri": "https://webarchive.loc.gov/all/20170429143937/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-04-29T14:39:39Z",
+        "uri": "https://webarchive.loc.gov/all/20170429143939/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-07-12T05:22:38Z",
+        "uri": "https://web.archive.org/web/20170712052238/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-07-12T05:22:38Z",
+        "uri": "https://web.archive.org/web/20170712052238/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-07-12T11:13:06Z",
+        "uri": "https://web.archive.org/web/20170712111306/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-07-12T11:13:07Z",
+        "uri": "https://web.archive.org/web/20170712111307/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-09-10T13:14:59Z",
+        "uri": "https://web.archive.org/web/20170910131459/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2017-12-02T19:06:28Z",
+        "uri": "https://web.archive.org/web/20171202190628/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2018-01-13T14:46:14Z",
+        "uri": "https://web.archive.org/web/20180113144614/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2018-01-20T05:57:10Z",
+        "uri": "https://web.archive.org/web/20180120055710/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2018-02-09T15:33:15Z",
+        "uri": "https://web.archive.org/web/20180209153315/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2018-02-17T21:00:33Z",
+        "uri": "https://web.archive.org/web/20180217210033/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2018-03-01T17:40:38Z",
+        "uri": "https://web.archive.org/web/20180301174038/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2018-03-24T09:45:25Z",
+        "uri": "https://web.archive.org/web/20180324094525/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2018-11-10T19:27:03Z",
+        "uri": "https://wayback.archive-it.org/all/20181110192703/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2018-11-10T19:27:03Z",
+        "uri": "https://web.archive.org/web/20181110192703/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-02-23T07:41:10Z",
+        "uri": "https://wayback.archive-it.org/all/20190223074110/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-02-23T07:41:10Z",
+        "uri": "https://web.archive.org/web/20190223074110/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-04-02T04:08:47Z",
+        "uri": "https://web.archive.org/web/20190402040847/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-04-02T22:01:03Z",
+        "uri": "https://web.archive.org/web/20190402220103/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-05-28T12:33:31Z",
+        "uri": "https://web.archive.org/web/20190528123331/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-05-28T12:33:33Z",
+        "uri": "https://web.archive.org/web/20190528123333/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-09-17T07:05:35Z",
+        "uri": "https://web.archive.org/web/20190917070535/http://wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-09-17T07:05:50Z",
+        "uri": "https://web.archive.org/web/20190917070550/http://wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-11-01T10:18:42Z",
+        "uri": "https://wayback.archive-it.org/all/20191101101842/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-11-01T10:18:42Z",
+        "uri": "https://web.archive.org/web/20191101101842/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-11-01T10:20:47Z",
+        "uri": "https://wayback.archive-it.org/all/20191101102047/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-11-01T10:20:47Z",
+        "uri": "https://web.archive.org/web/20191101102047/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-11-23T07:31:59Z",
+        "uri": "https://wayback.archive-it.org/all/20191123073159/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-11-23T07:31:59Z",
+        "uri": "https://web.archive.org/web/20191123073159/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-11-25T10:31:16Z",
+        "uri": "https://web.archive.org/web/20191125103116/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2019-11-25T10:31:16Z",
+        "uri": "https://web.archive.org/web/20191125103116/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-01-28T10:14:58Z",
+        "uri": "https://wayback.archive-it.org/all/20200128101458/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-01-28T10:14:58Z",
+        "uri": "https://web.archive.org/web/20200128101458/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-01-28T10:17:07Z",
+        "uri": "https://wayback.archive-it.org/all/20200128101707/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-01-28T10:17:07Z",
+        "uri": "https://web.archive.org/web/20200128101707/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-03-13T13:46:56Z",
+        "uri": "https://web.archive.org/web/20200313134656/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-04-09T11:54:46Z",
+        "uri": "https://web.archive.org/web/20200409115446/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-07-02T05:13:47Z",
+        "uri": "https://web.archive.org/web/20200702051347/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-07-02T05:13:47Z",
+        "uri": "https://web.archive.org/web/20200702051347/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-08-18T16:03:04Z",
+        "uri": "https://web.archive.org/web/20200818160304/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-08-19T05:28:00Z",
+        "uri": "https://web.archive.org/web/20200819052800/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-08-19T05:29:20Z",
+        "uri": "https://web.archive.org/web/20200819052920/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-09-06T03:43:32Z",
+        "uri": "https://web.archive.org/web/20200906034332/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-09-19T04:43:03Z",
+        "uri": "https://web.archive.org/web/20200919044303/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-10-31T09:01:32Z",
+        "uri": "https://web.archive.org/web/20201031090132/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-10-31T23:54:53Z",
+        "uri": "https://web.archive.org/web/20201031235453/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T01:12:53Z",
+        "uri": "https://web.archive.org/web/20201101011253/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T02:32:24Z",
+        "uri": "https://web.archive.org/web/20201101023224/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T03:26:04Z",
+        "uri": "https://web.archive.org/web/20201101032604/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T03:26:04Z",
+        "uri": "https://web.archive.org/web/20201101032604/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T04:13:54Z",
+        "uri": "https://web.archive.org/web/20201101041354/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T04:13:54Z",
+        "uri": "https://web.archive.org/web/20201101041354/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T04:46:40Z",
+        "uri": "https://web.archive.org/web/20201101044640/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T04:46:40Z",
+        "uri": "https://web.archive.org/web/20201101044640/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T05:18:26Z",
+        "uri": "https://web.archive.org/web/20201101051826/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T05:18:26Z",
+        "uri": "https://web.archive.org/web/20201101051826/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T05:53:39Z",
+        "uri": "https://web.archive.org/web/20201101055339/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T05:53:39Z",
+        "uri": "https://web.archive.org/web/20201101055339/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T11:10:18Z",
+        "uri": "https://web.archive.org/web/20201101111018/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T11:10:18Z",
+        "uri": "https://web.archive.org/web/20201101111018/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-02T01:54:33Z",
+        "uri": "https://web.archive.org/web/20201102015433/http://wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-02T05:35:30Z",
+        "uri": "https://web.archive.org/web/20201102053530/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-02T05:35:30Z",
+        "uri": "https://web.archive.org/web/20201102053530/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-02T10:32:02Z",
+        "uri": "https://web.archive.org/web/20201102103202/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-02T10:32:02Z",
+        "uri": "https://web.archive.org/web/20201102103202/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-03T06:15:18Z",
+        "uri": "https://web.archive.org/web/20201103061518/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-03T06:15:19Z",
+        "uri": "https://web.archive.org/web/20201103061519/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-03T10:30:53Z",
+        "uri": "https://web.archive.org/web/20201103103053/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-03T10:30:53Z",
+        "uri": "https://web.archive.org/web/20201103103053/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-03T13:19:50Z",
+        "uri": "https://web.archive.org/web/20201103131950/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-03T13:19:50Z",
+        "uri": "https://web.archive.org/web/20201103131950/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-04T08:45:14Z",
+        "uri": "https://web.archive.org/web/20201104084514/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-04T08:45:14Z",
+        "uri": "https://web.archive.org/web/20201104084514/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-04T10:15:20Z",
+        "uri": "https://web.archive.org/web/20201104101520/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-04T10:15:20Z",
+        "uri": "https://web.archive.org/web/20201104101520/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-04T14:03:29Z",
+        "uri": "https://web.archive.org/web/20201104140329/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-04T14:03:29Z",
+        "uri": "https://web.archive.org/web/20201104140329/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-05T08:15:50Z",
+        "uri": "https://web.archive.org/web/20201105081550/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-05T08:15:50Z",
+        "uri": "https://web.archive.org/web/20201105081550/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-05T10:30:28Z",
+        "uri": "https://web.archive.org/web/20201105103028/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-05T10:30:28Z",
+        "uri": "https://web.archive.org/web/20201105103028/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-05T11:05:58Z",
+        "uri": "https://web.archive.org/web/20201105110558/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-05T11:05:58Z",
+        "uri": "https://web.archive.org/web/20201105110558/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-07T06:00:29Z",
+        "uri": "https://web.archive.org/web/20201107060029/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-07T08:16:01Z",
+        "uri": "https://web.archive.org/web/20201107081601/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-07T10:30:40Z",
+        "uri": "https://web.archive.org/web/20201107103040/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-10T05:45:28Z",
+        "uri": "https://web.archive.org/web/20201110054528/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-10T09:45:22Z",
+        "uri": "https://web.archive.org/web/20201110094522/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-12T21:53:12Z",
+        "uri": "https://web.archive.org/web/20201112215312/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-12T21:53:12Z",
+        "uri": "https://web.archive.org/web/20201112215312/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-13T06:43:55Z",
+        "uri": "https://web.archive.org/web/20201113064355/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-13T06:43:55Z",
+        "uri": "https://web.archive.org/web/20201113064355/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-14T05:30:16Z",
+        "uri": "https://web.archive.org/web/20201114053016/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-14T10:30:31Z",
+        "uri": "https://web.archive.org/web/20201114103031/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-16T05:45:21Z",
+        "uri": "https://web.archive.org/web/20201116054521/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-16T05:45:21Z",
+        "uri": "https://web.archive.org/web/20201116054521/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-16T10:30:54Z",
+        "uri": "https://web.archive.org/web/20201116103054/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-16T10:30:54Z",
+        "uri": "https://web.archive.org/web/20201116103054/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-17T05:46:15Z",
+        "uri": "https://web.archive.org/web/20201117054615/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-17T05:46:15Z",
+        "uri": "https://web.archive.org/web/20201117054615/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-17T10:31:07Z",
+        "uri": "https://web.archive.org/web/20201117103107/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-17T10:31:07Z",
+        "uri": "https://web.archive.org/web/20201117103107/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-19T05:30:37Z",
+        "uri": "https://web.archive.org/web/20201119053037/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-19T05:30:37Z",
+        "uri": "https://web.archive.org/web/20201119053037/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-19T10:31:14Z",
+        "uri": "https://web.archive.org/web/20201119103114/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-19T10:31:14Z",
+        "uri": "https://web.archive.org/web/20201119103114/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-20T05:46:03Z",
+        "uri": "https://web.archive.org/web/20201120054603/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-20T05:46:03Z",
+        "uri": "https://web.archive.org/web/20201120054603/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-20T10:15:34Z",
+        "uri": "https://web.archive.org/web/20201120101534/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-20T10:15:34Z",
+        "uri": "https://web.archive.org/web/20201120101534/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-21T05:30:38Z",
+        "uri": "https://web.archive.org/web/20201121053038/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-21T10:30:14Z",
+        "uri": "https://web.archive.org/web/20201121103014/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-21T21:25:32Z",
+        "uri": "https://web.archive.org/web/20201121212532/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-23T05:40:11Z",
+        "uri": "https://web.archive.org/web/20201123054011/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-23T05:40:11Z",
+        "uri": "https://web.archive.org/web/20201123054011/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-24T05:45:16Z",
+        "uri": "https://web.archive.org/web/20201124054516/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-24T05:53:59Z",
+        "uri": "https://web.archive.org/web/20201124055359/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-24T05:53:59Z",
+        "uri": "https://web.archive.org/web/20201124055359/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-24T06:41:33Z",
+        "uri": "https://web.archive.org/web/20201124064133/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-24T06:41:33Z",
+        "uri": "https://web.archive.org/web/20201124064133/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-24T10:15:29Z",
+        "uri": "https://web.archive.org/web/20201124101529/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-24T10:15:29Z",
+        "uri": "https://web.archive.org/web/20201124101529/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-28T05:30:24Z",
+        "uri": "https://web.archive.org/web/20201128053024/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-28T10:30:32Z",
+        "uri": "https://web.archive.org/web/20201128103032/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-30T05:45:39Z",
+        "uri": "https://web.archive.org/web/20201130054539/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-30T05:45:39Z",
+        "uri": "https://web.archive.org/web/20201130054539/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-30T10:15:23Z",
+        "uri": "https://web.archive.org/web/20201130101523/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-30T10:15:23Z",
+        "uri": "https://web.archive.org/web/20201130101523/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-30T21:08:24Z",
+        "uri": "https://web.archive.org/web/20201130210824/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-30T21:08:24Z",
+        "uri": "https://web.archive.org/web/20201130210824/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-03T10:15:26Z",
+        "uri": "https://web.archive.org/web/20201203101526/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-03T10:15:26Z",
+        "uri": "https://web.archive.org/web/20201203101526/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-04T05:45:18Z",
+        "uri": "https://web.archive.org/web/20201204054518/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-04T05:45:18Z",
+        "uri": "https://web.archive.org/web/20201204054518/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-04T10:15:51Z",
+        "uri": "https://web.archive.org/web/20201204101551/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-04T10:15:51Z",
+        "uri": "https://web.archive.org/web/20201204101551/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-05T10:30:17Z",
+        "uri": "https://web.archive.org/web/20201205103017/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-06T13:07:01Z",
+        "uri": "https://web.archive.org/web/20201206130701/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-06T13:07:01Z",
+        "uri": "https://web.archive.org/web/20201206130701/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-07T05:45:54Z",
+        "uri": "https://web.archive.org/web/20201207054554/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-07T05:45:54Z",
+        "uri": "https://web.archive.org/web/20201207054554/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-07T10:15:38Z",
+        "uri": "https://web.archive.org/web/20201207101538/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-07T10:15:38Z",
+        "uri": "https://web.archive.org/web/20201207101538/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-08T06:16:01Z",
+        "uri": "https://web.archive.org/web/20201208061601/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-08T06:16:01Z",
+        "uri": "https://web.archive.org/web/20201208061601/http://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-08T10:15:41Z",
+        "uri": "https://web.archive.org/web/20201208101541/https://www.wsj.com/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-12-08T10:15:41Z",
+        "uri": "https://web.archive.org/web/20201208101541/http://www.wsj.com/?mod=e2tw"
+      }
+    ],
+    "first": {
+      "datetime": "2015-11-21T05:15:40Z",
+      "uri": "https://webarchive.loc.gov/all/20151121051540/http://www.wsj.com/?mod=e2tw"
+    },
+    "last": {
+      "datetime": "2020-12-08T10:15:41Z",
+      "uri": "https://web.archive.org/web/20201208101541/http://www.wsj.com/?mod=e2tw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wsj.com/?mod=e2tw",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wsj.com/?mod=e2tw",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wsj.com/?mod=e2tw"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wsj.com/?mod=e2tw"
+}

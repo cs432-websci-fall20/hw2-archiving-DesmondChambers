@@ -1,0 +1,218 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-30T17:30:22Z",
+        "uri": "https://web.archive.org/web/20200430173022/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-04-30T17:48:50Z",
+        "uri": "https://web.archive.org/web/20200430174850/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-04-30T18:16:13Z",
+        "uri": "https://web.archive.org/web/20200430181613/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-04-30T22:29:50Z",
+        "uri": "https://web.archive.org/web/20200430222950/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-01T00:31:36Z",
+        "uri": "https://web.archive.org/web/20200501003136/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-01T01:04:20Z",
+        "uri": "https://web.archive.org/web/20200501010420/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-01T12:50:47Z",
+        "uri": "https://web.archive.org/web/20200501125047/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-01T13:36:49Z",
+        "uri": "https://web.archive.org/web/20200501133649/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-01T13:53:49Z",
+        "uri": "https://web.archive.org/web/20200501135349/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-01T14:31:08Z",
+        "uri": "https://web.archive.org/web/20200501143108/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-01T18:02:37Z",
+        "uri": "https://web.archive.org/web/20200501180237/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-01T23:58:46Z",
+        "uri": "https://web.archive.org/web/20200501235846/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-02T03:30:58Z",
+        "uri": "https://web.archive.org/web/20200502033058/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-02T07:15:17Z",
+        "uri": "https://web.archive.org/web/20200502071517/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-02T16:20:16Z",
+        "uri": "https://web.archive.org/web/20200502162016/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-02T19:31:35Z",
+        "uri": "https://web.archive.org/web/20200502193135/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-02T22:16:41Z",
+        "uri": "https://web.archive.org/web/20200502221641/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-03T02:07:39Z",
+        "uri": "https://web.archive.org/web/20200503020739/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-03T07:40:29Z",
+        "uri": "https://web.archive.org/web/20200503074029/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-03T09:43:05Z",
+        "uri": "https://web.archive.org/web/20200503094305/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-04T05:30:14Z",
+        "uri": "https://web.archive.org/web/20200504053014/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-04T07:48:35Z",
+        "uri": "https://web.archive.org/web/20200504074835/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-04T08:45:53Z",
+        "uri": "https://web.archive.org/web/20200504084553/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-04T10:58:43Z",
+        "uri": "https://web.archive.org/web/20200504105843/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-04T12:46:21Z",
+        "uri": "https://web.archive.org/web/20200504124621/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-04T15:20:27Z",
+        "uri": "https://web.archive.org/web/20200504152027/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-04T16:22:50Z",
+        "uri": "https://web.archive.org/web/20200504162250/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-04T17:07:42Z",
+        "uri": "https://web.archive.org/web/20200504170742/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-05T07:10:36Z",
+        "uri": "https://web.archive.org/web/20200505071036/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-05T09:52:57Z",
+        "uri": "https://web.archive.org/web/20200505095257/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-05T13:35:21Z",
+        "uri": "https://web.archive.org/web/20200505133521/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-05T14:51:03Z",
+        "uri": "https://web.archive.org/web/20200505145103/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-06T06:09:15Z",
+        "uri": "https://web.archive.org/web/20200506060915/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html/"
+      },
+      {
+        "datetime": "2020-05-06T10:09:45Z",
+        "uri": "https://web.archive.org/web/20200506100945/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-06T10:31:13Z",
+        "uri": "https://web.archive.org/web/20200506103113/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-06T17:32:23Z",
+        "uri": "https://web.archive.org/web/20200506173223/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-07T11:53:30Z",
+        "uri": "https://web.archive.org/web/20200507115330/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-08T02:47:20Z",
+        "uri": "https://web.archive.org/web/20200508024720/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-09T05:11:15Z",
+        "uri": "https://web.archive.org/web/20200509051115/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-11T01:16:53Z",
+        "uri": "https://web.archive.org/web/20200511011653/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-17T02:06:50Z",
+        "uri": "https://web.archive.org/web/20200517020650/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-17T07:59:53Z",
+        "uri": "https://web.archive.org/web/20200517075953/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-18T14:34:48Z",
+        "uri": "https://web.archive.org/web/20200518143448/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-05-20T09:38:12Z",
+        "uri": "https://web.archive.org/web/20200520093812/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-06-07T00:58:54Z",
+        "uri": "https://web.archive.org/web/20200607005854/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-06-18T07:12:16Z",
+        "uri": "https://web.archive.org/web/20200618071216/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-06-22T19:51:30Z",
+        "uri": "https://web.archive.org/web/20200622195130/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-07-16T18:51:42Z",
+        "uri": "https://web.archive.org/web/20200716185142/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      },
+      {
+        "datetime": "2020-11-18T20:36:59Z",
+        "uri": "https://web.archive.org/web/20201118203659/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-30T17:30:22Z",
+      "uri": "https://web.archive.org/web/20200430173022/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+    },
+    "last": {
+      "datetime": "2020-11-18T20:36:59Z",
+      "uri": "https://web.archive.org/web/20201118203659/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2020/04/30/style/instagram-yearbook-coronavirus.html"
+}

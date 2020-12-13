@@ -1,0 +1,166 @@
+{
+  "original_uri": "https://www.facebook.com/help/172944012764072",
+  "self": "http://localhost:1208/timemap/json/https://www.facebook.com/help/172944012764072",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-12-11T01:07:12Z",
+        "uri": "https://wayback.archive-it.org/all/20121211010712/http://www.facebook.com/help/172944012764072/"
+      },
+      {
+        "datetime": "2012-12-11T01:07:12Z",
+        "uri": "https://web.archive.org/web/20121211010712/http://www.facebook.com/help/172944012764072/"
+      },
+      {
+        "datetime": "2013-06-05T20:01:04Z",
+        "uri": "https://wayback.archive-it.org/all/20130605200104/http://www.facebook.com/help/172944012764072/"
+      },
+      {
+        "datetime": "2013-07-08T17:15:21Z",
+        "uri": "https://web.archive.org.au/awa/20130708171521mp_/http://pandora.nla.gov.au/pan/22923/20130709-0000/www.facebook.com/help/172944012764072.html"
+      },
+      {
+        "datetime": "2014-03-16T07:56:05Z",
+        "uri": "https://waext.banq.qc.ca/wayback/20140316075605/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2014-09-15T00:12:22Z",
+        "uri": "https://webarchive.loc.gov/all/20140915001222/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-12T22:22:59Z",
+        "uri": "https://wayback.archive-it.org/all/20150512222259/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-12T22:22:59Z",
+        "uri": "https://web.archive.org/web/20150512222259/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-13T00:52:10Z",
+        "uri": "https://wayback.archive-it.org/all/20150513005210/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-13T00:52:10Z",
+        "uri": "https://web.archive.org/web/20150513005210/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-13T04:10:53Z",
+        "uri": "https://wayback.archive-it.org/all/20150513041053/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-13T04:10:53Z",
+        "uri": "https://web.archive.org/web/20150513041053/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-13T04:44:05Z",
+        "uri": "https://web.archive.org/web/20150513044405/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-14T22:28:56Z",
+        "uri": "https://wayback.archive-it.org/all/20150514222856/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-14T22:28:56Z",
+        "uri": "https://web.archive.org/web/20150514222856/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-15T16:27:49Z",
+        "uri": "https://wayback.archive-it.org/all/20150515162749/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-15T16:27:49Z",
+        "uri": "https://web.archive.org/web/20150515162749/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-15T16:27:58Z",
+        "uri": "https://wayback.archive-it.org/all/20150515162758/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-15T16:27:58Z",
+        "uri": "https://web.archive.org/web/20150515162758/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-15T16:28:11Z",
+        "uri": "https://wayback.archive-it.org/all/20150515162811/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-15T16:28:11Z",
+        "uri": "https://web.archive.org/web/20150515162811/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-15T16:29:58Z",
+        "uri": "https://wayback.archive-it.org/all/20150515162958/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-15T16:29:58Z",
+        "uri": "https://web.archive.org/web/20150515162958/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-15T21:41:18Z",
+        "uri": "https://wayback.archive-it.org/all/20150515214118/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-15T21:41:18Z",
+        "uri": "https://web.archive.org/web/20150515214118/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-16T01:01:17Z",
+        "uri": "https://wayback.archive-it.org/all/20150516010117/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-16T01:01:17Z",
+        "uri": "https://web.archive.org/web/20150516010117/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-16T14:17:15Z",
+        "uri": "https://wayback.archive-it.org/all/20150516141715/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-16T14:17:15Z",
+        "uri": "https://web.archive.org/web/20150516141715/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-17T00:46:36Z",
+        "uri": "https://wayback.archive-it.org/all/20150517004636/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-05-17T00:46:36Z",
+        "uri": "https://web.archive.org/web/20150517004636/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-08-14T15:17:04Z",
+        "uri": "https://web.archive.org/web/20150814151704/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-10-28T06:58:02Z",
+        "uri": "https://web.archive.org/web/20151028065802/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2015-12-12T10:53:43Z",
+        "uri": "https://web.archive.org.au/awa/20151212105343mp_/http://pandora.nla.gov.au/pan/136165/20151212-0000/www.facebook.com/help/172944012764072.html"
+      },
+      {
+        "datetime": "2016-04-01T09:05:50Z",
+        "uri": "https://web.archive.org/web/20160401090550/https://www.facebook.com/help/172944012764072"
+      },
+      {
+        "datetime": "2020-09-13T06:20:56Z",
+        "uri": "https://web.archive.org/web/20200913062056/https://www.facebook.com/help/172944012764072"
+      }
+    ],
+    "first": {
+      "datetime": "2012-12-11T01:07:12Z",
+      "uri": "https://wayback.archive-it.org/all/20121211010712/http://www.facebook.com/help/172944012764072/"
+    },
+    "last": {
+      "datetime": "2020-09-13T06:20:56Z",
+      "uri": "https://web.archive.org/web/20200913062056/https://www.facebook.com/help/172944012764072"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.facebook.com/help/172944012764072",
+    "json_format": "http://localhost:1208/timemap/json/https://www.facebook.com/help/172944012764072",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.facebook.com/help/172944012764072"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.facebook.com/help/172944012764072"
+}

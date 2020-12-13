@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://theeverygirl.com/women-of-instagram/?fbclid=IwAR0cB57TJfGR6PnQFiRvgm782d938JYViz-4R9boCP6X6lbOJ4un4KVBX5U",
+  "self": "http://localhost:1208/timemap/json/https://theeverygirl.com/women-of-instagram/?fbclid=IwAR0cB57TJfGR6PnQFiRvgm782d938JYViz-4R9boCP6X6lbOJ4un4KVBX5U",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-02T06:30:19Z",
+        "uri": "https://web.archive.org/web/20200402063019/https://theeverygirl.com/women-of-instagram/?fbclid=IwAR0cB57TJfGR6PnQFiRvgm782d938JYViz-4R9boCP6X6lbOJ4un4KVBX5U"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-02T06:30:19Z",
+      "uri": "https://web.archive.org/web/20200402063019/https://theeverygirl.com/women-of-instagram/?fbclid=IwAR0cB57TJfGR6PnQFiRvgm782d938JYViz-4R9boCP6X6lbOJ4un4KVBX5U"
+    },
+    "last": {
+      "datetime": "2020-04-02T06:30:19Z",
+      "uri": "https://web.archive.org/web/20200402063019/https://theeverygirl.com/women-of-instagram/?fbclid=IwAR0cB57TJfGR6PnQFiRvgm782d938JYViz-4R9boCP6X6lbOJ4un4KVBX5U"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://theeverygirl.com/women-of-instagram/?fbclid=IwAR0cB57TJfGR6PnQFiRvgm782d938JYViz-4R9boCP6X6lbOJ4un4KVBX5U",
+    "json_format": "http://localhost:1208/timemap/json/https://theeverygirl.com/women-of-instagram/?fbclid=IwAR0cB57TJfGR6PnQFiRvgm782d938JYViz-4R9boCP6X6lbOJ4un4KVBX5U",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://theeverygirl.com/women-of-instagram/?fbclid=IwAR0cB57TJfGR6PnQFiRvgm782d938JYViz-4R9boCP6X6lbOJ4un4KVBX5U"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://theeverygirl.com/women-of-instagram/?fbclid=IwAR0cB57TJfGR6PnQFiRvgm782d938JYViz-4R9boCP6X6lbOJ4un4KVBX5U"
+}

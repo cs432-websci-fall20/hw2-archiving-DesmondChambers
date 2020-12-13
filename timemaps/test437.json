@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/",
+  "self": "http://localhost:1208/timemap/json/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-27T06:59:42Z",
+        "uri": "https://web.archive.org/web/20200327065942/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+      },
+      {
+        "datetime": "2020-03-28T16:24:09Z",
+        "uri": "https://web.archive.org/web/20200328162409/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+      },
+      {
+        "datetime": "2020-04-02T20:39:52Z",
+        "uri": "https://web.archive.org/web/20200402203952/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+      },
+      {
+        "datetime": "2020-04-18T11:24:35Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20200418112435mp_/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+      },
+      {
+        "datetime": "2020-05-31T09:26:35Z",
+        "uri": "https://web.archive.org/web/20200531092635/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+      },
+      {
+        "datetime": "2020-06-19T19:10:43Z",
+        "uri": "https://web.archive.org/web/20200619191043/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+      },
+      {
+        "datetime": "2020-07-13T10:47:06Z",
+        "uri": "https://web.archive.org/web/20200713104706/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+      },
+      {
+        "datetime": "2020-10-03T04:56:17Z",
+        "uri": "https://web.archive.org/web/20201003045617/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+      },
+      {
+        "datetime": "2020-10-03T21:25:43Z",
+        "uri": "https://web.archive.org/web/20201003212543/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-27T06:59:42Z",
+      "uri": "https://web.archive.org/web/20200327065942/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+    },
+    "last": {
+      "datetime": "2020-10-03T21:25:43Z",
+      "uri": "https://web.archive.org/web/20201003212543/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cosmopolitan.com/uk/reports/a31745083/positivity-index-instagram-influencers/"
+}

@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846",
+  "self": "http://localhost:1208/timemap/json/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-27T16:39:51Z",
+        "uri": "https://web.archive.org/web/20200227163951/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846"
+      },
+      {
+        "datetime": "2020-03-05T10:23:46Z",
+        "uri": "https://web.archive.org/web/20200305102346/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846"
+      },
+      {
+        "datetime": "2020-03-07T13:54:22Z",
+        "uri": "https://web.archive.org/web/20200307135422/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846"
+      },
+      {
+        "datetime": "2020-03-16T14:57:51Z",
+        "uri": "https://web.archive.org/web/20200316145751/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846"
+      },
+      {
+        "datetime": "2020-09-25T13:39:35Z",
+        "uri": "https://web.archive.org/web/20200925133935/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-27T16:39:51Z",
+      "uri": "https://web.archive.org/web/20200227163951/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846"
+    },
+    "last": {
+      "datetime": "2020-09-25T13:39:35Z",
+      "uri": "https://web.archive.org/web/20200925133935/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846",
+    "json_format": "http://localhost:1208/timemap/json/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.bustle.com/p/how-to-make-spark-ar-effects-on-instagram-even-with-no-experience-21872846"
+}

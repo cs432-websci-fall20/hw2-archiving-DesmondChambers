@@ -1,0 +1,190 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T11:20:05Z",
+        "uri": "https://web.archive.org/web/20201008112005/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T11:46:12Z",
+        "uri": "https://web.archive.org/web/20201008114612/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T11:46:12Z",
+        "uri": "https://web.archive.org/web/20201008114612/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T11:49:55Z",
+        "uri": "http://archive.md/20201008114955/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T12:06:03Z",
+        "uri": "https://web.archive.org/web/20201008120603/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T12:06:22Z",
+        "uri": "https://web.archive.org/web/20201008120622/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T12:15:14Z",
+        "uri": "https://web.archive.org/web/20201008121514/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T13:26:03Z",
+        "uri": "https://web.archive.org/web/20201008132603/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T13:26:16Z",
+        "uri": "https://web.archive.org/web/20201008132616/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T13:26:16Z",
+        "uri": "https://web.archive.org/web/20201008132616/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T14:51:23Z",
+        "uri": "https://web.archive.org/web/20201008145123/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T16:22:19Z",
+        "uri": "https://web.archive.org/web/20201008162219/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T20:36:35Z",
+        "uri": "https://web.archive.org/web/20201008203635/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-08T21:39:37Z",
+        "uri": "https://web.archive.org/web/20201008213937/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-09T06:08:01Z",
+        "uri": "https://web.archive.org/web/20201009060801/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-09T12:36:52Z",
+        "uri": "https://web.archive.org/web/20201009123652/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-09T23:50:03Z",
+        "uri": "https://web.archive.org/web/20201009235003/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-10T06:00:14Z",
+        "uri": "https://web.archive.org/web/20201010060014/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-10T08:48:13Z",
+        "uri": "https://web.archive.org/web/20201010084813/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-10T16:11:52Z",
+        "uri": "https://web.archive.org/web/20201010161152/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-10T19:47:47Z",
+        "uri": "https://wayback.archive-it.org/all/20201010194747/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-11T20:04:04Z",
+        "uri": "https://web.archive.org/web/20201011200404/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-12T21:22:49Z",
+        "uri": "https://web.archive.org/web/20201012212249/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-13T04:03:24Z",
+        "uri": "https://swap.stanford.edu/20201013040324/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-13T04:03:24Z",
+        "uri": "https://wayback.archive-it.org/all/20201013040324/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-13T20:33:17Z",
+        "uri": "https://web.archive.org/web/20201013203317/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-13T21:58:23Z",
+        "uri": "https://web.archive.org/web/20201013215823/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-14T02:56:33Z",
+        "uri": "https://web.archive.org/web/20201014025633/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-14T22:16:56Z",
+        "uri": "https://web.archive.org/web/20201014221656/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-15T21:51:54Z",
+        "uri": "https://web.archive.org/web/20201015215154/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-16T03:40:53Z",
+        "uri": "https://wayback.archive-it.org/all/20201016034053/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-17T02:51:39Z",
+        "uri": "https://wayback.archive-it.org/all/20201017025139/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-17T08:51:46Z",
+        "uri": "https://web.archive.org/web/20201017085146/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-10-17T12:11:39Z",
+        "uri": "https://web.archive.org/web/20201017121139/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-11-01T01:16:55Z",
+        "uri": "https://web.archive.org/web/20201101011655/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-11-01T03:22:44Z",
+        "uri": "https://web.archive.org/web/20201101032244/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-11-01T06:52:03Z",
+        "uri": "https://web.archive.org/web/20201101065203/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-11-01T08:48:48Z",
+        "uri": "https://web.archive.org/web/20201101084848/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-11-14T14:12:11Z",
+        "uri": "https://web.archive.org/web/20201114141211/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-11-15T20:13:17Z",
+        "uri": "https://web.archive.org/web/20201115201317/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-11-21T09:46:27Z",
+        "uri": "https://web.archive.org/web/20201121094627/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      },
+      {
+        "datetime": "2020-12-04T11:12:01Z",
+        "uri": "https://web.archive.org/web/20201204111201/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T11:20:05Z",
+      "uri": "https://web.archive.org/web/20201008112005/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+    },
+    "last": {
+      "datetime": "2020-12-04T11:12:01Z",
+      "uri": "https://web.archive.org/web/20201204111201/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2020/10/08/books/nobel-prize-literature-winner.html"
+}

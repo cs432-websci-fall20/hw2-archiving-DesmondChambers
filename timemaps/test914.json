@@ -1,0 +1,98 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-09T22:30:40Z",
+        "uri": "https://web.archive.org/web/20201009223040/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-09T23:15:37Z",
+        "uri": "https://web.archive.org/web/20201009231537/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-10T10:45:41Z",
+        "uri": "https://web.archive.org/web/20201010104541/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-10T15:47:13Z",
+        "uri": "https://web.archive.org/web/20201010154713/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-11T08:26:20Z",
+        "uri": "https://web.archive.org/web/20201011082620/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-11T18:54:29Z",
+        "uri": "https://web.archive.org/web/20201011185429/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-12T11:25:56Z",
+        "uri": "https://web.archive.org/web/20201012112556/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-12T19:10:04Z",
+        "uri": "https://web.archive.org/web/20201012191004/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-13T20:48:48Z",
+        "uri": "https://web.archive.org/web/20201013204848/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-14T22:30:45Z",
+        "uri": "https://web.archive.org/web/20201014223045/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-16T01:32:08Z",
+        "uri": "https://web.archive.org/web/20201016013208/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-17T02:25:14Z",
+        "uri": "https://web.archive.org/web/20201017022514/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-18T03:29:28Z",
+        "uri": "https://web.archive.org/web/20201018032928/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-20T05:25:54Z",
+        "uri": "https://web.archive.org/web/20201020052554/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-21T06:21:36Z",
+        "uri": "https://web.archive.org/web/20201021062136/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-22T11:12:47Z",
+        "uri": "https://web.archive.org/web/20201022111247/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-23T06:05:30Z",
+        "uri": "https://web.archive.org/web/20201023060530/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-10-24T07:25:14Z",
+        "uri": "https://web.archive.org/web/20201024072514/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      },
+      {
+        "datetime": "2020-11-23T12:21:27Z",
+        "uri": "https://web.archive.org/web/20201123122127/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-09T22:30:40Z",
+      "uri": "https://web.archive.org/web/20201009223040/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+    },
+    "last": {
+      "datetime": "2020-11-23T12:21:27Z",
+      "uri": "https://web.archive.org/web/20201123122127/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2020/10/09/sports/baseball/whitey-ford-yankees-world-series.html"
+}

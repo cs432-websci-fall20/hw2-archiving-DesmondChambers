@@ -1,0 +1,546 @@
+{
+  "original_uri": "https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+  "self": "http://localhost:1208/timemap/json/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-02T05:09:37Z",
+        "uri": "https://web.archive.org/web/20201002050937/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-02T05:25:22Z",
+        "uri": "https://web.archive.org/web/20201002052522/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-02T06:08:32Z",
+        "uri": "http://archive.md/20201002060832/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-02T06:23:37Z",
+        "uri": "https://web.archive.org/web/20201002062337/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-02T14:16:49Z",
+        "uri": "https://web.archive.org/web/20201002141649/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-02T14:45:38Z",
+        "uri": "https://web.archive.org/web/20201002144538/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-02T17:31:28Z",
+        "uri": "https://web.archive.org/web/20201002173128/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-02T21:55:58Z",
+        "uri": "https://web.archive.org/web/20201002215558/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-02T23:53:01Z",
+        "uri": "https://web.archive.org/web/20201002235301/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-03T01:25:20Z",
+        "uri": "https://web.archive.org/web/20201003012520/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-03T01:41:35Z",
+        "uri": "https://web.archive.org/web/20201003014135/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-03T03:04:34Z",
+        "uri": "https://wayback.archive-it.org/all/20201003030434/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-03T06:42:04Z",
+        "uri": "https://web.archive.org/web/20201003064204/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-03T10:32:46Z",
+        "uri": "https://wayback.archive-it.org/all/20201003103246/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-03T16:19:30Z",
+        "uri": "https://web.archive.org/web/20201003161930/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-03T16:44:23Z",
+        "uri": "https://web.archive.org/web/20201003164423/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-03T17:32:51Z",
+        "uri": "https://wayback.archive-it.org/all/20201003173251/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-03T17:46:20Z",
+        "uri": "https://web.archive.org/web/20201003174620/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-03T21:41:27Z",
+        "uri": "https://wayback.archive-it.org/all/20201003214127/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T02:00:00Z",
+        "uri": "https://web.archive.org/web/20201004020000/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T03:06:59Z",
+        "uri": "https://web.archive.org/web/20201004030659/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T03:39:32Z",
+        "uri": "https://web.archive.org/web/20201004033932/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T07:36:07Z",
+        "uri": "https://wayback.archive-it.org/all/20201004073607/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T07:54:38Z",
+        "uri": "https://web.archive.org/web/20201004075438/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T11:44:04Z",
+        "uri": "https://wayback.archive-it.org/all/20201004114404/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T16:00:14Z",
+        "uri": "https://web.archive.org/web/20201004160014/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T17:42:24Z",
+        "uri": "https://wayback.archive-it.org/all/20201004174224/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T20:01:04Z",
+        "uri": "https://web.archive.org/web/20201004200104/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T20:15:49Z",
+        "uri": "https://web.archive.org/web/20201004201549/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-04T21:22:20Z",
+        "uri": "https://web.archive.org/web/20201004212220/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-05T00:47:02Z",
+        "uri": "https://web.archive.org/web/20201005004702/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-05T02:28:34Z",
+        "uri": "https://web.archive.org/web/20201005022834/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-05T03:46:09Z",
+        "uri": "https://web.archive.org/web/20201005034609/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-05T06:40:08Z",
+        "uri": "https://web.archive.org/web/20201005064008/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-05T17:41:38Z",
+        "uri": "https://wayback.archive-it.org/all/20201005174138/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-05T18:56:30Z",
+        "uri": "https://web.archive.org/web/20201005185630/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-06T01:28:55Z",
+        "uri": "https://web.archive.org/web/20201006012855/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-06T03:13:22Z",
+        "uri": "https://web.archive.org/web/20201006031322/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-06T03:17:07Z",
+        "uri": "https://web.archive.org/web/20201006031707/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-06T04:25:39Z",
+        "uri": "https://web.archive.org/web/20201006042539/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-06T09:49:21Z",
+        "uri": "https://web.archive.org/web/20201006094921/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-06T13:47:21Z",
+        "uri": "https://web.archive.org/web/20201006134721/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-06T17:35:23Z",
+        "uri": "https://web.archive.org/web/20201006173523/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-06T18:05:25Z",
+        "uri": "https://wayback.archive-it.org/all/20201006180525/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-06T18:57:25Z",
+        "uri": "https://web.archive.org/web/20201006185725/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-07T05:19:17Z",
+        "uri": "https://web.archive.org/web/20201007051917/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-07T05:52:41Z",
+        "uri": "https://web.archive.org/web/20201007055241/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-07T07:26:12Z",
+        "uri": "https://web.archive.org/web/20201007072612/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-07T07:26:20Z",
+        "uri": "https://web.archive.org/web/20201007072620/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-07T08:02:41Z",
+        "uri": "https://web.archive.org/web/20201007080241/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-07T09:39:07Z",
+        "uri": "https://web.archive.org/web/20201007093907/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-08T08:24:21Z",
+        "uri": "https://web.archive.org/web/20201008082421/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-08T08:24:28Z",
+        "uri": "https://web.archive.org/web/20201008082428/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-09T13:10:15Z",
+        "uri": "https://web.archive.org/web/20201009131015/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-09T13:10:21Z",
+        "uri": "https://web.archive.org/web/20201009131021/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-09T16:19:23Z",
+        "uri": "https://web.archive.org/web/20201009161923/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-09T17:32:13Z",
+        "uri": "https://web.archive.org/web/20201009173213/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-10T14:03:13Z",
+        "uri": "https://web.archive.org/web/20201010140313/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-10T14:03:20Z",
+        "uri": "https://web.archive.org/web/20201010140320/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-11T19:57:53Z",
+        "uri": "https://web.archive.org/web/20201011195753/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-11T19:58:00Z",
+        "uri": "https://web.archive.org/web/20201011195800/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-11T20:08:47Z",
+        "uri": "https://web.archive.org/web/20201011200847/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-12T18:27:59Z",
+        "uri": "https://web.archive.org/web/20201012182759/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-12T23:27:59Z",
+        "uri": "https://web.archive.org/web/20201012232759/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-12T23:28:08Z",
+        "uri": "https://web.archive.org/web/20201012232808/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-14T00:18:53Z",
+        "uri": "https://web.archive.org/web/20201014001853/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-14T00:19:06Z",
+        "uri": "https://web.archive.org/web/20201014001906/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-15T00:43:38Z",
+        "uri": "https://web.archive.org/web/20201015004338/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-15T00:43:47Z",
+        "uri": "https://web.archive.org/web/20201015004347/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-16T01:26:02Z",
+        "uri": "https://web.archive.org/web/20201016012602/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-16T01:26:33Z",
+        "uri": "https://web.archive.org/web/20201016012633/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-17T03:14:12Z",
+        "uri": "https://web.archive.org/web/20201017031412/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-17T03:14:23Z",
+        "uri": "https://web.archive.org/web/20201017031423/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-18T03:14:41Z",
+        "uri": "https://web.archive.org/web/20201018031441/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-18T03:14:50Z",
+        "uri": "https://web.archive.org/web/20201018031450/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-19T03:25:58Z",
+        "uri": "https://web.archive.org/web/20201019032558/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-19T03:26:13Z",
+        "uri": "https://web.archive.org/web/20201019032613/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-19T03:30:36Z",
+        "uri": "https://web.archive.org/web/20201019033036/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-19T04:23:00Z",
+        "uri": "https://web.archive.org/web/20201019042300/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-19T07:29:53Z",
+        "uri": "https://web.archive.org/web/20201019072953/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-19T11:10:04Z",
+        "uri": "https://web.archive.org/web/20201019111004/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-20T04:15:20Z",
+        "uri": "https://web.archive.org/web/20201020041520/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-20T04:15:29Z",
+        "uri": "https://web.archive.org/web/20201020041529/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-21T06:36:57Z",
+        "uri": "https://web.archive.org/web/20201021063657/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-21T06:37:08Z",
+        "uri": "https://web.archive.org/web/20201021063708/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-21T23:19:08Z",
+        "uri": "https://web.archive.org/web/20201021231908/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-22T05:40:54Z",
+        "uri": "https://web.archive.org/web/20201022054054/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-22T05:41:07Z",
+        "uri": "https://web.archive.org/web/20201022054107/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-22T17:22:25Z",
+        "uri": "https://web.archive.org/web/20201022172225/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-23T05:59:24Z",
+        "uri": "https://web.archive.org/web/20201023055924/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-23T05:59:33Z",
+        "uri": "https://web.archive.org/web/20201023055933/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-24T06:51:21Z",
+        "uri": "https://web.archive.org/web/20201024065121/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-24T06:51:33Z",
+        "uri": "https://web.archive.org/web/20201024065133/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-25T18:21:55Z",
+        "uri": "https://web.archive.org/web/20201025182155/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-25T18:22:05Z",
+        "uri": "https://web.archive.org/web/20201025182205/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-26T22:37:42Z",
+        "uri": "https://web.archive.org/web/20201026223742/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-26T22:37:52Z",
+        "uri": "https://web.archive.org/web/20201026223752/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-28T00:40:11Z",
+        "uri": "https://web.archive.org/web/20201028004011/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-28T00:40:24Z",
+        "uri": "https://web.archive.org/web/20201028004024/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-29T01:53:51Z",
+        "uri": "https://web.archive.org/web/20201029015351/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-29T01:54:01Z",
+        "uri": "https://web.archive.org/web/20201029015401/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-30T06:27:04Z",
+        "uri": "https://web.archive.org/web/20201030062704/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-30T06:27:14Z",
+        "uri": "https://web.archive.org/web/20201030062714/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-30T19:25:46Z",
+        "uri": "https://web.archive.org/web/20201030192546/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-31T03:52:30Z",
+        "uri": "https://web.archive.org/web/20201031035230/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-10-31T03:52:38Z",
+        "uri": "https://web.archive.org/web/20201031035238/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-01T01:10:38Z",
+        "uri": "https://web.archive.org/web/20201101011038/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-01T02:30:18Z",
+        "uri": "https://web.archive.org/web/20201101023018/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-01T02:30:28Z",
+        "uri": "https://web.archive.org/web/20201101023028/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-01T03:40:52Z",
+        "uri": "https://web.archive.org/web/20201101034052/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-02T07:11:42Z",
+        "uri": "https://web.archive.org/web/20201102071142/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-02T07:11:51Z",
+        "uri": "https://web.archive.org/web/20201102071151/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-03T07:02:10Z",
+        "uri": "https://web.archive.org/web/20201103070210/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-03T07:02:18Z",
+        "uri": "https://web.archive.org/web/20201103070218/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-03T21:20:57Z",
+        "uri": "https://web.archive.org/web/20201103212057/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-03T21:20:57Z",
+        "uri": "https://web.archive.org/web/20201103212057/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-05T05:32:13Z",
+        "uri": "https://web.archive.org/web/20201105053213/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-05T05:32:14Z",
+        "uri": "https://web.archive.org/web/20201105053214/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-17T00:30:43Z",
+        "uri": "https://web.archive.org/web/20201117003043/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-21T06:05:10Z",
+        "uri": "https://web.archive.org/web/20201121060510/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-21T06:05:17Z",
+        "uri": "https://web.archive.org/web/20201121060517/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-21T06:35:17Z",
+        "uri": "https://web.archive.org/web/20201121063517/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-22T07:01:11Z",
+        "uri": "https://web.archive.org/web/20201122070111/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-22T07:01:20Z",
+        "uri": "https://web.archive.org/web/20201122070120/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-22T18:35:45Z",
+        "uri": "https://web.archive.org/web/20201122183545/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-23T07:17:02Z",
+        "uri": "https://web.archive.org/web/20201123071702/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-23T07:17:11Z",
+        "uri": "https://web.archive.org/web/20201123071711/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-23T16:03:05Z",
+        "uri": "https://web.archive.org/web/20201123160305/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-24T08:16:23Z",
+        "uri": "https://web.archive.org/web/20201124081623/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-11-24T08:16:30Z",
+        "uri": "https://web.archive.org/web/20201124081630/http://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      },
+      {
+        "datetime": "2020-12-04T05:50:09Z",
+        "uri": "https://web.archive.org/web/20201204055009/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-02T05:09:37Z",
+      "uri": "https://web.archive.org/web/20201002050937/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+    },
+    "last": {
+      "datetime": "2020-12-04T05:50:09Z",
+      "uri": "https://web.archive.org/web/20201204055009/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+    "json_format": "http://localhost:1208/timemap/json/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+}

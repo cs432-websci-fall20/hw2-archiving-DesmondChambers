@@ -1,0 +1,78 @@
+{
+  "original_uri": "https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-16T16:24:46Z",
+        "uri": "https://web.archive.org/web/20200916162446/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-17T00:08:57Z",
+        "uri": "https://web.archive.org/web/20200917000857/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-17T02:35:56Z",
+        "uri": "https://web.archive.org/web/20200917023556/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-17T03:32:47Z",
+        "uri": "https://web.archive.org/web/20200917033247/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-17T06:32:32Z",
+        "uri": "https://web.archive.org/web/20200917063232/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-17T07:24:13Z",
+        "uri": "https://wayback.archive-it.org/all/20200917072413/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-17T10:32:43Z",
+        "uri": "https://wayback.archive-it.org/all/20200917103243/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-18T03:26:43Z",
+        "uri": "https://web.archive.org/web/20200918032643/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-18T07:51:36Z",
+        "uri": "https://web.archive.org/web/20200918075136/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-18T18:09:37Z",
+        "uri": "https://web.archive.org/web/20200918180937/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-18T19:38:38Z",
+        "uri": "https://web.archive.org/web/20200918193838/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-09-22T18:38:16Z",
+        "uri": "https://web.archive.org/web/20200922183816/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-10-04T05:44:41Z",
+        "uri": "https://web.archive.org/web/20201004054441/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      },
+      {
+        "datetime": "2020-10-04T06:04:47Z",
+        "uri": "https://web.archive.org/web/20201004060447/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-16T16:24:46Z",
+      "uri": "https://web.archive.org/web/20200916162446/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+    },
+    "last": {
+      "datetime": "2020-10-04T06:04:47Z",
+      "uri": "https://web.archive.org/web/20201004060447/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/09/16/us/austin-crane-collision/index.html"
+}

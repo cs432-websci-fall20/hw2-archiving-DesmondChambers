@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-18T18:30:06Z",
+        "uri": "https://web.archive.org/web/20200918183006/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+      },
+      {
+        "datetime": "2020-09-19T13:11:02Z",
+        "uri": "https://web.archive.org/web/20200919131102/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+      },
+      {
+        "datetime": "2020-10-04T14:02:00Z",
+        "uri": "https://web.archive.org/web/20201004140200/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+      },
+      {
+        "datetime": "2020-10-17T12:56:33Z",
+        "uri": "https://web.archive.org/web/20201017125633/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+      },
+      {
+        "datetime": "2020-10-29T19:35:33Z",
+        "uri": "https://web.archive.org/web/20201029193533/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+      },
+      {
+        "datetime": "2020-10-31T01:56:59Z",
+        "uri": "https://web.archive.org/web/20201031015659/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+      },
+      {
+        "datetime": "2020-10-31T10:17:58Z",
+        "uri": "https://web.archive.org/web/20201031101758/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-18T18:30:06Z",
+      "uri": "https://web.archive.org/web/20200918183006/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+    },
+    "last": {
+      "datetime": "2020-10-31T10:17:58Z",
+      "uri": "https://web.archive.org/web/20201031101758/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/09/17/weather/medicane-ianos-mediterranean-hurricane-greece/index.html"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.cnn.com/webview/politics/live-news/us-election-news-09-24-20/h_05ae1aa9bd59ce511098beb3b8571929",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/webview/politics/live-news/us-election-news-09-24-20/h_05ae1aa9bd59ce511098beb3b8571929",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-01T03:29:47Z",
+        "uri": "https://web.archive.org/web/20201101032947/https://www.cnn.com/webview/politics/live-news/us-election-news-09-24-20/h_05ae1aa9bd59ce511098beb3b8571929"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-01T03:29:47Z",
+      "uri": "https://web.archive.org/web/20201101032947/https://www.cnn.com/webview/politics/live-news/us-election-news-09-24-20/h_05ae1aa9bd59ce511098beb3b8571929"
+    },
+    "last": {
+      "datetime": "2020-11-01T03:29:47Z",
+      "uri": "https://web.archive.org/web/20201101032947/https://www.cnn.com/webview/politics/live-news/us-election-news-09-24-20/h_05ae1aa9bd59ce511098beb3b8571929"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/webview/politics/live-news/us-election-news-09-24-20/h_05ae1aa9bd59ce511098beb3b8571929",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/webview/politics/live-news/us-election-news-09-24-20/h_05ae1aa9bd59ce511098beb3b8571929",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/webview/politics/live-news/us-election-news-09-24-20/h_05ae1aa9bd59ce511098beb3b8571929"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/webview/politics/live-news/us-election-news-09-24-20/h_05ae1aa9bd59ce511098beb3b8571929"
+}

@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories",
+  "self": "http://localhost:1208/timemap/json/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-29T12:30:06Z",
+        "uri": "https://web.archive.org/web/20200329123006/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories"
+      },
+      {
+        "datetime": "2020-04-01T23:29:26Z",
+        "uri": "https://web.archive.org/web/20200401232926/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories"
+      },
+      {
+        "datetime": "2020-04-05T05:15:23Z",
+        "uri": "https://web.archive.org/web/20200405051523/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories"
+      },
+      {
+        "datetime": "2020-05-08T03:11:48Z",
+        "uri": "https://web.archive.org/web/20200508031148/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories"
+      },
+      {
+        "datetime": "2020-09-20T21:21:01Z",
+        "uri": "https://web.archive.org/web/20200920212101/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-29T12:30:06Z",
+      "uri": "https://web.archive.org/web/20200329123006/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories"
+    },
+    "last": {
+      "datetime": "2020-09-20T21:21:01Z",
+      "uri": "https://web.archive.org/web/20200920212101/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories",
+    "json_format": "http://localhost:1208/timemap/json/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.one37pm.com/grind/careers/facebook-employees-shareblackstories"
+}

@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/",
+  "self": "http://localhost:1208/timemap/json/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-05T21:07:24Z",
+        "uri": "https://web.archive.org/web/20200405210724/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+      },
+      {
+        "datetime": "2020-04-08T18:14:11Z",
+        "uri": "https://web.archive.org/web/20200408181411/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+      },
+      {
+        "datetime": "2020-04-12T01:36:28Z",
+        "uri": "https://web.archive.org/web/20200412013628/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+      },
+      {
+        "datetime": "2020-04-12T11:38:20Z",
+        "uri": "https://web.archive.org/web/20200412113820/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+      },
+      {
+        "datetime": "2020-04-18T09:43:57Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20200418094357mp_/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+      },
+      {
+        "datetime": "2020-04-22T18:38:12Z",
+        "uri": "https://web.archive.org/web/20200422183812/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+      },
+      {
+        "datetime": "2020-05-18T09:14:06Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20200518091406mp_/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-05T00:28:20Z",
+        "uri": "https://web.archive.org/web/20200605002820/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-08T20:08:13Z",
+        "uri": "https://web.archive.org/web/20200608200813/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-08T03:13:41Z",
+        "uri": "https://web.archive.org/web/20200908031341/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-05T21:07:24Z",
+      "uri": "https://web.archive.org/web/20200405210724/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+    },
+    "last": {
+      "datetime": "2020-09-08T03:13:41Z",
+      "uri": "https://web.archive.org/web/20200908031341/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cosmopolitan.com/uk/body/health/g32005379/instagram-mental-health-lockdown-coronavirus/"
+}

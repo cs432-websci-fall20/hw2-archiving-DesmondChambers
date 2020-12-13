@@ -1,0 +1,334 @@
+{
+  "original_uri": "https://www.instagram.com/creators/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/creators/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-09-30T21:20:34Z",
+        "uri": "https://webarchive.loc.gov/all/20190930212034/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2019-10-01T12:54:22Z",
+        "uri": "https://wayback.archive-it.org/all/20191001125422/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2019-10-01T12:54:22Z",
+        "uri": "https://web.archive.org/web/20191001125422/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2019-10-03T04:50:57Z",
+        "uri": "https://webarchive.loc.gov/all/20191003045057/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2019-12-14T03:59:38Z",
+        "uri": "https://wayback.archive-it.org/all/20191214035938/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2019-12-14T03:59:38Z",
+        "uri": "https://web.archive.org/web/20191214035938/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-03-07T13:56:17Z",
+        "uri": "https://web.archive.org/web/20200307135617/http://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-03-07T13:56:18Z",
+        "uri": "https://web.archive.org/web/20200307135618/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-03-07T13:56:19Z",
+        "uri": "https://web.archive.org/web/20200307135619/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-04-15T23:42:56Z",
+        "uri": "https://web.archive.org/web/20200415234256/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-07-24T05:06:22Z",
+        "uri": "https://web.archive.org/web/20200724050622/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-08-08T08:21:56Z",
+        "uri": "https://web.archive.org/web/20200808082156/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-08-08T08:22:50Z",
+        "uri": "https://web.archive.org/web/20200808082250/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-10-09T09:25:46Z",
+        "uri": "https://web.archive.org/web/20201009092546/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-10-09T21:03:12Z",
+        "uri": "https://web.archive.org/web/20201009210312/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-10-12T13:28:05Z",
+        "uri": "https://web.archive.org/web/20201012132805/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-12T04:33:06Z",
+        "uri": "https://web.archive.org/web/20201112043306/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-12T04:33:06Z",
+        "uri": "https://web.archive.org/web/20201112043306/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-17T22:54:31Z",
+        "uri": "http://archive.md/20201117225431/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-17T23:35:12Z",
+        "uri": "https://web.archive.org/web/20201117233512/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-17T23:35:12Z",
+        "uri": "https://web.archive.org/web/20201117233512/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-18T22:59:44Z",
+        "uri": "https://web.archive.org/web/20201118225944/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-18T22:59:45Z",
+        "uri": "https://web.archive.org/web/20201118225945/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-19T08:21:21Z",
+        "uri": "https://web.archive.org/web/20201119082121/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-19T08:21:22Z",
+        "uri": "https://web.archive.org/web/20201119082122/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-19T18:41:11Z",
+        "uri": "https://web.archive.org/web/20201119184111/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-19T18:41:11Z",
+        "uri": "https://web.archive.org/web/20201119184111/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-19T21:27:25Z",
+        "uri": "https://web.archive.org/web/20201119212725/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-19T21:27:25Z",
+        "uri": "https://web.archive.org/web/20201119212725/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-19T22:44:10Z",
+        "uri": "https://web.archive.org/web/20201119224410/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-19T22:44:10Z",
+        "uri": "https://web.archive.org/web/20201119224410/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-20T02:54:47Z",
+        "uri": "https://web.archive.org/web/20201120025447/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-20T02:54:47Z",
+        "uri": "https://web.archive.org/web/20201120025447/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-20T06:45:54Z",
+        "uri": "https://web.archive.org/web/20201120064554/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-20T06:45:55Z",
+        "uri": "https://web.archive.org/web/20201120064555/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-20T10:42:11Z",
+        "uri": "https://web.archive.org/web/20201120104211/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-20T10:42:11Z",
+        "uri": "https://web.archive.org/web/20201120104211/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-20T14:28:53Z",
+        "uri": "https://web.archive.org/web/20201120142853/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-20T14:28:54Z",
+        "uri": "https://web.archive.org/web/20201120142854/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-20T18:58:26Z",
+        "uri": "https://web.archive.org/web/20201120185826/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-20T18:58:27Z",
+        "uri": "https://web.archive.org/web/20201120185827/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-20T22:53:18Z",
+        "uri": "https://web.archive.org/web/20201120225318/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-20T22:53:24Z",
+        "uri": "https://web.archive.org/web/20201120225324/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-21T02:57:14Z",
+        "uri": "https://web.archive.org/web/20201121025714/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-21T02:57:15Z",
+        "uri": "https://web.archive.org/web/20201121025715/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-21T06:45:16Z",
+        "uri": "https://web.archive.org/web/20201121064516/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-21T06:45:16Z",
+        "uri": "https://web.archive.org/web/20201121064516/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-21T10:43:33Z",
+        "uri": "https://web.archive.org/web/20201121104333/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-21T10:43:33Z",
+        "uri": "https://web.archive.org/web/20201121104333/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-21T15:30:03Z",
+        "uri": "https://web.archive.org/web/20201121153003/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-21T15:30:04Z",
+        "uri": "https://web.archive.org/web/20201121153004/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-21T21:50:21Z",
+        "uri": "https://web.archive.org/web/20201121215021/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-21T21:50:21Z",
+        "uri": "https://web.archive.org/web/20201121215021/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-22T15:29:38Z",
+        "uri": "https://web.archive.org/web/20201122152938/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-22T15:29:38Z",
+        "uri": "https://web.archive.org/web/20201122152938/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-22T21:50:22Z",
+        "uri": "https://web.archive.org/web/20201122215022/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-22T21:50:22Z",
+        "uri": "https://web.archive.org/web/20201122215022/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-23T04:17:17Z",
+        "uri": "https://web.archive.org/web/20201123041717/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-23T04:17:17Z",
+        "uri": "https://web.archive.org/web/20201123041717/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-23T09:50:25Z",
+        "uri": "https://web.archive.org/web/20201123095025/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-23T09:50:25Z",
+        "uri": "https://web.archive.org/web/20201123095025/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-23T16:20:02Z",
+        "uri": "https://web.archive.org/web/20201123162002/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-23T16:20:02Z",
+        "uri": "https://web.archive.org/web/20201123162002/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-23T21:50:24Z",
+        "uri": "https://web.archive.org/web/20201123215024/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-23T21:50:24Z",
+        "uri": "https://web.archive.org/web/20201123215024/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-24T04:48:07Z",
+        "uri": "https://web.archive.org/web/20201124044807/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-24T04:48:07Z",
+        "uri": "https://web.archive.org/web/20201124044807/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-24T09:50:28Z",
+        "uri": "https://web.archive.org/web/20201124095028/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-24T09:50:29Z",
+        "uri": "https://web.archive.org/web/20201124095029/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-24T09:50:29Z",
+        "uri": "https://web.archive.org/web/20201124095029/https://www.instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-24T16:47:37Z",
+        "uri": "https://web.archive.org/web/20201124164737/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-24T16:47:38Z",
+        "uri": "https://web.archive.org/web/20201124164738/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-24T21:50:30Z",
+        "uri": "https://web.archive.org/web/20201124215030/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-24T21:50:30Z",
+        "uri": "https://web.archive.org/web/20201124215030/https://instagram.com/creators"
+      },
+      {
+        "datetime": "2020-11-25T05:53:04Z",
+        "uri": "https://web.archive.org/web/20201125055304/http://instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-25T05:53:05Z",
+        "uri": "https://web.archive.org/web/20201125055305/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-25T10:22:50Z",
+        "uri": "https://web.archive.org/web/20201125102250/https://www.instagram.com/creators/"
+      },
+      {
+        "datetime": "2020-11-25T10:22:50Z",
+        "uri": "https://web.archive.org/web/20201125102250/https://instagram.com/creators"
+      }
+    ],
+    "first": {
+      "datetime": "2019-09-30T21:20:34Z",
+      "uri": "https://webarchive.loc.gov/all/20190930212034/https://www.instagram.com/creators/"
+    },
+    "last": {
+      "datetime": "2020-11-25T10:22:50Z",
+      "uri": "https://web.archive.org/web/20201125102250/https://instagram.com/creators"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/creators/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/creators/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/creators/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/creators/"
+}

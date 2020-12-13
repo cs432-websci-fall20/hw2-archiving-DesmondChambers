@@ -1,0 +1,342 @@
+{
+  "original_uri": "https://www.instagram.com/design/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/design/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-11-12T07:42:08Z",
+        "uri": "https://web.archive.org/web/20121112074208/http://instagram.com:80/design"
+      },
+      {
+        "datetime": "2015-03-09T15:19:18Z",
+        "uri": "https://web.archive.org.au/awa/20150309151918mp_/http://instagram.com/designdaily"
+      },
+      {
+        "datetime": "2015-03-16T08:21:22Z",
+        "uri": "https://web.archive.org.au/awa/20150316082122mp_/https://instagram.com/designdaily/"
+      },
+      {
+        "datetime": "2016-03-26T06:41:21Z",
+        "uri": "https://web.archive.org.au/awa/20160326064121mp_/https://instagram.com/designhunter/"
+      },
+      {
+        "datetime": "2016-03-28T15:59:35Z",
+        "uri": "https://web.archive.org.au/awa/20160328155935mp_/http://instagram.com/designers_in_the_city"
+      },
+      {
+        "datetime": "2016-04-02T12:37:49Z",
+        "uri": "https://web.archive.org.au/awa/20160402123749mp_/https://www.instagram.com/designhunter/"
+      },
+      {
+        "datetime": "2016-04-06T14:40:56Z",
+        "uri": "https://web.archive.org.au/awa/20160406144056mp_/http://instagram.com/designergarden"
+      },
+      {
+        "datetime": "2016-04-06T14:40:59Z",
+        "uri": "https://web.archive.org.au/awa/20160406144059mp_/http://instagram.com/designerforum"
+      },
+      {
+        "datetime": "2016-04-06T14:41:12Z",
+        "uri": "https://web.archive.org.au/awa/20160406144112mp_/http://instagram.com/designeropshop/"
+      },
+      {
+        "datetime": "2016-04-06T14:41:15Z",
+        "uri": "https://web.archive.org.au/awa/20160406144115mp_/https://instagram.com/designeropshop/"
+      },
+      {
+        "datetime": "2016-04-06T14:41:19Z",
+        "uri": "https://web.archive.org.au/awa/20160406144119mp_/https://instagram.com/designer.online.store/"
+      },
+      {
+        "datetime": "2016-04-06T14:49:45Z",
+        "uri": "https://web.archive.org.au/awa/20160406144945mp_/https://instagram.com/designtogether/"
+      },
+      {
+        "datetime": "2016-04-07T01:40:06Z",
+        "uri": "https://web.archive.org.au/awa/20160407014006mp_/https://www.instagram.com/designers_in_the_city"
+      },
+      {
+        "datetime": "2017-03-07T14:21:10Z",
+        "uri": "https://web.archive.org.au/awa/20170307142110mp_/http://www.instagram.com/designprecinctbendigo"
+      },
+      {
+        "datetime": "2017-04-04T13:18:29Z",
+        "uri": "https://web.archive.org.au/awa/20170404131829mp_/http://instagram.com/designlibrary"
+      },
+      {
+        "datetime": "2017-04-04T13:18:35Z",
+        "uri": "https://web.archive.org.au/awa/20170404131835mp_/https://instagram.com/designlibrary/"
+      },
+      {
+        "datetime": "2017-04-17T19:12:06Z",
+        "uri": "https://web.archive.org.au/awa/20170417191206mp_/https://www.instagram.com/designedbykarenakers/"
+      },
+      {
+        "datetime": "2018-12-31T12:31:33Z",
+        "uri": "https://web.archive.org/web/20181231123133/http://instagram.com:80/design/"
+      },
+      {
+        "datetime": "2019-03-02T18:14:07Z",
+        "uri": "https://web.archive.org/web/20190302181407/http://instagram.com:80/design/"
+      },
+      {
+        "datetime": "2019-05-03T03:25:54Z",
+        "uri": "https://web.archive.org/web/20190503032554/http://instagram.com:80/design/"
+      },
+      {
+        "datetime": "2019-07-03T07:45:59Z",
+        "uri": "https://web.archive.org/web/20190703074559/http://instagram.com:80/design/"
+      },
+      {
+        "datetime": "2019-09-01T20:02:24Z",
+        "uri": "https://web.archive.org/web/20190901200224/http://instagram.com:80/design/"
+      },
+      {
+        "datetime": "2019-10-25T10:00:28Z",
+        "uri": "https://web.archive.org/web/20191025100028/http://instagram.com:80/design"
+      },
+      {
+        "datetime": "2019-11-01T20:39:57Z",
+        "uri": "https://web.archive.org/web/20191101203957/http://instagram.com:80/design/"
+      },
+      {
+        "datetime": "2019-12-25T08:46:42Z",
+        "uri": "https://web.archive.org/web/20191225084642/http://instagram.com:80/design"
+      },
+      {
+        "datetime": "2020-02-03T03:24:29Z",
+        "uri": "https://web.archive.org/web/20200203032429/http://instagram.com:80/design/"
+      },
+      {
+        "datetime": "2020-02-25T00:20:08Z",
+        "uri": "https://web.archive.org/web/20200225002008/http://instagram.com:80/design"
+      },
+      {
+        "datetime": "2020-03-02T08:25:01Z",
+        "uri": "https://web.archive.org/web/20200302082501/http://instagram.com:80/design/"
+      },
+      {
+        "datetime": "2020-03-07T13:57:52Z",
+        "uri": "https://web.archive.org/web/20200307135752/http://instagram.com/design"
+      },
+      {
+        "datetime": "2020-03-07T13:57:53Z",
+        "uri": "https://web.archive.org/web/20200307135753/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-03-07T13:57:53Z",
+        "uri": "https://web.archive.org/web/20200307135753/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-03-07T14:13:17Z",
+        "uri": "https://web.archive.org/web/20200307141317/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-03-13T11:09:15Z",
+        "uri": "https://web.archive.org.au/awa/20200313110915mp_/https://www.instagram.com/designersguild/"
+      },
+      {
+        "datetime": "2020-05-01T18:42:27Z",
+        "uri": "https://web.archive.org/web/20200501184227/http://instagram.com:80/design/"
+      },
+      {
+        "datetime": "2020-06-07T11:50:15Z",
+        "uri": "https://web.archive.org/web/20200607115015/http://instagram.com:80/design"
+      },
+      {
+        "datetime": "2020-11-01T07:34:24Z",
+        "uri": "https://web.archive.org/web/20201101073424/http://instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-01T07:34:25Z",
+        "uri": "https://web.archive.org/web/20201101073425/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-01T18:20:52Z",
+        "uri": "https://web.archive.org/web/20201101182052/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-01T18:20:52Z",
+        "uri": "https://web.archive.org/web/20201101182052/http://instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-01T19:41:11Z",
+        "uri": "https://web.archive.org/web/20201101194111/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-01T19:41:11Z",
+        "uri": "https://web.archive.org/web/20201101194111/http://instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-01T21:14:25Z",
+        "uri": "https://web.archive.org/web/20201101211425/http://instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-01T21:14:26Z",
+        "uri": "https://web.archive.org/web/20201101211426/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-01T21:14:26Z",
+        "uri": "https://web.archive.org/web/20201101211426/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-01T23:48:17Z",
+        "uri": "https://web.archive.org/web/20201101234817/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-01T23:48:17Z",
+        "uri": "https://web.archive.org/web/20201101234817/http://instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-02T07:31:58Z",
+        "uri": "https://web.archive.org/web/20201102073158/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-02T07:31:58Z",
+        "uri": "https://web.archive.org/web/20201102073158/http://instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-12T02:56:21Z",
+        "uri": "https://web.archive.org/web/20201112025621/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-12T02:56:21Z",
+        "uri": "https://web.archive.org/web/20201112025621/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-12T04:51:01Z",
+        "uri": "https://web.archive.org/web/20201112045101/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-12T04:51:01Z",
+        "uri": "https://web.archive.org/web/20201112045101/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-14T19:55:32Z",
+        "uri": "https://web.archive.org/web/20201114195532/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-14T19:55:33Z",
+        "uri": "https://web.archive.org/web/20201114195533/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-18T00:56:24Z",
+        "uri": "https://web.archive.org/web/20201118005624/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-18T00:56:24Z",
+        "uri": "https://web.archive.org/web/20201118005624/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-19T08:39:06Z",
+        "uri": "https://web.archive.org/web/20201119083906/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-19T08:39:06Z",
+        "uri": "https://web.archive.org/web/20201119083906/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-19T18:56:50Z",
+        "uri": "https://web.archive.org/web/20201119185650/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-19T18:56:50Z",
+        "uri": "https://web.archive.org/web/20201119185650/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-20T10:56:11Z",
+        "uri": "https://web.archive.org/web/20201120105611/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-20T10:56:12Z",
+        "uri": "https://web.archive.org/web/20201120105612/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-20T19:12:21Z",
+        "uri": "https://web.archive.org/web/20201120191221/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-20T19:12:21Z",
+        "uri": "https://web.archive.org/web/20201120191221/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-21T03:12:02Z",
+        "uri": "https://web.archive.org/web/20201121031202/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-21T03:12:02Z",
+        "uri": "https://web.archive.org/web/20201121031202/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-21T10:57:59Z",
+        "uri": "https://web.archive.org/web/20201121105759/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-21T10:57:59Z",
+        "uri": "https://web.archive.org/web/20201121105759/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-21T22:14:11Z",
+        "uri": "https://web.archive.org/web/20201121221411/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-21T22:14:11Z",
+        "uri": "https://web.archive.org/web/20201121221411/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-22T22:14:09Z",
+        "uri": "https://web.archive.org/web/20201122221409/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-22T22:14:09Z",
+        "uri": "https://web.archive.org/web/20201122221409/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-23T10:14:14Z",
+        "uri": "https://web.archive.org/web/20201123101414/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-23T10:14:14Z",
+        "uri": "https://web.archive.org/web/20201123101414/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-23T22:14:13Z",
+        "uri": "https://web.archive.org/web/20201123221413/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-23T22:14:13Z",
+        "uri": "https://web.archive.org/web/20201123221413/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-24T10:14:12Z",
+        "uri": "https://web.archive.org/web/20201124101412/https://www.instagram.com/design"
+      },
+      {
+        "datetime": "2020-11-24T10:14:13Z",
+        "uri": "https://web.archive.org/web/20201124101413/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-24T22:14:13Z",
+        "uri": "https://web.archive.org/web/20201124221413/https://www.instagram.com/design/"
+      },
+      {
+        "datetime": "2020-11-24T22:14:13Z",
+        "uri": "https://web.archive.org/web/20201124221413/https://www.instagram.com/design"
+      }
+    ],
+    "first": {
+      "datetime": "2012-11-12T07:42:08Z",
+      "uri": "https://web.archive.org/web/20121112074208/http://instagram.com:80/design"
+    },
+    "last": {
+      "datetime": "2020-11-24T22:14:13Z",
+      "uri": "https://web.archive.org/web/20201124221413/https://www.instagram.com/design"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/design/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/design/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/design/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/design/"
+}

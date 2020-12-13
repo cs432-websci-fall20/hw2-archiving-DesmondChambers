@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://www.instagram.com/stories/instagram/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/stories/instagram/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-06-12T13:54:10Z",
+        "uri": "https://web.archive.org/web/20190612135410/https://www.instagram.com/stories/instagram/"
+      },
+      {
+        "datetime": "2020-03-07T13:54:58Z",
+        "uri": "https://web.archive.org/web/20200307135458/http://www.instagram.com/stories/instagram"
+      },
+      {
+        "datetime": "2020-03-07T13:54:59Z",
+        "uri": "https://web.archive.org/web/20200307135459/https://www.instagram.com/stories/instagram/"
+      },
+      {
+        "datetime": "2020-03-07T13:54:59Z",
+        "uri": "https://web.archive.org/web/20200307135459/https://www.instagram.com/stories/instagram"
+      },
+      {
+        "datetime": "2020-03-07T13:55:20Z",
+        "uri": "https://web.archive.org/web/20200307135520/https://www.instagram.com/stories/instagram/"
+      },
+      {
+        "datetime": "2020-03-07T13:58:24Z",
+        "uri": "https://web.archive.org/web/20200307135824/http://instagram.com/stories/instagram"
+      },
+      {
+        "datetime": "2020-03-07T13:58:25Z",
+        "uri": "https://web.archive.org/web/20200307135825/https://www.instagram.com/stories/instagram/"
+      },
+      {
+        "datetime": "2020-03-07T13:58:25Z",
+        "uri": "https://web.archive.org/web/20200307135825/https://instagram.com/stories/instagram"
+      },
+      {
+        "datetime": "2020-03-07T13:59:43Z",
+        "uri": "https://web.archive.org/web/20200307135943/https://www.instagram.com/stories/instagram/"
+      },
+      {
+        "datetime": "2020-03-07T13:59:43Z",
+        "uri": "https://web.archive.org/web/20200307135943/https://www.instagram.com/stories/instagram"
+      },
+      {
+        "datetime": "2020-11-01T08:42:48Z",
+        "uri": "https://web.archive.org/web/20201101084248/https://www.instagram.com/stories/instagram/"
+      },
+      {
+        "datetime": "2020-11-01T10:08:41Z",
+        "uri": "https://web.archive.org/web/20201101100841/https://www.instagram.com/stories/instagram/"
+      },
+      {
+        "datetime": "2020-11-01T10:08:41Z",
+        "uri": "https://web.archive.org/web/20201101100841/http://www.instagram.com/stories/instagram"
+      },
+      {
+        "datetime": "2020-12-03T20:00:54Z",
+        "uri": "https://web.archive.org/web/20201203200054/https://instagram.com/stories/instagram/"
+      },
+      {
+        "datetime": "2020-12-03T20:00:55Z",
+        "uri": "https://web.archive.org/web/20201203200055/https://www.instagram.com/stories/instagram/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-06-12T13:54:10Z",
+      "uri": "https://web.archive.org/web/20190612135410/https://www.instagram.com/stories/instagram/"
+    },
+    "last": {
+      "datetime": "2020-12-03T20:00:55Z",
+      "uri": "https://web.archive.org/web/20201203200055/https://www.instagram.com/stories/instagram/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/stories/instagram/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/stories/instagram/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/stories/instagram/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/stories/instagram/"
+}

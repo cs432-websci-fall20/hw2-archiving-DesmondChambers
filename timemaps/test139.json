@@ -1,0 +1,78 @@
+{
+  "original_uri": "https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/",
+  "self": "http://localhost:1208/timemap/json/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T02:30:44Z",
+        "uri": "https://wayback.archive-it.org/all/20201006023044/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-06T04:17:13Z",
+        "uri": "http://archive.md/20201006041713/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-07T03:23:30Z",
+        "uri": "https://web.archive.org/web/20201007032330/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-07T05:53:05Z",
+        "uri": "https://web.archive.org/web/20201007055305/http://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-07T07:15:26Z",
+        "uri": "https://web.archive.org/web/20201007071526/http://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-07T08:02:51Z",
+        "uri": "https://web.archive.org/web/20201007080251/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-07T15:52:51Z",
+        "uri": "https://web.archive.org/web/20201007155251/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-07T17:11:13Z",
+        "uri": "https://web.archive.org/web/20201007171113/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-07T19:42:30Z",
+        "uri": "https://wayback.archive-it.org/all/20201007194230/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-08T04:48:27Z",
+        "uri": "https://wayback.archive-it.org/all/20201008044827/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-12T04:18:14Z",
+        "uri": "https://web.archive.org/web/20201012041814/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-10-22T00:29:45Z",
+        "uri": "https://web.archive.org/web/20201022002945/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-11-01T11:38:40Z",
+        "uri": "https://web.archive.org/web/20201101113840/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      },
+      {
+        "datetime": "2020-12-04T16:43:06Z",
+        "uri": "https://web.archive.org/web/20201204164306/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T02:30:44Z",
+      "uri": "https://wayback.archive-it.org/all/20201006023044/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+    },
+    "last": {
+      "datetime": "2020-12-04T16:43:06Z",
+      "uri": "https://web.archive.org/web/20201204164306/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/",
+    "json_format": "http://localhost:1208/timemap/json/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://fivethirtyeight.com/features/trump-is-giving-dangerous-advice-being-afraid-of-covid-19-has-helped-us-control-covid-19/"
+}

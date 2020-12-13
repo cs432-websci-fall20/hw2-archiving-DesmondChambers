@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://about.instagram.com/find-more-to-heart?ref=twitter",
+  "self": "http://localhost:1208/timemap/json/https://about.instagram.com/find-more-to-heart?ref=twitter",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-06T14:43:02Z",
+        "uri": "https://web.archive.org/web/20200606144302/http://about.instagram.com/find-more-to-heart?ref=twitter"
+      },
+      {
+        "datetime": "2020-06-19T02:19:09Z",
+        "uri": "https://web.archive.org/web/20200619021909/https://about.instagram.com/find-more-to-heart?ref=twitter"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-06T14:43:02Z",
+      "uri": "https://web.archive.org/web/20200606144302/http://about.instagram.com/find-more-to-heart?ref=twitter"
+    },
+    "last": {
+      "datetime": "2020-06-19T02:19:09Z",
+      "uri": "https://web.archive.org/web/20200619021909/https://about.instagram.com/find-more-to-heart?ref=twitter"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://about.instagram.com/find-more-to-heart?ref=twitter",
+    "json_format": "http://localhost:1208/timemap/json/https://about.instagram.com/find-more-to-heart?ref=twitter",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://about.instagram.com/find-more-to-heart?ref=twitter"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://about.instagram.com/find-more-to-heart?ref=twitter"
+}

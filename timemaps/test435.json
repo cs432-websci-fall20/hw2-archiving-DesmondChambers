@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-18T07:55:04Z",
+        "uri": "https://web.archive.org/web/20200918075504/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-09-18T20:05:42Z",
+        "uri": "https://web.archive.org/web/20200918200542/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-09-18T21:52:28Z",
+        "uri": "https://web.archive.org/web/20200918215228/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-09-19T18:11:41Z",
+        "uri": "https://web.archive.org/web/20200919181141/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-09-19T22:37:27Z",
+        "uri": "https://web.archive.org/web/20200919223727/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-09-20T13:29:53Z",
+        "uri": "https://web.archive.org/web/20200920132953/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-09-20T17:07:23Z",
+        "uri": "https://web.archive.org/web/20200920170723/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-09-22T18:35:21Z",
+        "uri": "https://web.archive.org/web/20200922183521/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-09-22T20:42:25Z",
+        "uri": "https://web.archive.org/web/20200922204225/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-09-29T06:07:19Z",
+        "uri": "https://web.archive.org/web/20200929060719/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-10-02T15:30:22Z",
+        "uri": "https://web.archive.org/web/20201002153022/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-10-04T06:10:30Z",
+        "uri": "https://web.archive.org/web/20201004061030/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-10-06T03:47:11Z",
+        "uri": "https://web.archive.org/web/20201006034711/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-10-31T22:50:54Z",
+        "uri": "https://web.archive.org/web/20201031225054/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      },
+      {
+        "datetime": "2020-12-07T02:15:48Z",
+        "uri": "https://web.archive.org/web/20201207021548/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-18T07:55:04Z",
+      "uri": "https://web.archive.org/web/20200918075504/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+    },
+    "last": {
+      "datetime": "2020-12-07T02:15:48Z",
+      "uri": "https://web.archive.org/web/20201207021548/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/h_2e2f271cc29816352e45c39c79fef5ba"
+}

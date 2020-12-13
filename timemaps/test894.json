@@ -1,0 +1,174 @@
+{
+  "original_uri": "https://www.instagram.com/whatdogyouare/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/whatdogyouare/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-11T05:22:32Z",
+        "uri": "https://web.archive.org/web/20201111052232/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-11T05:22:32Z",
+        "uri": "https://web.archive.org/web/20201111052232/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-11T11:37:42Z",
+        "uri": "https://web.archive.org/web/20201111113742/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-11T11:37:42Z",
+        "uri": "https://web.archive.org/web/20201111113742/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-14T12:25:38Z",
+        "uri": "https://web.archive.org/web/20201114122538/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-14T12:25:38Z",
+        "uri": "https://web.archive.org/web/20201114122538/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-17T23:46:22Z",
+        "uri": "https://web.archive.org/web/20201117234622/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-17T23:46:22Z",
+        "uri": "https://web.archive.org/web/20201117234622/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-18T23:03:26Z",
+        "uri": "https://web.archive.org/web/20201118230326/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-18T23:03:26Z",
+        "uri": "https://web.archive.org/web/20201118230326/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-19T08:23:47Z",
+        "uri": "https://web.archive.org/web/20201119082347/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-19T08:23:47Z",
+        "uri": "https://web.archive.org/web/20201119082347/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-19T18:43:55Z",
+        "uri": "https://web.archive.org/web/20201119184355/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-19T18:43:55Z",
+        "uri": "https://web.archive.org/web/20201119184355/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-20T02:57:17Z",
+        "uri": "https://web.archive.org/web/20201120025717/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-20T02:57:17Z",
+        "uri": "https://web.archive.org/web/20201120025717/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-20T10:45:46Z",
+        "uri": "https://web.archive.org/web/20201120104546/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-20T10:45:47Z",
+        "uri": "https://web.archive.org/web/20201120104547/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-20T19:00:49Z",
+        "uri": "https://web.archive.org/web/20201120190049/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-20T19:00:49Z",
+        "uri": "https://web.archive.org/web/20201120190049/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-21T02:59:21Z",
+        "uri": "https://web.archive.org/web/20201121025921/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-21T02:59:21Z",
+        "uri": "https://web.archive.org/web/20201121025921/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-21T10:45:36Z",
+        "uri": "https://web.archive.org/web/20201121104536/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-21T10:45:36Z",
+        "uri": "https://web.archive.org/web/20201121104536/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-21T21:53:52Z",
+        "uri": "https://web.archive.org/web/20201121215352/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-21T21:53:52Z",
+        "uri": "https://web.archive.org/web/20201121215352/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-22T21:53:47Z",
+        "uri": "https://web.archive.org/web/20201122215347/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-22T21:53:47Z",
+        "uri": "https://web.archive.org/web/20201122215347/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-23T09:53:49Z",
+        "uri": "https://web.archive.org/web/20201123095349/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-23T09:53:50Z",
+        "uri": "https://web.archive.org/web/20201123095350/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-23T21:53:56Z",
+        "uri": "https://web.archive.org/web/20201123215356/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-23T21:53:56Z",
+        "uri": "https://web.archive.org/web/20201123215356/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-24T09:53:51Z",
+        "uri": "https://web.archive.org/web/20201124095351/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-24T09:53:51Z",
+        "uri": "https://web.archive.org/web/20201124095351/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-24T21:53:53Z",
+        "uri": "https://web.archive.org/web/20201124215353/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-24T21:53:53Z",
+        "uri": "https://web.archive.org/web/20201124215353/http://www.instagram.com/whatdogyouare"
+      },
+      {
+        "datetime": "2020-11-25T10:25:12Z",
+        "uri": "https://web.archive.org/web/20201125102512/https://www.instagram.com/whatdogyouare/"
+      },
+      {
+        "datetime": "2020-11-25T10:25:12Z",
+        "uri": "https://web.archive.org/web/20201125102512/http://www.instagram.com/whatdogyouare"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-11T05:22:32Z",
+      "uri": "https://web.archive.org/web/20201111052232/https://www.instagram.com/whatdogyouare/"
+    },
+    "last": {
+      "datetime": "2020-11-25T10:25:12Z",
+      "uri": "https://web.archive.org/web/20201125102512/http://www.instagram.com/whatdogyouare"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/whatdogyouare/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/whatdogyouare/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/whatdogyouare/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/whatdogyouare/"
+}

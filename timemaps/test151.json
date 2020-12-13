@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945",
+  "self": "http://localhost:1208/timemap/json/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-10T19:41:36Z",
+        "uri": "https://web.archive.org/web/20200610194136/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945"
+      },
+      {
+        "datetime": "2020-06-15T21:10:44Z",
+        "uri": "https://web.archive.org/web/20200615211044/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945"
+      },
+      {
+        "datetime": "2020-09-25T20:46:56Z",
+        "uri": "https://web.archive.org/web/20200925204656/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945"
+      },
+      {
+        "datetime": "2020-11-15T01:29:44Z",
+        "uri": "https://web.archive.org/web/20201115012944/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-10T19:41:36Z",
+      "uri": "https://web.archive.org/web/20200610194136/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945"
+    },
+    "last": {
+      "datetime": "2020-11-15T01:29:44Z",
+      "uri": "https://web.archive.org/web/20201115012944/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945",
+    "json_format": "http://localhost:1208/timemap/json/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://theglowup.theroot.com/celebrities-activists-sports-stars-and-more-to-partic-1843965945"
+}

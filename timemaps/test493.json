@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn",
+  "self": "http://localhost:1208/timemap/json/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-31T09:09:55Z",
+        "uri": "https://web.archive.org/web/20201031090955/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-10-31T11:04:19Z",
+        "uri": "https://web.archive.org/web/20201031110419/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-01T01:04:01Z",
+        "uri": "https://web.archive.org/web/20201101010401/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-01T02:14:30Z",
+        "uri": "https://web.archive.org/web/20201101021430/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-01T03:46:14Z",
+        "uri": "https://web.archive.org/web/20201101034614/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-01T07:00:33Z",
+        "uri": "https://web.archive.org/web/20201101070033/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-01T08:05:06Z",
+        "uri": "https://web.archive.org/web/20201101080506/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-01T12:53:37Z",
+        "uri": "https://web.archive.org/web/20201101125337/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-01T13:29:51Z",
+        "uri": "https://web.archive.org/web/20201101132951/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-31T09:09:55Z",
+      "uri": "https://web.archive.org/web/20201031090955/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+    },
+    "last": {
+      "datetime": "2020-11-01T13:29:51Z",
+      "uri": "https://web.archive.org/web/20201101132951/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn",
+    "json_format": "http://localhost:1208/timemap/json/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.goodmorningamerica.com/food/story/hunger-nonpartisan-initiatives-helping-fight-food-insecurity-polling-73473878?cid=social_twitter_abcn"
+}

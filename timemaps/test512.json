@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.instagram.com/hectorlevrai/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/hectorlevrai/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-09-03T19:16:21Z",
+        "uri": "https://web.archive.org/web/20170903191621/https://www.instagram.com/hectorlevrai/"
+      },
+      {
+        "datetime": "2017-09-03T19:26:25Z",
+        "uri": "https://web.archive.org/web/20170903192625/https://www.instagram.com/hectorlevrai/"
+      },
+      {
+        "datetime": "2017-09-03T19:36:31Z",
+        "uri": "https://web.archive.org/web/20170903193631/https://www.instagram.com/hectorlevrai/"
+      },
+      {
+        "datetime": "2017-09-03T19:46:34Z",
+        "uri": "https://web.archive.org/web/20170903194634/https://www.instagram.com/hectorlevrai/"
+      },
+      {
+        "datetime": "2017-09-03T19:56:42Z",
+        "uri": "https://web.archive.org/web/20170903195642/https://www.instagram.com/hectorlevrai/"
+      },
+      {
+        "datetime": "2017-09-03T20:06:48Z",
+        "uri": "https://web.archive.org/web/20170903200648/https://www.instagram.com/hectorlevrai/"
+      },
+      {
+        "datetime": "2017-09-03T20:16:53Z",
+        "uri": "https://web.archive.org/web/20170903201653/https://www.instagram.com/hectorlevrai/"
+      },
+      {
+        "datetime": "2017-09-03T20:26:54Z",
+        "uri": "https://web.archive.org/web/20170903202654/https://www.instagram.com/hectorlevrai/"
+      },
+      {
+        "datetime": "2017-09-03T20:36:55Z",
+        "uri": "https://web.archive.org/web/20170903203655/https://www.instagram.com/hectorlevrai/"
+      },
+      {
+        "datetime": "2017-09-03T20:46:57Z",
+        "uri": "https://web.archive.org/web/20170903204657/https://www.instagram.com/hectorlevrai/"
+      },
+      {
+        "datetime": "2020-03-07T13:59:25Z",
+        "uri": "https://web.archive.org/web/20200307135925/https://www.instagram.com/hectorlevrai/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-09-03T19:16:21Z",
+      "uri": "https://web.archive.org/web/20170903191621/https://www.instagram.com/hectorlevrai/"
+    },
+    "last": {
+      "datetime": "2020-03-07T13:59:25Z",
+      "uri": "https://web.archive.org/web/20200307135925/https://www.instagram.com/hectorlevrai/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/hectorlevrai/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/hectorlevrai/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/hectorlevrai/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/hectorlevrai/"
+}

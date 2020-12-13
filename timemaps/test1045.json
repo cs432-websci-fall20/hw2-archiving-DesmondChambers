@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.wsj.com/articles/subways-bread-is-too-sugary-to-be-real-bread-irish-court-finds-11601586131?mod=e2tw",
+  "self": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/subways-bread-is-too-sugary-to-be-real-bread-irish-court-finds-11601586131?mod=e2tw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-13T18:36:46Z",
+        "uri": "https://web.archive.org/web/20201113183646/https://www.wsj.com/articles/subways-bread-is-too-sugary-to-be-real-bread-irish-court-finds-11601586131?mod=e2tw"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-13T18:36:46Z",
+      "uri": "https://web.archive.org/web/20201113183646/https://www.wsj.com/articles/subways-bread-is-too-sugary-to-be-real-bread-irish-court-finds-11601586131?mod=e2tw"
+    },
+    "last": {
+      "datetime": "2020-11-13T18:36:46Z",
+      "uri": "https://web.archive.org/web/20201113183646/https://www.wsj.com/articles/subways-bread-is-too-sugary-to-be-real-bread-irish-court-finds-11601586131?mod=e2tw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wsj.com/articles/subways-bread-is-too-sugary-to-be-real-bread-irish-court-finds-11601586131?mod=e2tw",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/subways-bread-is-too-sugary-to-be-real-bread-irish-court-finds-11601586131?mod=e2tw",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wsj.com/articles/subways-bread-is-too-sugary-to-be-real-bread-irish-court-finds-11601586131?mod=e2tw"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wsj.com/articles/subways-bread-is-too-sugary-to-be-real-bread-irish-court-finds-11601586131?mod=e2tw"
+}

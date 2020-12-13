@@ -1,0 +1,202 @@
+{
+  "original_uri": "https://www.theverge.com/21250695/best-laptops",
+  "self": "http://localhost:1208/timemap/json/https://www.theverge.com/21250695/best-laptops",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-08T19:25:17Z",
+        "uri": "https://web.archive.org/web/20200508192517/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-05-09T12:45:04Z",
+        "uri": "http://archive.md/20200509124504/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-05-13T07:22:56Z",
+        "uri": "https://web.archive.org/web/20200513072256/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-05-16T19:52:55Z",
+        "uri": "https://web.archive.org/web/20200516195255/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-05-27T07:12:46Z",
+        "uri": "https://web.archive.org/web/20200527071246/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-06-01T21:57:08Z",
+        "uri": "https://web.archive.org/web/20200601215708/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-06-02T09:22:34Z",
+        "uri": "https://web.archive.org/web/20200602092234/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-06-04T08:38:21Z",
+        "uri": "https://web.archive.org/web/20200604083821/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-06-10T18:26:04Z",
+        "uri": "https://web.archive.org/web/20200610182604/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-06-15T12:43:50Z",
+        "uri": "https://web.archive.org/web/20200615124350/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-06-22T03:18:02Z",
+        "uri": "https://web.archive.org/web/20200622031802/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-06-23T18:06:50Z",
+        "uri": "https://web.archive.org/web/20200623180650/https://www.theverge.com/21250695/best-laptops/"
+      },
+      {
+        "datetime": "2020-06-23T20:25:28Z",
+        "uri": "https://web.archive.org/web/20200623202528/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-06-29T17:16:32Z",
+        "uri": "https://web.archive.org/web/20200629171632/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-06-29T20:36:11Z",
+        "uri": "https://web.archive.org/web/20200629203611/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-07-30T20:35:04Z",
+        "uri": "https://web.archive.org/web/20200730203504/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-08-03T18:00:52Z",
+        "uri": "https://web.archive.org/web/20200803180052/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-08-06T08:30:49Z",
+        "uri": "https://wayback.archive-it.org/all/20200806083049/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-08-06T08:30:49Z",
+        "uri": "https://web.archive.org/web/20200806083049/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-08-21T12:23:32Z",
+        "uri": "https://web.archive.org/web/20200821122332/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-08-21T12:23:36Z",
+        "uri": "https://web.archive.org/web/20200821122336/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-08-22T08:11:10Z",
+        "uri": "https://web.archive.org/web/20200822081110/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-08-27T21:19:24Z",
+        "uri": "https://web.archive.org/web/20200827211924/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-09-03T11:33:03Z",
+        "uri": "https://wayback.archive-it.org/all/20200903113303/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-09-03T11:33:03Z",
+        "uri": "https://web.archive.org/web/20200903113303/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-09-28T04:39:45Z",
+        "uri": "https://web.archive.org/web/20200928043945/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-10-01T20:11:21Z",
+        "uri": "https://web.archive.org/web/20201001201121/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-10-03T12:14:09Z",
+        "uri": "https://web.archive.org/web/20201003121409/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-10-04T04:21:53Z",
+        "uri": "https://web.archive.org/web/20201004042153/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-10-11T08:43:17Z",
+        "uri": "https://web.archive.org/web/20201011084317/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-10-17T16:29:36Z",
+        "uri": "https://web.archive.org/web/20201017162936/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-10-29T00:48:44Z",
+        "uri": "https://web.archive.org/web/20201029004844/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-10-29T00:48:47Z",
+        "uri": "https://web.archive.org/web/20201029004847/https://www.theverge.com/21250695/best-laptops/"
+      },
+      {
+        "datetime": "2020-10-31T05:24:49Z",
+        "uri": "https://web.archive.org/web/20201031052449/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-01T01:29:52Z",
+        "uri": "https://web.archive.org/web/20201101012952/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-01T06:52:12Z",
+        "uri": "https://web.archive.org/web/20201101065212/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-01T22:40:15Z",
+        "uri": "https://web.archive.org/web/20201101224015/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-03T18:44:56Z",
+        "uri": "https://web.archive.org/web/20201103184456/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-07T23:19:23Z",
+        "uri": "https://web.archive.org/web/20201107231923/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-08T10:33:41Z",
+        "uri": "https://web.archive.org/web/20201108103341/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-19T02:25:20Z",
+        "uri": "https://web.archive.org/web/20201119022520/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-25T21:22:35Z",
+        "uri": "https://web.archive.org/web/20201125212235/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-26T02:57:56Z",
+        "uri": "https://wayback.archive-it.org/all/20201126025756/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-28T02:45:58Z",
+        "uri": "https://web.archive.org/web/20201128024558/https://www.theverge.com/21250695/best-laptops"
+      },
+      {
+        "datetime": "2020-11-28T16:26:39Z",
+        "uri": "https://web.archive.org/web/20201128162639/https://www.theverge.com/21250695/best-laptops"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-08T19:25:17Z",
+      "uri": "https://web.archive.org/web/20200508192517/https://www.theverge.com/21250695/best-laptops"
+    },
+    "last": {
+      "datetime": "2020-11-28T16:26:39Z",
+      "uri": "https://web.archive.org/web/20201128162639/https://www.theverge.com/21250695/best-laptops"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.theverge.com/21250695/best-laptops",
+    "json_format": "http://localhost:1208/timemap/json/https://www.theverge.com/21250695/best-laptops",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.theverge.com/21250695/best-laptops"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.theverge.com/21250695/best-laptops"
+}

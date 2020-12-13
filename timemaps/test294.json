@@ -1,0 +1,402 @@
+{
+  "original_uri": "https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-03T17:51:47Z",
+        "uri": "https://web.archive.org/web/20200903175147/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-03T20:03:42Z",
+        "uri": "https://web.archive.org/web/20200903200342/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-03T21:16:43Z",
+        "uri": "https://web.archive.org/web/20200903211643/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-03T21:37:59Z",
+        "uri": "https://web.archive.org/web/20200903213759/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-03T23:43:23Z",
+        "uri": "https://web.archive.org/web/20200903234323/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-04T00:18:32Z",
+        "uri": "https://web.archive.org/web/20200904001832/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-04T03:10:56Z",
+        "uri": "https://web.archive.org/web/20200904031056/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-04T07:25:31Z",
+        "uri": "https://web.archive.org/web/20200904072531/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-04T12:00:38Z",
+        "uri": "https://web.archive.org/web/20200904120038/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-04T12:28:32Z",
+        "uri": "https://web.archive.org/web/20200904122832/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-04T16:18:22Z",
+        "uri": "https://web.archive.org/web/20200904161822/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-04T22:46:13Z",
+        "uri": "https://web.archive.org/web/20200904224613/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-04T22:46:13Z",
+        "uri": "https://web.archive.org/web/20200904224613/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-05T02:49:02Z",
+        "uri": "https://web.archive.org/web/20200905024902/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-05T05:43:40Z",
+        "uri": "https://web.archive.org/web/20200905054340/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-05T05:43:41Z",
+        "uri": "https://web.archive.org/web/20200905054341/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-06T00:59:56Z",
+        "uri": "https://web.archive.org/web/20200906005956/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-06T00:59:57Z",
+        "uri": "https://web.archive.org/web/20200906005957/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-06T01:35:06Z",
+        "uri": "https://web.archive.org/web/20200906013506/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-07T01:02:39Z",
+        "uri": "https://web.archive.org/web/20200907010239/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-07T02:22:13Z",
+        "uri": "https://web.archive.org/web/20200907022213/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-07T02:22:14Z",
+        "uri": "https://web.archive.org/web/20200907022214/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-08T02:40:33Z",
+        "uri": "https://web.archive.org/web/20200908024033/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-08T02:46:39Z",
+        "uri": "https://web.archive.org/web/20200908024639/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-08T02:46:40Z",
+        "uri": "https://web.archive.org/web/20200908024640/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-09T03:18:19Z",
+        "uri": "https://web.archive.org/web/20200909031819/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-09T03:34:25Z",
+        "uri": "https://web.archive.org/web/20200909033425/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-09T03:34:26Z",
+        "uri": "https://web.archive.org/web/20200909033426/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-10T03:44:14Z",
+        "uri": "https://web.archive.org/web/20200910034414/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-10T21:52:37Z",
+        "uri": "https://web.archive.org/web/20200910215237/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-10T21:52:38Z",
+        "uri": "https://web.archive.org/web/20200910215238/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-11T22:00:31Z",
+        "uri": "https://web.archive.org/web/20200911220031/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-11T22:00:31Z",
+        "uri": "https://web.archive.org/web/20200911220031/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-12T11:09:03Z",
+        "uri": "https://web.archive.org/web/20200912110903/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-13T11:40:47Z",
+        "uri": "https://web.archive.org/web/20200913114047/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-14T11:57:03Z",
+        "uri": "https://web.archive.org/web/20200914115703/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-14T16:04:19Z",
+        "uri": "https://web.archive.org/web/20200914160419/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-16T20:12:33Z",
+        "uri": "https://web.archive.org/web/20200916201233/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-17T02:13:25Z",
+        "uri": "https://web.archive.org/web/20200917021325/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-19T17:01:18Z",
+        "uri": "https://web.archive.org/web/20200919170118/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-20T02:49:43Z",
+        "uri": "https://web.archive.org/web/20200920024943/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-20T02:49:44Z",
+        "uri": "https://web.archive.org/web/20200920024944/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-22T10:00:24Z",
+        "uri": "https://web.archive.org/web/20200922100024/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-22T10:00:25Z",
+        "uri": "https://web.archive.org/web/20200922100025/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-23T20:00:23Z",
+        "uri": "https://web.archive.org/web/20200923200023/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-23T20:00:24Z",
+        "uri": "https://web.archive.org/web/20200923200024/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-24T16:40:58Z",
+        "uri": "https://web.archive.org/web/20200924164058/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-24T16:40:59Z",
+        "uri": "https://web.archive.org/web/20200924164059/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-26T23:37:00Z",
+        "uri": "https://web.archive.org/web/20200926233700/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-26T23:37:01Z",
+        "uri": "https://web.archive.org/web/20200926233701/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-28T00:35:38Z",
+        "uri": "https://web.archive.org/web/20200928003538/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-28T00:35:39Z",
+        "uri": "https://web.archive.org/web/20200928003539/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-29T21:21:31Z",
+        "uri": "https://web.archive.org/web/20200929212131/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-29T22:22:51Z",
+        "uri": "https://web.archive.org/web/20200929222251/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-29T22:22:51Z",
+        "uri": "https://web.archive.org/web/20200929222251/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-30T22:40:11Z",
+        "uri": "https://web.archive.org/web/20200930224011/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-09-30T22:40:12Z",
+        "uri": "https://web.archive.org/web/20200930224012/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-03T03:13:40Z",
+        "uri": "https://web.archive.org/web/20201003031340/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-03T03:13:41Z",
+        "uri": "https://web.archive.org/web/20201003031341/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-04T00:55:21Z",
+        "uri": "https://web.archive.org/web/20201004005521/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-04T00:55:22Z",
+        "uri": "https://web.archive.org/web/20201004005522/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-05T02:06:40Z",
+        "uri": "https://web.archive.org/web/20201005020640/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-05T02:06:41Z",
+        "uri": "https://web.archive.org/web/20201005020641/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-06T03:38:11Z",
+        "uri": "https://web.archive.org/web/20201006033811/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-06T03:38:12Z",
+        "uri": "https://web.archive.org/web/20201006033812/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-07T09:33:35Z",
+        "uri": "https://web.archive.org/web/20201007093335/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-07T09:33:36Z",
+        "uri": "https://web.archive.org/web/20201007093336/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-08T11:03:49Z",
+        "uri": "https://web.archive.org/web/20201008110349/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-08T11:03:50Z",
+        "uri": "https://web.archive.org/web/20201008110350/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-11T20:32:26Z",
+        "uri": "https://web.archive.org/web/20201011203226/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-11T20:32:27Z",
+        "uri": "https://web.archive.org/web/20201011203227/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-17T02:53:38Z",
+        "uri": "https://web.archive.org/web/20201017025338/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-17T02:53:39Z",
+        "uri": "https://web.archive.org/web/20201017025339/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-23T14:57:46Z",
+        "uri": "https://web.archive.org/web/20201023145746/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-23T14:57:47Z",
+        "uri": "https://web.archive.org/web/20201023145747/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-24T20:59:42Z",
+        "uri": "https://web.archive.org/web/20201024205942/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-24T20:59:43Z",
+        "uri": "https://web.archive.org/web/20201024205943/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-24T22:37:04Z",
+        "uri": "https://web.archive.org/web/20201024223704/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-26T01:24:47Z",
+        "uri": "https://web.archive.org/web/20201026012447/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-26T01:24:47Z",
+        "uri": "https://web.archive.org/web/20201026012447/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-27T03:20:57Z",
+        "uri": "https://web.archive.org/web/20201027032057/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-10-27T03:20:58Z",
+        "uri": "https://web.archive.org/web/20201027032058/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-03T15:47:23Z",
+        "uri": "https://web.archive.org/web/20201103154723/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-03T15:47:24Z",
+        "uri": "https://web.archive.org/web/20201103154724/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-06T17:26:16Z",
+        "uri": "https://web.archive.org/web/20201106172616/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-06T17:26:17Z",
+        "uri": "https://web.archive.org/web/20201106172617/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-10T22:32:52Z",
+        "uri": "https://web.archive.org/web/20201110223252/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-10T22:32:52Z",
+        "uri": "https://web.archive.org/web/20201110223252/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-19T15:23:12Z",
+        "uri": "https://web.archive.org/web/20201119152312/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-19T15:23:13Z",
+        "uri": "https://web.archive.org/web/20201119152313/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-26T23:30:51Z",
+        "uri": "https://web.archive.org/web/20201126233051/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-27T09:46:29Z",
+        "uri": "https://web.archive.org/web/20201127094629/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-11-27T09:46:30Z",
+        "uri": "https://web.archive.org/web/20201127094630/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-12-02T19:06:40Z",
+        "uri": "https://web.archive.org/web/20201202190640/http://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      },
+      {
+        "datetime": "2020-12-02T19:06:41Z",
+        "uri": "https://web.archive.org/web/20201202190641/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-03T17:51:47Z",
+      "uri": "https://web.archive.org/web/20200903175147/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+    },
+    "last": {
+      "datetime": "2020-12-02T19:06:41Z",
+      "uri": "https://web.archive.org/web/20201202190641/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/09/03/investing/nasdaq-selloff-stock-market-today/index.html"
+}

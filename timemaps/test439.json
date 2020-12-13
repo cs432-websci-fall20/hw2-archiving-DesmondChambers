@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion",
+  "self": "http://localhost:1208/timemap/json/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T16:25:30Z",
+        "uri": "https://wayback.archive-it.org/all/20201007162530/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion"
+      },
+      {
+        "datetime": "2020-10-24T21:41:44Z",
+        "uri": "https://web.archive.org/web/20201024214144/http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion"
+      },
+      {
+        "datetime": "2020-10-24T21:57:42Z",
+        "uri": "https://web.archive.org/web/20201024215742/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion"
+      },
+      {
+        "datetime": "2020-10-31T23:03:53Z",
+        "uri": "https://web.archive.org/web/20201031230353/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion"
+      },
+      {
+        "datetime": "2020-11-02T09:38:42Z",
+        "uri": "https://web.archive.org/web/20201102093842/http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion"
+      },
+      {
+        "datetime": "2020-11-06T10:56:41Z",
+        "uri": "https://wayback.archive-it.org/all/20201106105641/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T16:25:30Z",
+      "uri": "https://wayback.archive-it.org/all/20201007162530/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion"
+    },
+    "last": {
+      "datetime": "2020-11-06T10:56:41Z",
+      "uri": "https://wayback.archive-it.org/all/20201106105641/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion",
+    "json_format": "http://localhost:1208/timemap/json/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_and_NASA_logos_on_Artemis_I_rocket_and_Orion"
+}

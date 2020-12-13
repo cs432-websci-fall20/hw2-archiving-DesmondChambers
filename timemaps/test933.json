@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.pscp.tv/w/ckR4vDM3Mzg2fDFybUdQWUF5a1BaSk58KOTe3yX70H9Czi73V_ScYY9Sd2SpRZPSTJD88KM1tA==",
+  "self": "http://localhost:1208/timemap/json/https://www.pscp.tv/w/ckR4vDM3Mzg2fDFybUdQWUF5a1BaSk58KOTe3yX70H9Czi73V_ScYY9Sd2SpRZPSTJD88KM1tA==",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-09T13:33:31Z",
+        "uri": "https://web.archive.org/web/20201009133331/https://www.pscp.tv/w/ckR4vDM3Mzg2fDFybUdQWUF5a1BaSk58KOTe3yX70H9Czi73V_ScYY9Sd2SpRZPSTJD88KM1tA=="
+      },
+      {
+        "datetime": "2020-11-07T02:44:49Z",
+        "uri": "https://web.archive.org/web/20201107024449/https://www.pscp.tv/w/ckR4vDM3Mzg2fDFybUdQWUF5a1BaSk58KOTe3yX70H9Czi73V_ScYY9Sd2SpRZPSTJD88KM1tA=="
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-09T13:33:31Z",
+      "uri": "https://web.archive.org/web/20201009133331/https://www.pscp.tv/w/ckR4vDM3Mzg2fDFybUdQWUF5a1BaSk58KOTe3yX70H9Czi73V_ScYY9Sd2SpRZPSTJD88KM1tA=="
+    },
+    "last": {
+      "datetime": "2020-11-07T02:44:49Z",
+      "uri": "https://web.archive.org/web/20201107024449/https://www.pscp.tv/w/ckR4vDM3Mzg2fDFybUdQWUF5a1BaSk58KOTe3yX70H9Czi73V_ScYY9Sd2SpRZPSTJD88KM1tA=="
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.pscp.tv/w/ckR4vDM3Mzg2fDFybUdQWUF5a1BaSk58KOTe3yX70H9Czi73V_ScYY9Sd2SpRZPSTJD88KM1tA==",
+    "json_format": "http://localhost:1208/timemap/json/https://www.pscp.tv/w/ckR4vDM3Mzg2fDFybUdQWUF5a1BaSk58KOTe3yX70H9Czi73V_ScYY9Sd2SpRZPSTJD88KM1tA==",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pscp.tv/w/ckR4vDM3Mzg2fDFybUdQWUF5a1BaSk58KOTe3yX70H9Czi73V_ScYY9Sd2SpRZPSTJD88KM1tA=="
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.pscp.tv/w/ckR4vDM3Mzg2fDFybUdQWUF5a1BaSk58KOTe3yX70H9Czi73V_ScYY9Sd2SpRZPSTJD88KM1tA=="
+}

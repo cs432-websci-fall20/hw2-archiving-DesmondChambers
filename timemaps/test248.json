@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-03T07:25:44Z",
+        "uri": "https://web.archive.org/web/20200803072544/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-08-03T10:26:08Z",
+        "uri": "https://web.archive.org/web/20200803102608/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-08-03T11:07:41Z",
+        "uri": "https://web.archive.org/web/20200803110741/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-08-03T19:18:32Z",
+        "uri": "https://web.archive.org/web/20200803191832/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-08-04T00:29:23Z",
+        "uri": "https://web.archive.org/web/20200804002923/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-08-04T01:51:12Z",
+        "uri": "https://web.archive.org/web/20200804015112/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-08-04T12:51:21Z",
+        "uri": "https://wayback.archive-it.org/all/20200804125121/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-08-05T17:06:24Z",
+        "uri": "https://web.archive.org/web/20200805170624/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-08-07T05:22:55Z",
+        "uri": "https://web.archive.org/web/20200807052255/http://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-08-14T02:12:25Z",
+        "uri": "https://web.archive.org/web/20200814021225/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-09-22T17:49:29Z",
+        "uri": "https://web.archive.org/web/20200922174929/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-09-23T23:14:23Z",
+        "uri": "https://web.archive.org/web/20200923231423/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      },
+      {
+        "datetime": "2020-11-11T21:05:17Z",
+        "uri": "https://web.archive.org/web/20201111210517/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-03T07:25:44Z",
+      "uri": "https://web.archive.org/web/20200803072544/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+    },
+    "last": {
+      "datetime": "2020-11-11T21:05:17Z",
+      "uri": "https://web.archive.org/web/20201111210517/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/08/03/weather/tropical-storm-isaias-carolinas-monday/index.html"
+}

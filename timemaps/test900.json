@@ -1,0 +1,302 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/01/17/business/instagram-likes.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2020/01/17/business/instagram-likes.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-01-17T19:38:46Z",
+        "uri": "https://web.archive.org/web/20200117193846/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-17T19:40:06Z",
+        "uri": "https://web.archive.org/web/20200117194006/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-17T19:49:29Z",
+        "uri": "https://web.archive.org/web/20200117194929/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-17T19:57:08Z",
+        "uri": "http://archive.md/20200117195708/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-17T20:00:46Z",
+        "uri": "https://web.archive.org/web/20200117200046/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-17T20:11:22Z",
+        "uri": "https://web.archive.org/web/20200117201122/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-17T20:39:01Z",
+        "uri": "https://web.archive.org/web/20200117203901/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-17T21:21:17Z",
+        "uri": "https://web.archive.org/web/20200117212117/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-17T22:51:21Z",
+        "uri": "https://web.archive.org/web/20200117225121/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-18T01:49:30Z",
+        "uri": "https://web.archive.org/web/20200118014930/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-18T01:50:37Z",
+        "uri": "https://web.archive.org/web/20200118015037/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-18T04:17:11Z",
+        "uri": "https://web.archive.org/web/20200118041711/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-18T09:43:52Z",
+        "uri": "https://web.archive.org/web/20200118094352/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-18T13:46:37Z",
+        "uri": "https://web.archive.org/web/20200118134637/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-18T15:02:25Z",
+        "uri": "https://web.archive.org/web/20200118150225/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-18T15:18:44Z",
+        "uri": "https://web.archive.org/web/20200118151844/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-18T19:44:19Z",
+        "uri": "https://web.archive.org/web/20200118194419/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-18T21:02:16Z",
+        "uri": "https://web.archive.org/web/20200118210216/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-19T14:24:51Z",
+        "uri": "https://web.archive.org/web/20200119142451/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-19T18:02:40Z",
+        "uri": "https://web.archive.org/web/20200119180240/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-20T03:37:51Z",
+        "uri": "https://web.archive.org/web/20200120033751/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-20T09:56:19Z",
+        "uri": "https://web.archive.org/web/20200120095619/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-20T15:34:16Z",
+        "uri": "https://web.archive.org/web/20200120153416/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-22T21:28:06Z",
+        "uri": "https://web.archive.org/web/20200122212806/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-25T22:10:03Z",
+        "uri": "https://web.archive.org/web/20200125221003/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-26T08:03:31Z",
+        "uri": "https://web.archive.org/web/20200126080331/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-26T14:50:12Z",
+        "uri": "https://web.archive.org/web/20200126145012/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-26T21:19:29Z",
+        "uri": "https://web.archive.org/web/20200126211929/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-29T18:57:27Z",
+        "uri": "https://web.archive.org/web/20200129185727/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-29T18:57:29Z",
+        "uri": "https://web.archive.org/web/20200129185729/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-30T08:02:35Z",
+        "uri": "https://web.archive.org/web/20200130080235/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-31T10:59:54Z",
+        "uri": "https://web.archive.org/web/20200131105954/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-31T11:00:01Z",
+        "uri": "https://web.archive.org/web/20200131110001/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-01-31T11:53:16Z",
+        "uri": "https://web.archive.org/web/20200131115316/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-02-01T10:09:31Z",
+        "uri": "https://web.archive.org/web/20200201100931/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-02-02T17:21:27Z",
+        "uri": "https://web.archive.org/web/20200202172127/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-02-03T11:30:00Z",
+        "uri": "https://web.archive.org/web/20200203113000/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-02-05T10:50:12Z",
+        "uri": "https://web.archive.org/web/20200205105012/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-02-05T18:32:12Z",
+        "uri": "https://web.archive.org/web/20200205183212/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-03-01T12:04:06Z",
+        "uri": "https://web.archive.org/web/20200301120406/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-03-17T05:29:14Z",
+        "uri": "https://web.archive.org/web/20200317052914/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-04T21:27:50Z",
+        "uri": "https://web.archive.org/web/20200404212750/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-06T21:53:35Z",
+        "uri": "https://web.archive.org/web/20200406215335/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-07T20:39:49Z",
+        "uri": "https://web.archive.org/web/20200407203949/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-08T20:13:33Z",
+        "uri": "https://web.archive.org/web/20200408201333/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-09T23:06:29Z",
+        "uri": "https://web.archive.org/web/20200409230629/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-14T01:31:09Z",
+        "uri": "https://web.archive.org/web/20200414013109/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-15T00:58:32Z",
+        "uri": "https://web.archive.org/web/20200415005832/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-16T10:26:41Z",
+        "uri": "https://web.archive.org/web/20200416102641/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-18T12:50:28Z",
+        "uri": "https://web.archive.org/web/20200418125028/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-19T15:00:36Z",
+        "uri": "https://web.archive.org/web/20200419150036/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-22T17:58:04Z",
+        "uri": "https://web.archive.org/web/20200422175804/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-24T17:09:54Z",
+        "uri": "https://web.archive.org/web/20200424170954/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-25T15:15:34Z",
+        "uri": "https://web.archive.org/web/20200425151534/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-25T17:08:50Z",
+        "uri": "https://web.archive.org/web/20200425170850/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-26T17:50:15Z",
+        "uri": "https://web.archive.org/web/20200426175015/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-04-29T21:30:29Z",
+        "uri": "https://web.archive.org/web/20200429213029/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-05-02T00:05:10Z",
+        "uri": "https://web.archive.org/web/20200502000510/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-05-03T00:36:15Z",
+        "uri": "https://web.archive.org/web/20200503003615/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-05-07T02:59:31Z",
+        "uri": "https://web.archive.org/web/20200507025931/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-05-08T03:51:58Z",
+        "uri": "https://web.archive.org/web/20200508035158/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-05-24T19:29:27Z",
+        "uri": "https://web.archive.org/web/20200524192927/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-05-24T19:29:30Z",
+        "uri": "https://web.archive.org/web/20200524192930/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-06-21T19:57:43Z",
+        "uri": "https://web.archive.org/web/20200621195743/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-07-16T20:43:54Z",
+        "uri": "https://web.archive.org/web/20200716204354/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-08-14T11:34:08Z",
+        "uri": "https://web.archive.org/web/20200814113408/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-09-07T01:37:44Z",
+        "uri": "https://web.archive.org/web/20200907013744/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-09-23T17:24:26Z",
+        "uri": "https://web.archive.org/web/20200923172426/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-10-04T12:09:30Z",
+        "uri": "https://web.archive.org/web/20201004120930/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      },
+      {
+        "datetime": "2020-11-18T07:26:51Z",
+        "uri": "https://web.archive.org/web/20201118072651/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-01-17T19:38:46Z",
+      "uri": "https://web.archive.org/web/20200117193846/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+    },
+    "last": {
+      "datetime": "2020-11-18T07:26:51Z",
+      "uri": "https://web.archive.org/web/20201118072651/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2020/01/17/business/instagram-likes.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2020/01/17/business/instagram-likes.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2020/01/17/business/instagram-likes.html"
+}

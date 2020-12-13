@@ -1,0 +1,146 @@
+{
+  "original_uri": "https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-29T10:10:25Z",
+        "uri": "https://web.archive.org/web/20200929101025/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T10:11:12Z",
+        "uri": "https://web.archive.org/web/20200929101112/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T13:39:23Z",
+        "uri": "https://web.archive.org/web/20200929133923/https://www.youtube.com/playlist%3Flist%3DPLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T14:19:23Z",
+        "uri": "https://web.archive.org/web/20200929141923/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T14:26:22Z",
+        "uri": "https://web.archive.org/web/20200929142622/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T16:37:24Z",
+        "uri": "https://web.archive.org/web/20200929163724/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T16:37:50Z",
+        "uri": "https://web.archive.org/web/20200929163750/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T16:38:04Z",
+        "uri": "https://web.archive.org/web/20200929163804/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T16:44:53Z",
+        "uri": "https://web.archive.org/web/20200929164453/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T16:47:00Z",
+        "uri": "https://web.archive.org/web/20200929164700/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T17:08:34Z",
+        "uri": "https://web.archive.org/web/20200929170834/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T17:09:43Z",
+        "uri": "https://web.archive.org/web/20200929170943/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T17:10:18Z",
+        "uri": "https://web.archive.org/web/20200929171018/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T17:11:07Z",
+        "uri": "https://web.archive.org/web/20200929171107/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T17:11:58Z",
+        "uri": "https://web.archive.org/web/20200929171158/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T17:14:06Z",
+        "uri": "https://web.archive.org/web/20200929171406/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T17:15:16Z",
+        "uri": "https://web.archive.org/web/20200929171516/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T17:54:37Z",
+        "uri": "https://web.archive.org/web/20200929175437/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T18:05:04Z",
+        "uri": "https://web.archive.org/web/20200929180504/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T19:05:16Z",
+        "uri": "https://web.archive.org/web/20200929190516/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T21:16:34Z",
+        "uri": "https://web.archive.org/web/20200929211634/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-29T21:23:01Z",
+        "uri": "https://web.archive.org/web/20200929212301/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-30T02:01:34Z",
+        "uri": "https://web.archive.org/web/20200930020134/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-30T03:08:06Z",
+        "uri": "https://wayback.archive-it.org/all/20200930030806/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-09-30T03:17:24Z",
+        "uri": "https://wayback.archive-it.org/all/20200930031724/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-10-01T05:51:49Z",
+        "uri": "https://web.archive.org/web/20201001055149/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-10-01T06:22:10Z",
+        "uri": "https://web.archive.org/web/20201001062210/http://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-10-01T15:47:05Z",
+        "uri": "https://web.archive.org/web/20201001154705/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-10-06T08:30:03Z",
+        "uri": "https://web.archive.org/web/20201006083003/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-11-01T04:25:21Z",
+        "uri": "https://web.archive.org/web/20201101042521/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      },
+      {
+        "datetime": "2020-11-05T21:15:10Z",
+        "uri": "https://web.archive.org/web/20201105211510/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-29T10:10:25Z",
+      "uri": "https://web.archive.org/web/20200929101025/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+    },
+    "last": {
+      "datetime": "2020-11-05T21:15:10Z",
+      "uri": "https://web.archive.org/web/20201105211510/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/playlist?list=PLU12uITxBEPFAvcROsHJwIopn-Q-FMTSp"
+}

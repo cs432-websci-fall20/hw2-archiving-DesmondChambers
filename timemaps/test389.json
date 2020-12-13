@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.cnn.com/webview/politics/live-news/ruth-bader-ginsburg-supreme-court-memorial/h_f251e2a047e68dfa9f425f0ed6ef10bf",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/webview/politics/live-news/ruth-bader-ginsburg-supreme-court-memorial/h_f251e2a047e68dfa9f425f0ed6ef10bf",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-01T02:42:01Z",
+        "uri": "https://web.archive.org/web/20201101024201/https://www.cnn.com/webview/politics/live-news/ruth-bader-ginsburg-supreme-court-memorial/h_f251e2a047e68dfa9f425f0ed6ef10bf"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-01T02:42:01Z",
+      "uri": "https://web.archive.org/web/20201101024201/https://www.cnn.com/webview/politics/live-news/ruth-bader-ginsburg-supreme-court-memorial/h_f251e2a047e68dfa9f425f0ed6ef10bf"
+    },
+    "last": {
+      "datetime": "2020-11-01T02:42:01Z",
+      "uri": "https://web.archive.org/web/20201101024201/https://www.cnn.com/webview/politics/live-news/ruth-bader-ginsburg-supreme-court-memorial/h_f251e2a047e68dfa9f425f0ed6ef10bf"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/webview/politics/live-news/ruth-bader-ginsburg-supreme-court-memorial/h_f251e2a047e68dfa9f425f0ed6ef10bf",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/webview/politics/live-news/ruth-bader-ginsburg-supreme-court-memorial/h_f251e2a047e68dfa9f425f0ed6ef10bf",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/webview/politics/live-news/ruth-bader-ginsburg-supreme-court-memorial/h_f251e2a047e68dfa9f425f0ed6ef10bf"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/webview/politics/live-news/ruth-bader-ginsburg-supreme-court-memorial/h_f251e2a047e68dfa9f425f0ed6ef10bf"
+}

@@ -1,0 +1,114 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-24T11:23:17Z",
+        "uri": "https://web.archive.org/web/20200724112317/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-07-24T12:00:04Z",
+        "uri": "https://web.archive.org/web/20200724120004/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-07-24T13:00:02Z",
+        "uri": "https://web.archive.org/web/20200724130002/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-07-24T16:56:01Z",
+        "uri": "https://web.archive.org/web/20200724165601/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-07-25T04:29:02Z",
+        "uri": "https://web.archive.org/web/20200725042902/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-07-25T22:14:53Z",
+        "uri": "https://web.archive.org/web/20200725221453/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-07-26T17:58:46Z",
+        "uri": "https://web.archive.org/web/20200726175846/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-07-26T22:55:01Z",
+        "uri": "https://web.archive.org/web/20200726225501/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-07-27T01:19:50Z",
+        "uri": "https://web.archive.org/web/20200727011950/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-07-27T19:26:37Z",
+        "uri": "https://web.archive.org/web/20200727192637/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-07-31T06:15:05Z",
+        "uri": "https://web.archive.org/web/20200731061505/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-08-01T07:26:40Z",
+        "uri": "https://web.archive.org/web/20200801072640/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-08-02T09:23:53Z",
+        "uri": "https://web.archive.org/web/20200802092353/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-08-06T11:51:27Z",
+        "uri": "https://web.archive.org/web/20200806115127/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-08-07T14:27:57Z",
+        "uri": "https://web.archive.org/web/20200807142757/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-08-09T00:34:11Z",
+        "uri": "https://web.archive.org/web/20200809003411/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-08-09T17:01:09Z",
+        "uri": "https://web.archive.org/web/20200809170109/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-08-10T16:32:34Z",
+        "uri": "https://web.archive.org/web/20200810163234/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-08-12T16:41:37Z",
+        "uri": "https://web.archive.org/web/20200812164137/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-08-13T21:44:29Z",
+        "uri": "https://web.archive.org/web/20200813214429/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-09-27T02:39:51Z",
+        "uri": "https://web.archive.org/web/20200927023951/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-10-06T01:05:48Z",
+        "uri": "https://web.archive.org/web/20201006010548/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      },
+      {
+        "datetime": "2020-11-11T05:23:51Z",
+        "uri": "https://web.archive.org/web/20201111052351/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-24T11:23:17Z",
+      "uri": "https://web.archive.org/web/20200724112317/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+    },
+    "last": {
+      "datetime": "2020-11-11T05:23:51Z",
+      "uri": "https://web.archive.org/web/20201111052351/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2020/07/24/style/my-cookie-dealer-instagram.html"
+}

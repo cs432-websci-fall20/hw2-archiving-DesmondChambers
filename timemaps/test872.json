@@ -1,0 +1,206 @@
+{
+  "original_uri": "https://www.instagram.com/tank.sinatra/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/tank.sinatra/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-03-08T02:16:52Z",
+        "uri": "https://wayback.archive-it.org/all/20150308021652/https://instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2015-03-08T02:16:52Z",
+        "uri": "https://web.archive.org/web/20150308021652/https://instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2015-03-14T20:56:09Z",
+        "uri": "https://wayback.archive-it.org/all/20150314205609/https://instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2015-03-14T20:56:09Z",
+        "uri": "https://web.archive.org/web/20150314205609/https://instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2016-03-15T15:53:58Z",
+        "uri": "https://wayback.archive-it.org/all/20160315155358/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2016-03-15T15:53:58Z",
+        "uri": "https://web.archive.org/web/20160315155358/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2016-04-02T18:25:54Z",
+        "uri": "https://web.archive.org/web/20160402182554/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2017-02-27T23:43:40Z",
+        "uri": "https://webarchive.loc.gov/all/20170227234340/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2017-04-07T16:48:37Z",
+        "uri": "https://webarchive.loc.gov/all/20170407164837/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2018-01-01T17:44:24Z",
+        "uri": "https://webarchive.loc.gov/all/20180101174424/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2018-01-07T09:16:23Z",
+        "uri": "https://webarchive.loc.gov/all/20180107091623/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2018-01-14T15:05:56Z",
+        "uri": "https://webarchive.loc.gov/all/20180114150556/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2018-02-22T04:12:57Z",
+        "uri": "https://webarchive.loc.gov/all/20180222041257/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-02-13T16:00:23Z",
+        "uri": "https://web.archive.org/web/20200213160023/https://www.instagram.com/Tank.Sinatra/"
+      },
+      {
+        "datetime": "2020-02-22T20:36:55Z",
+        "uri": "https://web.archive.org/web/20200222203655/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-05-30T05:09:47Z",
+        "uri": "https://web.archive.org/web/20200530050947/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-07-24T03:48:53Z",
+        "uri": "https://web.archive.org/web/20200724034853/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-07-24T09:29:17Z",
+        "uri": "https://web.archive.org/web/20200724092917/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-08-05T17:50:13Z",
+        "uri": "http://archive.md/20200805175013/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-01T07:06:01Z",
+        "uri": "https://web.archive.org/web/20201101070601/http://instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-01T07:06:02Z",
+        "uri": "https://web.archive.org/web/20201101070602/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-01T07:06:02Z",
+        "uri": "https://web.archive.org/web/20201101070602/https://www.instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-01T09:13:38Z",
+        "uri": "https://web.archive.org/web/20201101091338/http://instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-01T09:13:39Z",
+        "uri": "https://web.archive.org/web/20201101091339/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-01T09:13:39Z",
+        "uri": "https://web.archive.org/web/20201101091339/https://www.instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-01T18:31:25Z",
+        "uri": "https://web.archive.org/web/20201101183125/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-01T18:31:25Z",
+        "uri": "https://web.archive.org/web/20201101183125/http://instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-01T19:34:43Z",
+        "uri": "https://web.archive.org/web/20201101193443/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-01T19:34:43Z",
+        "uri": "https://web.archive.org/web/20201101193443/http://instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-01T21:39:22Z",
+        "uri": "https://web.archive.org/web/20201101213922/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-01T21:39:22Z",
+        "uri": "https://web.archive.org/web/20201101213922/http://instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-01T23:49:04Z",
+        "uri": "https://web.archive.org/web/20201101234904/http://instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-01T23:49:05Z",
+        "uri": "https://web.archive.org/web/20201101234905/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-01T23:49:05Z",
+        "uri": "https://web.archive.org/web/20201101234905/https://www.instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-02T11:31:26Z",
+        "uri": "https://web.archive.org/web/20201102113126/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-02T11:31:26Z",
+        "uri": "https://web.archive.org/web/20201102113126/http://instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-02T11:33:07Z",
+        "uri": "https://web.archive.org/web/20201102113307/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-02T11:33:07Z",
+        "uri": "https://web.archive.org/web/20201102113307/https://www.instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-03T02:41:22Z",
+        "uri": "https://web.archive.org/web/20201103024122/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-03T02:41:22Z",
+        "uri": "https://web.archive.org/web/20201103024122/http://instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-03T20:59:10Z",
+        "uri": "https://web.archive.org/web/20201103205910/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-03T20:59:10Z",
+        "uri": "https://web.archive.org/web/20201103205910/https://www.instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-05T20:40:52Z",
+        "uri": "https://web.archive.org/web/20201105204052/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-05T20:40:52Z",
+        "uri": "https://web.archive.org/web/20201105204052/https://www.instagram.com/tank.sinatra"
+      },
+      {
+        "datetime": "2020-11-06T03:11:56Z",
+        "uri": "https://web.archive.org/web/20201106031156/https://www.instagram.com/tank.sinatra/"
+      },
+      {
+        "datetime": "2020-11-06T03:11:56Z",
+        "uri": "https://web.archive.org/web/20201106031156/https://www.instagram.com/tank.sinatra"
+      }
+    ],
+    "first": {
+      "datetime": "2015-03-08T02:16:52Z",
+      "uri": "https://wayback.archive-it.org/all/20150308021652/https://instagram.com/tank.sinatra/"
+    },
+    "last": {
+      "datetime": "2020-11-06T03:11:56Z",
+      "uri": "https://web.archive.org/web/20201106031156/https://www.instagram.com/tank.sinatra"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/tank.sinatra/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/tank.sinatra/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/tank.sinatra/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/tank.sinatra/"
+}

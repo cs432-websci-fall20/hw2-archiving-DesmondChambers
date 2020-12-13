@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.cnn.com/2020/07/13/football/manchester-city-champions-league-ban-cas-spt-intl/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/07/13/football/manchester-city-champions-league-ban-cas-spt-intl/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-19T09:14:34Z",
+        "uri": "https://wayback.archive-it.org/all/20200719091434/https://cnn.com/2020/07/13/football/manchester-city-champions-league-ban-cas-spt-intl/index.html"
+      },
+      {
+        "datetime": "2020-07-19T09:23:08Z",
+        "uri": "https://wayback.archive-it.org/all/20200719092308/https://www.cnn.com/2020/07/13/football/manchester-city-champions-league-ban-cas-spt-intl/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-19T09:14:34Z",
+      "uri": "https://wayback.archive-it.org/all/20200719091434/https://cnn.com/2020/07/13/football/manchester-city-champions-league-ban-cas-spt-intl/index.html"
+    },
+    "last": {
+      "datetime": "2020-07-19T09:23:08Z",
+      "uri": "https://wayback.archive-it.org/all/20200719092308/https://www.cnn.com/2020/07/13/football/manchester-city-champions-league-ban-cas-spt-intl/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/07/13/football/manchester-city-champions-league-ban-cas-spt-intl/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/07/13/football/manchester-city-champions-league-ban-cas-spt-intl/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/07/13/football/manchester-city-champions-league-ban-cas-spt-intl/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/07/13/football/manchester-city-champions-league-ban-cas-spt-intl/index.html"
+}

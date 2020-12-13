@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://graduation2020.castingcrane.com/",
+  "self": "http://localhost:1208/timemap/json/https://graduation2020.castingcrane.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-01T11:41:20Z",
+        "uri": "https://web.archive.org/web/20200501114120/https://graduation2020.castingcrane.com/"
+      },
+      {
+        "datetime": "2020-05-03T22:25:58Z",
+        "uri": "https://web.archive.org/web/20200503222558/https://graduation2020.castingcrane.com/"
+      },
+      {
+        "datetime": "2020-05-03T22:25:58Z",
+        "uri": "https://web.archive.org/web/20200503222558/https://graduation2020.castingcrane.com/"
+      },
+      {
+        "datetime": "2020-05-06T13:40:52Z",
+        "uri": "https://web.archive.org/web/20200506134052/https://graduation2020.castingcrane.com/"
+      },
+      {
+        "datetime": "2020-06-25T17:08:33Z",
+        "uri": "https://web.archive.org/web/20200625170833/https://graduation2020.castingcrane.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-01T11:41:20Z",
+      "uri": "https://web.archive.org/web/20200501114120/https://graduation2020.castingcrane.com/"
+    },
+    "last": {
+      "datetime": "2020-06-25T17:08:33Z",
+      "uri": "https://web.archive.org/web/20200625170833/https://graduation2020.castingcrane.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://graduation2020.castingcrane.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://graduation2020.castingcrane.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://graduation2020.castingcrane.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://graduation2020.castingcrane.com/"
+}

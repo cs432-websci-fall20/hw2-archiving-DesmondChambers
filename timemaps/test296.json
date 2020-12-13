@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-04T01:46:36Z",
+        "uri": "https://wayback.archive-it.org/all/20200904014636/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-04T01:46:36Z",
+        "uri": "https://web.archive.org/web/20200904014636/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-04T02:34:27Z",
+        "uri": "http://archive.md/20200904023427/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-04T02:40:02Z",
+        "uri": "https://web.archive.org/web/20200904024002/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-04T03:02:00Z",
+        "uri": "https://web.archive.org/web/20200904030200/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-04T05:27:43Z",
+        "uri": "https://web.archive.org/web/20200904052743/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-04T08:08:52Z",
+        "uri": "https://web.archive.org/web/20200904080852/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-04T10:16:54Z",
+        "uri": "https://web.archive.org/web/20200904101654/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-04T11:04:17Z",
+        "uri": "https://web.archive.org/web/20200904110417/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-05T01:32:45Z",
+        "uri": "https://wayback.archive-it.org/all/20200905013245/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-05T01:32:45Z",
+        "uri": "https://web.archive.org/web/20200905013245/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-05T05:21:38Z",
+        "uri": "https://web.archive.org/web/20200905052138/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-08T04:08:02Z",
+        "uri": "https://web.archive.org/web/20200908040802/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-09-28T03:58:36Z",
+        "uri": "https://web.archive.org/web/20200928035836/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      },
+      {
+        "datetime": "2020-10-13T16:36:11Z",
+        "uri": "https://web.archive.org/web/20201013163611/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-04T01:46:36Z",
+      "uri": "https://wayback.archive-it.org/all/20200904014636/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+    },
+    "last": {
+      "datetime": "2020-10-13T16:36:11Z",
+      "uri": "https://web.archive.org/web/20201013163611/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/09/03/weather/holiday-weekend-forecast-thursday/index.html"
+}

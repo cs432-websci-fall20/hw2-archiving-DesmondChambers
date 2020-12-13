@@ -1,0 +1,330 @@
+{
+  "original_uri": "https://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/",
+  "self": "http://localhost:1208/timemap/json/https://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-11-21T15:58:29Z",
+        "uri": "https://web.archive.org/web/20151121155829/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2015-11-21T15:58:29Z",
+        "uri": "https://web.archive.org/web/20151121155829/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2015-11-23T01:33:58Z",
+        "uri": "https://web.archive.org/web/20151123013358/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2015-11-23T01:33:58Z",
+        "uri": "https://web.archive.org/web/20151123013358/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2015-12-04T11:54:03Z",
+        "uri": "https://web.archive.org/web/20151204115403/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2015-12-04T11:54:03Z",
+        "uri": "https://web.archive.org/web/20151204115403/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2015-12-20T05:01:24Z",
+        "uri": "https://web.archive.org/web/20151220050124/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2015-12-20T05:01:24Z",
+        "uri": "https://web.archive.org/web/20151220050124/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-01-03T07:10:30Z",
+        "uri": "https://web.archive.org/web/20160103071030/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-01-03T07:10:30Z",
+        "uri": "https://web.archive.org/web/20160103071030/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-01-23T21:05:38Z",
+        "uri": "https://web.archive.org/web/20160123210538/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-01-23T21:05:38Z",
+        "uri": "https://web.archive.org/web/20160123210538/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-04T09:24:56Z",
+        "uri": "https://wayback.archive-it.org/all/20160204092456/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-04T09:24:56Z",
+        "uri": "https://web.archive.org/web/20160204092456/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-04T09:24:57Z",
+        "uri": "https://wayback.archive-it.org/all/20160204092457/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-04T09:24:57Z",
+        "uri": "https://web.archive.org/web/20160204092457/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-06T14:49:02Z",
+        "uri": "https://web.archive.org/web/20160206144902/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-06T14:49:02Z",
+        "uri": "https://web.archive.org/web/20160206144902/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-08T06:24:08Z",
+        "uri": "https://wayback.archive-it.org/all/20160208062408/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-08T06:24:08Z",
+        "uri": "https://web.archive.org/web/20160208062408/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-08T06:24:19Z",
+        "uri": "https://wayback.archive-it.org/all/20160208062419/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-08T06:24:19Z",
+        "uri": "https://web.archive.org/web/20160208062419/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-09T09:37:08Z",
+        "uri": "https://wayback.archive-it.org/all/20160209093708/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-09T09:37:08Z",
+        "uri": "https://web.archive.org/web/20160209093708/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-09T09:37:09Z",
+        "uri": "https://wayback.archive-it.org/all/20160209093709/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-09T09:37:09Z",
+        "uri": "https://web.archive.org/web/20160209093709/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-10T09:17:39Z",
+        "uri": "https://wayback.archive-it.org/all/20160210091739/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-10T09:17:39Z",
+        "uri": "https://web.archive.org/web/20160210091739/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-10T09:17:40Z",
+        "uri": "https://wayback.archive-it.org/all/20160210091740/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-10T09:17:40Z",
+        "uri": "https://web.archive.org/web/20160210091740/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-11T10:36:35Z",
+        "uri": "https://wayback.archive-it.org/all/20160211103635/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-11T10:36:35Z",
+        "uri": "https://web.archive.org/web/20160211103635/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-11T10:36:36Z",
+        "uri": "https://wayback.archive-it.org/all/20160211103636/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-11T10:36:36Z",
+        "uri": "https://web.archive.org/web/20160211103636/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-12T09:35:53Z",
+        "uri": "https://wayback.archive-it.org/all/20160212093553/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-12T09:35:53Z",
+        "uri": "https://web.archive.org/web/20160212093553/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-12T09:36:20Z",
+        "uri": "https://wayback.archive-it.org/all/20160212093620/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-12T09:36:20Z",
+        "uri": "https://web.archive.org/web/20160212093620/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-02-13T16:46:27Z",
+        "uri": "https://web.archive.org/web/20160213164627/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-02-13T22:13:40Z",
+        "uri": "https://web.archive.org/web/20160213221340/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-03-04T12:33:21Z",
+        "uri": "https://web.archive.org/web/20160304123321/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-03-04T12:33:21Z",
+        "uri": "https://web.archive.org/web/20160304123321/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-03-08T06:11:29Z",
+        "uri": "https://web.archive.org/web/20160308061129/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-03-27T05:01:16Z",
+        "uri": "https://web.archive.org/web/20160327050116/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-04-01T05:44:14Z",
+        "uri": "https://web.archive.org/web/20160401054414/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-04-01T05:44:14Z",
+        "uri": "https://web.archive.org/web/20160401054414/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-04-20T20:03:00Z",
+        "uri": "https://web.archive.org/web/20160420200300/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-04-20T20:03:00Z",
+        "uri": "https://web.archive.org/web/20160420200300/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-05-11T20:07:18Z",
+        "uri": "https://web.archive.org/web/20160511200718/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-05-11T20:07:18Z",
+        "uri": "https://web.archive.org/web/20160511200718/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-06-10T18:44:38Z",
+        "uri": "https://web.archive.org/web/20160610184438/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-06-10T18:44:38Z",
+        "uri": "https://web.archive.org/web/20160610184438/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-07-08T21:44:06Z",
+        "uri": "https://web.archive.org/web/20160708214406/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-07-08T21:44:06Z",
+        "uri": "https://web.archive.org/web/20160708214406/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-08-07T09:43:43Z",
+        "uri": "https://web.archive.org/web/20160807094343/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-08-07T09:43:43Z",
+        "uri": "https://web.archive.org/web/20160807094343/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-09-11T19:59:59Z",
+        "uri": "https://web.archive.org/web/20160911195959/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-09-11T19:59:59Z",
+        "uri": "https://web.archive.org/web/20160911195959/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-10-13T08:18:12Z",
+        "uri": "https://web.archive.org/web/20161013081812/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-10-13T08:18:12Z",
+        "uri": "https://web.archive.org/web/20161013081812/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-11-13T07:03:11Z",
+        "uri": "https://web.archive.org/web/20161113070311/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-11-13T07:03:11Z",
+        "uri": "https://web.archive.org/web/20161113070311/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2016-11-14T12:58:12Z",
+        "uri": "https://web.archive.org/web/20161114125812/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2016-11-14T12:58:12Z",
+        "uri": "https://web.archive.org/web/20161114125812/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2017-02-06T17:20:26Z",
+        "uri": "https://web.archive.org/web/20170206172026/http://nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2018-06-12T11:46:47Z",
+        "uri": "https://web.archive.org/web/20180612114647/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2018-08-12T16:52:59Z",
+        "uri": "https://web.archive.org/web/20180812165259/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2018-12-30T15:27:30Z",
+        "uri": "https://web.archive.org/web/20181230152730/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2018-12-30T15:27:31Z",
+        "uri": "https://web.archive.org/web/20181230152731/https://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2019-06-17T08:28:18Z",
+        "uri": "https://web.archive.org/web/20190617082818/https://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2019-09-10T18:11:01Z",
+        "uri": "https://web.archive.org/web/20190910181101/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2020-05-29T05:53:09Z",
+        "uri": "https://web.archive.org/web/20200529055309/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2020-05-29T05:53:10Z",
+        "uri": "https://web.archive.org/web/20200529055310/https://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2020-11-08T09:15:56Z",
+        "uri": "https://web.archive.org/web/20201108091556/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2020-11-08T09:15:56Z",
+        "uri": "https://web.archive.org/web/20201108091556/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      },
+      {
+        "datetime": "2020-11-25T02:38:43Z",
+        "uri": "https://web.archive.org/web/20201125023843/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+      },
+      {
+        "datetime": "2020-11-25T02:38:43Z",
+        "uri": "https://web.archive.org/web/20201125023843/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+      }
+    ],
+    "first": {
+      "datetime": "2015-11-21T15:58:29Z",
+      "uri": "https://web.archive.org/web/20151121155829/http://www.nasa.gov:80/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+    },
+    "last": {
+      "datetime": "2020-11-25T02:38:43Z",
+      "uri": "https://web.archive.org/web/20201125023843/http://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nasa.gov/image-feature/northwest-australia-from-the-space-stations-earthkam/"
+}

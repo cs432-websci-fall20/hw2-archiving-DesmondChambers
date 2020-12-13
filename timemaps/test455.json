@@ -1,0 +1,102 @@
+{
+  "original_uri": "https://www.facebook.com/help/427064200647221?helpref=faq_content",
+  "self": "http://localhost:1208/timemap/json/https://www.facebook.com/help/427064200647221?helpref=faq_content",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-09-13T13:58:30Z",
+        "uri": "https://web.archive.org.au/awa/20160913135830mp_/http://pandora.nla.gov.au/pan/152198/20160913-1526/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2016-09-14T08:08:16Z",
+        "uri": "https://web.archive.org.au/awa/20160914080816mp_/http://pandora.nla.gov.au/pan/152198/20160914-1045/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2017-02-28T05:05:31Z",
+        "uri": "https://web.archive.org/web/20170228050531/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+      },
+      {
+        "datetime": "2017-02-28T05:05:46Z",
+        "uri": "https://web.archive.org/web/20170228050546/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+      },
+      {
+        "datetime": "2017-03-17T22:43:51Z",
+        "uri": "https://web.archive.org.au/awa/20170317224351mp_/http://pandora.nla.gov.au/pan/151788/20170318-0039/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2017-04-09T21:03:01Z",
+        "uri": "https://web.archive.org/web/20170409210301/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+      },
+      {
+        "datetime": "2017-04-09T21:03:23Z",
+        "uri": "https://web.archive.org/web/20170409210323/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+      },
+      {
+        "datetime": "2017-04-11T04:07:52Z",
+        "uri": "https://web.archive.org/web/20170411040752/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+      },
+      {
+        "datetime": "2017-04-11T04:08:19Z",
+        "uri": "https://web.archive.org/web/20170411040819/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+      },
+      {
+        "datetime": "2017-06-17T23:10:45Z",
+        "uri": "https://web.archive.org/web/20170617231045/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+      },
+      {
+        "datetime": "2017-06-29T21:32:40Z",
+        "uri": "https://web.archive.org.au/awa/20170629213240mp_/http://pandora.nla.gov.au/pan/150735/20170630-0212/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2017-07-08T16:21:36Z",
+        "uri": "https://web.archive.org.au/awa/20170708162136mp_/http://pandora.nla.gov.au/pan/22923/20170709-0000/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2017-07-17T04:17:52Z",
+        "uri": "https://web.archive.org.au/awa/20170717041752mp_/http://pandora.nla.gov.au/pan/125730/20170717-1210/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2017-08-04T00:50:36Z",
+        "uri": "https://web.archive.org.au/awa/20170804005036mp_/http://pandora.nla.gov.au/pan/152379/20170804-0127/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2017-08-04T22:10:46Z",
+        "uri": "https://web.archive.org.au/awa/20170804221046mp_/http://pandora.nla.gov.au/pan/147219/20170805-0001/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2017-10-11T06:05:54Z",
+        "uri": "https://web.archive.org.au/awa/20171011060554mp_/http://pandora.nla.gov.au/pan/164872/20171011-1413/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2017-10-23T18:55:28Z",
+        "uri": "https://web.archive.org.au/awa/20171023185528mp_/http://pandora.nla.gov.au/pan/164761/20171024-0000/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2017-11-06T15:36:26Z",
+        "uri": "https://web.archive.org.au/awa/20171106153626mp_/http://pandora.nla.gov.au/pan/160882/20171107-0008/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2017-11-07T16:43:12Z",
+        "uri": "https://web.archive.org.au/awa/20171107164312mp_/http://pandora.nla.gov.au/pan/160882/20171108-0100/www.facebook.com/help/427064200647221acb5.html"
+      },
+      {
+        "datetime": "2020-08-17T06:17:27Z",
+        "uri": "https://web.archive.org/web/20200817061727/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+      }
+    ],
+    "first": {
+      "datetime": "2016-09-13T13:58:30Z",
+      "uri": "https://web.archive.org.au/awa/20160913135830mp_/http://pandora.nla.gov.au/pan/152198/20160913-1526/www.facebook.com/help/427064200647221acb5.html"
+    },
+    "last": {
+      "datetime": "2020-08-17T06:17:27Z",
+      "uri": "https://web.archive.org/web/20200817061727/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.facebook.com/help/427064200647221?helpref=faq_content",
+    "json_format": "http://localhost:1208/timemap/json/https://www.facebook.com/help/427064200647221?helpref=faq_content",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.facebook.com/help/427064200647221?helpref=faq_content"
+}

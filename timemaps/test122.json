@@ -1,0 +1,1254 @@
+{
+  "original_uri": "https://about.fb.com/news/2020/05/welcome-giphy/",
+  "self": "http://localhost:1208/timemap/json/https://about.fb.com/news/2020/05/welcome-giphy/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-15T14:43:19Z",
+        "uri": "https://web.archive.org/web/20200515144319/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T14:43:20Z",
+        "uri": "https://web.archive.org/web/20200515144320/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T14:43:25Z",
+        "uri": "https://web.archive.org/web/20200515144325/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T14:43:26Z",
+        "uri": "https://web.archive.org/web/20200515144326/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T14:46:36Z",
+        "uri": "http://archive.md/20200515144636/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T15:02:37Z",
+        "uri": "https://web.archive.org/web/20200515150237/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T15:39:21Z",
+        "uri": "https://web.archive.org/web/20200515153921/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T15:47:23Z",
+        "uri": "https://web.archive.org/web/20200515154723/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T16:19:44Z",
+        "uri": "https://web.archive.org/web/20200515161944/https://about.fb.com/news/2020/05/welcome-giphy"
+      },
+      {
+        "datetime": "2020-05-15T16:19:45Z",
+        "uri": "https://web.archive.org/web/20200515161945/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T16:31:04Z",
+        "uri": "https://web.archive.org/web/20200515163104/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T17:07:07Z",
+        "uri": "https://web.archive.org/web/20200515170707/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T17:30:29Z",
+        "uri": "https://wayback.archive-it.org/all/20200515173029/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T17:30:29Z",
+        "uri": "https://web.archive.org/web/20200515173029/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-15T21:08:11Z",
+        "uri": "https://web.archive.org/web/20200515210811/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T00:25:42Z",
+        "uri": "https://wayback.archive-it.org/all/20200516002542/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T00:25:42Z",
+        "uri": "https://web.archive.org/web/20200516002542/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T00:25:44Z",
+        "uri": "https://web.archive.org/web/20200516002544/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T01:32:56Z",
+        "uri": "https://wayback.archive-it.org/all/20200516013256/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T01:32:56Z",
+        "uri": "https://web.archive.org/web/20200516013256/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T04:37:38Z",
+        "uri": "https://web.archive.org/web/20200516043738/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T05:35:33Z",
+        "uri": "https://wayback.archive-it.org/all/20200516053533/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T05:35:33Z",
+        "uri": "https://web.archive.org/web/20200516053533/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T06:01:40Z",
+        "uri": "https://web.archive.org/web/20200516060140/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T13:55:59Z",
+        "uri": "https://web.archive.org/web/20200516135559/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T15:55:40Z",
+        "uri": "https://wayback.archive-it.org/all/20200516155540/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T15:55:40Z",
+        "uri": "https://web.archive.org/web/20200516155540/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T16:44:58Z",
+        "uri": "https://web.archive.org/web/20200516164458/https://about.fb.com/news/2020/05/welcome-Giphy/"
+      },
+      {
+        "datetime": "2020-05-16T17:15:09Z",
+        "uri": "https://web.archive.org/web/20200516171509/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T18:48:08Z",
+        "uri": "https://wayback.archive-it.org/all/20200516184808/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T18:48:08Z",
+        "uri": "https://web.archive.org/web/20200516184808/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T21:27:02Z",
+        "uri": "https://wayback.archive-it.org/all/20200516212702/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T21:27:02Z",
+        "uri": "https://web.archive.org/web/20200516212702/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T23:20:34Z",
+        "uri": "https://wayback.archive-it.org/all/20200516232034/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-16T23:20:34Z",
+        "uri": "https://web.archive.org/web/20200516232034/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-17T02:08:06Z",
+        "uri": "https://wayback.archive-it.org/all/20200517020806/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-17T02:08:06Z",
+        "uri": "https://web.archive.org/web/20200517020806/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-17T02:56:20Z",
+        "uri": "https://web.archive.org/web/20200517025620/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-17T05:04:47Z",
+        "uri": "https://wayback.archive-it.org/all/20200517050447/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-17T05:04:47Z",
+        "uri": "https://web.archive.org/web/20200517050447/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-17T12:04:27Z",
+        "uri": "https://web.archive.org/web/20200517120427/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-17T17:19:53Z",
+        "uri": "https://wayback.archive-it.org/all/20200517171953/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-17T17:19:53Z",
+        "uri": "https://web.archive.org/web/20200517171953/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-17T17:58:06Z",
+        "uri": "https://web.archive.org/web/20200517175806/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-18T00:05:59Z",
+        "uri": "https://web.archive.org/web/20200518000559/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-18T03:56:11Z",
+        "uri": "https://wayback.archive-it.org/all/20200518035611/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-18T03:56:11Z",
+        "uri": "https://web.archive.org/web/20200518035611/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-18T06:58:03Z",
+        "uri": "https://wayback.archive-it.org/all/20200518065803/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-18T06:58:03Z",
+        "uri": "https://web.archive.org/web/20200518065803/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-18T14:59:37Z",
+        "uri": "https://web.archive.org/web/20200518145937/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-18T16:49:08Z",
+        "uri": "https://web.archive.org/web/20200518164908/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-18T20:44:06Z",
+        "uri": "https://wayback.archive-it.org/all/20200518204406/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-18T20:44:06Z",
+        "uri": "https://web.archive.org/web/20200518204406/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-19T15:01:41Z",
+        "uri": "https://wayback.archive-it.org/all/20200519150141/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-19T15:01:41Z",
+        "uri": "https://web.archive.org/web/20200519150141/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-19T22:49:41Z",
+        "uri": "https://web.archive.org/web/20200519224941/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-20T04:41:17Z",
+        "uri": "https://web.archive.org/web/20200520044117/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-20T20:23:37Z",
+        "uri": "https://web.archive.org/web/20200520202337/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-21T01:58:24Z",
+        "uri": "https://web.archive.org/web/20200521015824/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-21T04:34:25Z",
+        "uri": "https://web.archive.org/web/20200521043425/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-21T12:15:04Z",
+        "uri": "https://web.archive.org/web/20200521121504/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-21T19:42:58Z",
+        "uri": "https://web.archive.org/web/20200521194258/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-21T23:17:41Z",
+        "uri": "https://web.archive.org/web/20200521231741/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-22T02:50:39Z",
+        "uri": "https://wayback.archive-it.org/all/20200522025039/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-22T02:50:39Z",
+        "uri": "https://web.archive.org/web/20200522025039/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-22T02:54:20Z",
+        "uri": "https://web.archive.org/web/20200522025420/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-22T21:41:38Z",
+        "uri": "https://wayback.archive-it.org/all/20200522214138/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-22T21:41:38Z",
+        "uri": "https://web.archive.org/web/20200522214138/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-23T02:12:52Z",
+        "uri": "https://web.archive.org/web/20200523021252/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-23T07:30:48Z",
+        "uri": "https://web.archive.org/web/20200523073048/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-23T21:44:16Z",
+        "uri": "https://wayback.archive-it.org/all/20200523214416/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-23T21:44:16Z",
+        "uri": "https://web.archive.org/web/20200523214416/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-23T23:45:05Z",
+        "uri": "https://web.archive.org/web/20200523234505/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-24T14:14:55Z",
+        "uri": "https://wayback.archive-it.org/all/20200524141455/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-24T14:14:55Z",
+        "uri": "https://web.archive.org/web/20200524141455/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-24T17:02:33Z",
+        "uri": "https://web.archive.org/web/20200524170233/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-24T18:04:52Z",
+        "uri": "https://web.archive.org/web/20200524180452/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-25T01:01:14Z",
+        "uri": "https://web.archive.org/web/20200525010114/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-25T11:06:47Z",
+        "uri": "https://wayback.archive-it.org/all/20200525110647/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-25T11:06:47Z",
+        "uri": "https://web.archive.org/web/20200525110647/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-25T15:53:55Z",
+        "uri": "https://web.archive.org/web/20200525155355/https://about.fb.com/news/2020/05/welcome-giphy"
+      },
+      {
+        "datetime": "2020-05-25T20:21:18Z",
+        "uri": "https://wayback.archive-it.org/all/20200525202118/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-25T20:21:18Z",
+        "uri": "https://web.archive.org/web/20200525202118/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-25T23:55:58Z",
+        "uri": "https://web.archive.org/web/20200525235558/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T05:21:18Z",
+        "uri": "https://web.archive.org/web/20200526052118/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T05:22:29Z",
+        "uri": "https://web.archive.org/web/20200526052229/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T05:52:01Z",
+        "uri": "https://web.archive.org/web/20200526055201/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T06:46:35Z",
+        "uri": "https://web.archive.org/web/20200526064635/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T07:37:16Z",
+        "uri": "https://web.archive.org/web/20200526073716/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T07:55:39Z",
+        "uri": "https://web.archive.org/web/20200526075539/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T13:02:01Z",
+        "uri": "https://web.archive.org/web/20200526130201/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T15:00:30Z",
+        "uri": "https://web.archive.org/web/20200526150030/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T15:47:04Z",
+        "uri": "https://web.archive.org/web/20200526154704/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T16:53:43Z",
+        "uri": "https://web.archive.org/web/20200526165343/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T17:09:40Z",
+        "uri": "https://web.archive.org/web/20200526170940/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T17:40:47Z",
+        "uri": "https://web.archive.org/web/20200526174047/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T17:40:48Z",
+        "uri": "https://web.archive.org/web/20200526174048/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T18:06:23Z",
+        "uri": "https://wayback.archive-it.org/all/20200526180623/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T18:06:23Z",
+        "uri": "https://web.archive.org/web/20200526180623/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T19:29:43Z",
+        "uri": "https://web.archive.org/web/20200526192943/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T21:44:05Z",
+        "uri": "https://web.archive.org/web/20200526214405/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-26T21:51:19Z",
+        "uri": "https://web.archive.org/web/20200526215119/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T02:06:43Z",
+        "uri": "https://web.archive.org/web/20200527020643/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T03:10:14Z",
+        "uri": "https://web.archive.org/web/20200527031014/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T03:48:58Z",
+        "uri": "https://web.archive.org/web/20200527034858/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T09:30:02Z",
+        "uri": "https://web.archive.org/web/20200527093002/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T10:55:31Z",
+        "uri": "https://web.archive.org/web/20200527105531/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T13:56:37Z",
+        "uri": "https://web.archive.org/web/20200527135637/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T14:01:07Z",
+        "uri": "https://web.archive.org/web/20200527140107/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T15:37:18Z",
+        "uri": "https://web.archive.org/web/20200527153718/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T16:08:53Z",
+        "uri": "https://web.archive.org/web/20200527160853/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T16:39:30Z",
+        "uri": "https://wayback.archive-it.org/all/20200527163930/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T16:39:30Z",
+        "uri": "https://web.archive.org/web/20200527163930/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-27T22:04:33Z",
+        "uri": "https://web.archive.org/web/20200527220433/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T02:24:19Z",
+        "uri": "https://web.archive.org/web/20200528022419/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T03:22:11Z",
+        "uri": "https://web.archive.org/web/20200528032211/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T03:45:23Z",
+        "uri": "https://web.archive.org/web/20200528034523/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T03:47:42Z",
+        "uri": "https://web.archive.org/web/20200528034742/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T04:44:49Z",
+        "uri": "https://web.archive.org/web/20200528044449/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T05:49:53Z",
+        "uri": "https://web.archive.org/web/20200528054953/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T16:03:45Z",
+        "uri": "https://web.archive.org/web/20200528160345/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T16:03:49Z",
+        "uri": "https://web.archive.org/web/20200528160349/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T16:04:16Z",
+        "uri": "https://web.archive.org/web/20200528160416/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T17:49:58Z",
+        "uri": "https://wayback.archive-it.org/all/20200528174958/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-28T17:49:58Z",
+        "uri": "https://web.archive.org/web/20200528174958/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-29T20:19:33Z",
+        "uri": "https://web.archive.org/web/20200529201933/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:10Z",
+        "uri": "https://web.archive.org/web/20200531020310/https://about.fb.com/news/2020/05/welcome-giphy"
+      },
+      {
+        "datetime": "2020-05-31T02:03:11Z",
+        "uri": "https://web.archive.org/web/20200531020311/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:13Z",
+        "uri": "https://web.archive.org/web/20200531020313/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:14Z",
+        "uri": "https://web.archive.org/web/20200531020314/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:16Z",
+        "uri": "https://web.archive.org/web/20200531020316/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:18Z",
+        "uri": "https://web.archive.org/web/20200531020318/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:19Z",
+        "uri": "https://web.archive.org/web/20200531020319/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:22Z",
+        "uri": "https://web.archive.org/web/20200531020322/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:23Z",
+        "uri": "https://web.archive.org/web/20200531020323/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:25Z",
+        "uri": "https://web.archive.org/web/20200531020325/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:27Z",
+        "uri": "https://web.archive.org/web/20200531020327/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:29Z",
+        "uri": "https://web.archive.org/web/20200531020329/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:30Z",
+        "uri": "https://web.archive.org/web/20200531020330/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:33Z",
+        "uri": "https://web.archive.org/web/20200531020333/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:34Z",
+        "uri": "https://web.archive.org/web/20200531020334/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:36Z",
+        "uri": "https://web.archive.org/web/20200531020336/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:38Z",
+        "uri": "https://web.archive.org/web/20200531020338/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:40Z",
+        "uri": "https://web.archive.org/web/20200531020340/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:42Z",
+        "uri": "https://web.archive.org/web/20200531020342/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:44Z",
+        "uri": "https://web.archive.org/web/20200531020344/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:45Z",
+        "uri": "https://web.archive.org/web/20200531020345/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:47Z",
+        "uri": "https://web.archive.org/web/20200531020347/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:49Z",
+        "uri": "https://web.archive.org/web/20200531020349/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:50Z",
+        "uri": "https://web.archive.org/web/20200531020350/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:52Z",
+        "uri": "https://web.archive.org/web/20200531020352/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:54Z",
+        "uri": "https://web.archive.org/web/20200531020354/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:55Z",
+        "uri": "https://web.archive.org/web/20200531020355/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:57Z",
+        "uri": "https://web.archive.org/web/20200531020357/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:03:58Z",
+        "uri": "https://web.archive.org/web/20200531020358/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:04:00Z",
+        "uri": "https://web.archive.org/web/20200531020400/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:04:02Z",
+        "uri": "https://web.archive.org/web/20200531020402/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:04:04Z",
+        "uri": "https://web.archive.org/web/20200531020404/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:04:05Z",
+        "uri": "https://web.archive.org/web/20200531020405/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:04:07Z",
+        "uri": "https://web.archive.org/web/20200531020407/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:04:08Z",
+        "uri": "https://web.archive.org/web/20200531020408/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:04:10Z",
+        "uri": "https://web.archive.org/web/20200531020410/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:04:12Z",
+        "uri": "https://web.archive.org/web/20200531020412/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:04:14Z",
+        "uri": "https://web.archive.org/web/20200531020414/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T02:04:15Z",
+        "uri": "https://web.archive.org/web/20200531020415/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-05-31T13:06:53Z",
+        "uri": "https://web.archive.org/web/20200531130653/https://about.fb.com/news/2020/05/welcome-giphy"
+      },
+      {
+        "datetime": "2020-06-02T01:13:34Z",
+        "uri": "https://web.archive.org/web/20200602011334/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-03T11:45:38Z",
+        "uri": "https://wayback.archive-it.org/all/20200603114538/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-03T11:45:38Z",
+        "uri": "https://web.archive.org/web/20200603114538/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-05T06:14:56Z",
+        "uri": "https://web.archive.org/web/20200605061456/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-06T11:23:22Z",
+        "uri": "https://web.archive.org/web/20200606112322/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-06T19:30:47Z",
+        "uri": "https://web.archive.org/web/20200606193047/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-07T00:13:57Z",
+        "uri": "https://web.archive.org/web/20200607001357/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-11T07:55:43Z",
+        "uri": "https://web.archive.org/web/20200611075543/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-13T02:26:36Z",
+        "uri": "https://web.archive.org/web/20200613022636/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-16T01:15:10Z",
+        "uri": "https://web.archive.org/web/20200616011510/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-18T01:32:53Z",
+        "uri": "https://web.archive.org/web/20200618013253/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-19T21:13:40Z",
+        "uri": "https://web.archive.org/web/20200619211340/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-26T06:21:20Z",
+        "uri": "https://web.archive.org/web/20200626062120/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-29T17:14:26Z",
+        "uri": "https://web.archive.org/web/20200629171426/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-29T17:14:28Z",
+        "uri": "https://web.archive.org/web/20200629171428/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-06-30T13:15:12Z",
+        "uri": "https://web.archive.org/web/20200630131512/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-06T23:04:58Z",
+        "uri": "https://web.archive.org/web/20200706230458/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-07T22:21:21Z",
+        "uri": "https://web.archive.org/web/20200707222121/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-07T23:33:38Z",
+        "uri": "https://web.archive.org/web/20200707233338/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-08T03:01:52Z",
+        "uri": "https://web.archive.org/web/20200708030152/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-18T19:28:33Z",
+        "uri": "https://web.archive.org/web/20200718192833/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T12:23:24Z",
+        "uri": "https://web.archive.org/web/20200721122324/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:30Z",
+        "uri": "https://web.archive.org/web/20200721171130/https://about.fb.com/news/2020/05/welcome-giphy"
+      },
+      {
+        "datetime": "2020-07-21T17:11:32Z",
+        "uri": "https://web.archive.org/web/20200721171132/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:34Z",
+        "uri": "https://web.archive.org/web/20200721171134/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:36Z",
+        "uri": "https://web.archive.org/web/20200721171136/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:38Z",
+        "uri": "https://web.archive.org/web/20200721171138/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:41Z",
+        "uri": "https://web.archive.org/web/20200721171141/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:43Z",
+        "uri": "https://web.archive.org/web/20200721171143/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:46Z",
+        "uri": "https://web.archive.org/web/20200721171146/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:48Z",
+        "uri": "https://web.archive.org/web/20200721171148/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:50Z",
+        "uri": "https://web.archive.org/web/20200721171150/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:52Z",
+        "uri": "https://web.archive.org/web/20200721171152/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:54Z",
+        "uri": "https://web.archive.org/web/20200721171154/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:57Z",
+        "uri": "https://web.archive.org/web/20200721171157/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:11:59Z",
+        "uri": "https://web.archive.org/web/20200721171159/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:01Z",
+        "uri": "https://web.archive.org/web/20200721171201/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:03Z",
+        "uri": "https://web.archive.org/web/20200721171203/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:05Z",
+        "uri": "https://web.archive.org/web/20200721171205/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:07Z",
+        "uri": "https://web.archive.org/web/20200721171207/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:10Z",
+        "uri": "https://web.archive.org/web/20200721171210/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:12Z",
+        "uri": "https://web.archive.org/web/20200721171212/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:14Z",
+        "uri": "https://web.archive.org/web/20200721171214/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:16Z",
+        "uri": "https://web.archive.org/web/20200721171216/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:18Z",
+        "uri": "https://web.archive.org/web/20200721171218/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:20Z",
+        "uri": "https://web.archive.org/web/20200721171220/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:22Z",
+        "uri": "https://web.archive.org/web/20200721171222/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:25Z",
+        "uri": "https://web.archive.org/web/20200721171225/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:27Z",
+        "uri": "https://web.archive.org/web/20200721171227/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:29Z",
+        "uri": "https://web.archive.org/web/20200721171229/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:31Z",
+        "uri": "https://web.archive.org/web/20200721171231/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:33Z",
+        "uri": "https://web.archive.org/web/20200721171233/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:35Z",
+        "uri": "https://web.archive.org/web/20200721171235/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:37Z",
+        "uri": "https://web.archive.org/web/20200721171237/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:39Z",
+        "uri": "https://web.archive.org/web/20200721171239/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:41Z",
+        "uri": "https://web.archive.org/web/20200721171241/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:43Z",
+        "uri": "https://web.archive.org/web/20200721171243/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:45Z",
+        "uri": "https://web.archive.org/web/20200721171245/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:47Z",
+        "uri": "https://web.archive.org/web/20200721171247/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:49Z",
+        "uri": "https://web.archive.org/web/20200721171249/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:51Z",
+        "uri": "https://web.archive.org/web/20200721171251/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:53Z",
+        "uri": "https://web.archive.org/web/20200721171253/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:55Z",
+        "uri": "https://web.archive.org/web/20200721171255/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:57Z",
+        "uri": "https://web.archive.org/web/20200721171257/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:12:59Z",
+        "uri": "https://web.archive.org/web/20200721171259/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-21T17:13:01Z",
+        "uri": "https://web.archive.org/web/20200721171301/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-23T08:46:59Z",
+        "uri": "https://web.archive.org/web/20200723084659/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-25T22:55:43Z",
+        "uri": "https://web.archive.org/web/20200725225543/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-07-31T19:17:16Z",
+        "uri": "https://web.archive.org/web/20200731191716/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-02T11:42:26Z",
+        "uri": "https://web.archive.org/web/20200802114226/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-03T02:08:42Z",
+        "uri": "https://web.archive.org/web/20200803020842/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-03T09:10:30Z",
+        "uri": "https://web.archive.org/web/20200803091030/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T01:04:40Z",
+        "uri": "https://web.archive.org/web/20200817010440/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:43:51Z",
+        "uri": "https://web.archive.org/web/20200817134351/https://about.fb.com/news/2020/05/welcome-giphy"
+      },
+      {
+        "datetime": "2020-08-17T13:43:53Z",
+        "uri": "https://web.archive.org/web/20200817134353/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:43:56Z",
+        "uri": "https://web.archive.org/web/20200817134356/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:43:59Z",
+        "uri": "https://web.archive.org/web/20200817134359/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:01Z",
+        "uri": "https://web.archive.org/web/20200817134401/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:04Z",
+        "uri": "https://web.archive.org/web/20200817134404/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:06Z",
+        "uri": "https://web.archive.org/web/20200817134406/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:09Z",
+        "uri": "https://web.archive.org/web/20200817134409/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:12Z",
+        "uri": "https://web.archive.org/web/20200817134412/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:14Z",
+        "uri": "https://web.archive.org/web/20200817134414/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:17Z",
+        "uri": "https://web.archive.org/web/20200817134417/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:20Z",
+        "uri": "https://web.archive.org/web/20200817134420/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:22Z",
+        "uri": "https://web.archive.org/web/20200817134422/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:25Z",
+        "uri": "https://web.archive.org/web/20200817134425/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:27Z",
+        "uri": "https://web.archive.org/web/20200817134427/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:29Z",
+        "uri": "https://web.archive.org/web/20200817134429/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:32Z",
+        "uri": "https://web.archive.org/web/20200817134432/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:35Z",
+        "uri": "https://web.archive.org/web/20200817134435/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:37Z",
+        "uri": "https://web.archive.org/web/20200817134437/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:39Z",
+        "uri": "https://web.archive.org/web/20200817134439/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:42Z",
+        "uri": "https://web.archive.org/web/20200817134442/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:44Z",
+        "uri": "https://web.archive.org/web/20200817134444/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:46Z",
+        "uri": "https://web.archive.org/web/20200817134446/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:48Z",
+        "uri": "https://web.archive.org/web/20200817134448/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:51Z",
+        "uri": "https://web.archive.org/web/20200817134451/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:53Z",
+        "uri": "https://web.archive.org/web/20200817134453/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:56Z",
+        "uri": "https://web.archive.org/web/20200817134456/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:44:59Z",
+        "uri": "https://web.archive.org/web/20200817134459/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:01Z",
+        "uri": "https://web.archive.org/web/20200817134501/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:04Z",
+        "uri": "https://web.archive.org/web/20200817134504/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:06Z",
+        "uri": "https://web.archive.org/web/20200817134506/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:09Z",
+        "uri": "https://web.archive.org/web/20200817134509/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:11Z",
+        "uri": "https://web.archive.org/web/20200817134511/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:14Z",
+        "uri": "https://web.archive.org/web/20200817134514/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:16Z",
+        "uri": "https://web.archive.org/web/20200817134516/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:18Z",
+        "uri": "https://web.archive.org/web/20200817134518/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:21Z",
+        "uri": "https://web.archive.org/web/20200817134521/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:23Z",
+        "uri": "https://web.archive.org/web/20200817134523/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:25Z",
+        "uri": "https://web.archive.org/web/20200817134525/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:28Z",
+        "uri": "https://web.archive.org/web/20200817134528/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:31Z",
+        "uri": "https://web.archive.org/web/20200817134531/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:33Z",
+        "uri": "https://web.archive.org/web/20200817134533/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:35Z",
+        "uri": "https://web.archive.org/web/20200817134535/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:38Z",
+        "uri": "https://web.archive.org/web/20200817134538/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:40Z",
+        "uri": "https://web.archive.org/web/20200817134540/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:42Z",
+        "uri": "https://web.archive.org/web/20200817134542/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:45Z",
+        "uri": "https://web.archive.org/web/20200817134545/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-17T13:45:47Z",
+        "uri": "https://web.archive.org/web/20200817134547/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-08-23T17:58:41Z",
+        "uri": "https://web.archive.org/web/20200823175841/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-09-18T02:51:32Z",
+        "uri": "https://web.archive.org/web/20200918025132/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-09-19T15:43:17Z",
+        "uri": "https://web.archive.org/web/20200919154317/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-09-25T05:55:39Z",
+        "uri": "https://web.archive.org/web/20200925055539/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-09-29T15:05:11Z",
+        "uri": "https://web.archive.org/web/20200929150511/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-10-02T13:32:32Z",
+        "uri": "https://web.archive.org/web/20201002133232/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-10-18T17:04:51Z",
+        "uri": "https://web.archive.org/web/20201018170451/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-10-31T08:33:29Z",
+        "uri": "https://wayback.archive-it.org/all/20201031083329/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-11-01T05:24:44Z",
+        "uri": "https://web.archive.org/web/20201101052444/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-11-06T05:34:48Z",
+        "uri": "https://web.archive.org/web/20201106053448/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-11-15T08:11:45Z",
+        "uri": "https://web.archive.org/web/20201115081145/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-11-16T08:28:28Z",
+        "uri": "https://web.archive.org/web/20201116082828/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-11-16T08:28:52Z",
+        "uri": "https://web.archive.org/web/20201116082852/https://about.fb.com/news/2020/05/welcome-giphy/#primaryimage%22,%22url%22:%22https://about.fb.com/wp-content/uploads/2020/05/Celebration-16_9.gif?fit=1000,563%22,%22width%22:1000,%22height%22:563"
+      },
+      {
+        "datetime": "2020-11-16T08:28:59Z",
+        "uri": "https://web.archive.org/web/20201116082859/https://about.fb.com/news/2020/05/welcome-giphy/#webpage%22,%22url%22:%22https://about.fb.com/news/2020/05/welcome-giphy/%22,%22inLanguage%22:%22en-US%22,%22name%22:%22Facebook"
+      },
+      {
+        "datetime": "2020-11-16T08:29:02Z",
+        "uri": "https://web.archive.org/web/20201116082902/https://about.fb.com/news/2020/05/welcome-giphy/#primaryimage"
+      },
+      {
+        "datetime": "2020-11-16T08:29:04Z",
+        "uri": "https://web.archive.org/web/20201116082904/https://about.fb.com/news/2020/05/welcome-giphy/#article%22,%22isPartOf%22:%7B%22@id%22:%22https://about.fb.com/news/2020/05/welcome-giphy/%23webpage%22%7D,%22author%22:%22Facebook"
+      },
+      {
+        "datetime": "2020-11-16T08:29:08Z",
+        "uri": "https://web.archive.org/web/20201116082908/https://about.fb.com/news/2020/05/welcome-giphy/#webpage"
+      },
+      {
+        "datetime": "2020-11-16T08:29:20Z",
+        "uri": "https://web.archive.org/web/20201116082920/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-11-18T18:14:23Z",
+        "uri": "https://wayback.archive-it.org/all/20201118181423/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-11-19T05:33:38Z",
+        "uri": "https://wayback.archive-it.org/all/20201119053338/https://about.fb.com/news/2020/05/welcome-giphy/"
+      },
+      {
+        "datetime": "2020-11-19T17:35:15Z",
+        "uri": "https://wayback.archive-it.org/all/20201119173515/https://about.fb.com/news/2020/05/welcome-giphy/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-15T14:43:19Z",
+      "uri": "https://web.archive.org/web/20200515144319/https://about.fb.com/news/2020/05/welcome-giphy/"
+    },
+    "last": {
+      "datetime": "2020-11-19T17:35:15Z",
+      "uri": "https://wayback.archive-it.org/all/20201119173515/https://about.fb.com/news/2020/05/welcome-giphy/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://about.fb.com/news/2020/05/welcome-giphy/",
+    "json_format": "http://localhost:1208/timemap/json/https://about.fb.com/news/2020/05/welcome-giphy/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://about.fb.com/news/2020/05/welcome-giphy/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://about.fb.com/news/2020/05/welcome-giphy/"
+}

@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.instagram.com/covid19_photos_for_teens/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/covid19_photos_for_teens/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-08T23:55:37Z",
+        "uri": "https://web.archive.org/web/20200508235537/https://www.instagram.com/covid19_photos_for_teens/"
+      },
+      {
+        "datetime": "2020-10-11T10:24:21Z",
+        "uri": "https://web.archive.org/web/20201011102421/https://www.instagram.com/covid19_photos_for_teens/"
+      },
+      {
+        "datetime": "2020-11-23T06:41:35Z",
+        "uri": "https://web.archive.org/web/20201123064135/https://www.instagram.com/covid19_photos_for_teens/"
+      },
+      {
+        "datetime": "2020-11-23T06:41:35Z",
+        "uri": "https://web.archive.org/web/20201123064135/http://www.instagram.com/covid19_photos_for_teens"
+      },
+      {
+        "datetime": "2020-11-23T18:42:11Z",
+        "uri": "https://web.archive.org/web/20201123184211/https://www.instagram.com/covid19_photos_for_teens/"
+      },
+      {
+        "datetime": "2020-11-23T18:42:11Z",
+        "uri": "https://web.archive.org/web/20201123184211/http://www.instagram.com/covid19_photos_for_teens"
+      },
+      {
+        "datetime": "2020-11-24T06:54:21Z",
+        "uri": "https://web.archive.org/web/20201124065421/https://www.instagram.com/covid19_photos_for_teens/"
+      },
+      {
+        "datetime": "2020-11-24T06:54:21Z",
+        "uri": "https://web.archive.org/web/20201124065421/http://www.instagram.com/covid19_photos_for_teens"
+      },
+      {
+        "datetime": "2020-11-24T19:08:53Z",
+        "uri": "https://web.archive.org/web/20201124190853/https://www.instagram.com/covid19_photos_for_teens/"
+      },
+      {
+        "datetime": "2020-11-24T19:08:53Z",
+        "uri": "https://web.archive.org/web/20201124190853/http://www.instagram.com/covid19_photos_for_teens"
+      },
+      {
+        "datetime": "2020-11-25T08:13:24Z",
+        "uri": "https://web.archive.org/web/20201125081324/https://www.instagram.com/covid19_photos_for_teens/"
+      },
+      {
+        "datetime": "2020-11-25T08:13:24Z",
+        "uri": "https://web.archive.org/web/20201125081324/http://www.instagram.com/covid19_photos_for_teens"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-08T23:55:37Z",
+      "uri": "https://web.archive.org/web/20200508235537/https://www.instagram.com/covid19_photos_for_teens/"
+    },
+    "last": {
+      "datetime": "2020-11-25T08:13:24Z",
+      "uri": "https://web.archive.org/web/20201125081324/http://www.instagram.com/covid19_photos_for_teens"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/covid19_photos_for_teens/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/covid19_photos_for_teens/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/covid19_photos_for_teens/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/covid19_photos_for_teens/"
+}

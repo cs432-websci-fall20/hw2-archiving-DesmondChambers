@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://apps.apple.com/us/app/writr/id831996132",
+  "self": "http://localhost:1208/timemap/json/https://apps.apple.com/us/app/writr/id831996132",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-24T02:43:00Z",
+        "uri": "https://web.archive.org/web/20200324024300/https://apps.apple.com/us/app/writr/id831996132"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-24T02:43:00Z",
+      "uri": "https://web.archive.org/web/20200324024300/https://apps.apple.com/us/app/writr/id831996132"
+    },
+    "last": {
+      "datetime": "2020-03-24T02:43:00Z",
+      "uri": "https://web.archive.org/web/20200324024300/https://apps.apple.com/us/app/writr/id831996132"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://apps.apple.com/us/app/writr/id831996132",
+    "json_format": "http://localhost:1208/timemap/json/https://apps.apple.com/us/app/writr/id831996132",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://apps.apple.com/us/app/writr/id831996132"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://apps.apple.com/us/app/writr/id831996132"
+}

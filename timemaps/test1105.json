@@ -1,0 +1,126 @@
+{
+  "original_uri": "https://zessoo.com/",
+  "self": "http://localhost:1208/timemap/json/https://zessoo.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-12-03T21:15:34Z",
+        "uri": "https://web.archive.org/web/20171203211534/http://zessoo.com/"
+      },
+      {
+        "datetime": "2018-02-09T05:28:31Z",
+        "uri": "https://web.archive.org/web/20180209052831/https://zessoo.com/"
+      },
+      {
+        "datetime": "2018-04-14T01:13:02Z",
+        "uri": "https://web.archive.org/web/20180414011302/https://www.zessoo.com/"
+      },
+      {
+        "datetime": "2018-04-14T09:17:23Z",
+        "uri": "https://web.archive.org/web/20180414091723/https://zessoo.com/"
+      },
+      {
+        "datetime": "2018-06-16T20:56:31Z",
+        "uri": "https://web.archive.org/web/20180616205631/https://zessoo.com/"
+      },
+      {
+        "datetime": "2018-08-05T18:11:38Z",
+        "uri": "https://web.archive.org/web/20180805181138/http://zessoo.com/"
+      },
+      {
+        "datetime": "2018-08-21T04:15:01Z",
+        "uri": "https://web.archive.org/web/20180821041501/https://zessoo.com/"
+      },
+      {
+        "datetime": "2018-08-28T17:06:56Z",
+        "uri": "https://web.archive.org/web/20180828170656/https://zessoo.com/"
+      },
+      {
+        "datetime": "2018-12-26T01:30:12Z",
+        "uri": "https://web.archive.org/web/20181226013012/http://zessoo.com/"
+      },
+      {
+        "datetime": "2019-01-12T03:04:34Z",
+        "uri": "https://web.archive.org/web/20190112030434/https://zessoo.com/"
+      },
+      {
+        "datetime": "2019-05-08T15:17:38Z",
+        "uri": "https://web.archive.org/web/20190508151738/http://zessoo.com/"
+      },
+      {
+        "datetime": "2019-05-08T15:17:49Z",
+        "uri": "https://web.archive.org/web/20190508151749/https://zessoo.com/"
+      },
+      {
+        "datetime": "2019-05-19T11:12:11Z",
+        "uri": "https://web.archive.org/web/20190519111211/http://zessoo.com/"
+      },
+      {
+        "datetime": "2019-08-12T07:14:25Z",
+        "uri": "https://web.archive.org/web/20190812071425/http://zessoo.com/"
+      },
+      {
+        "datetime": "2020-05-11T07:32:44Z",
+        "uri": "https://web.archive.org/web/20200511073244/https://zessoo.com/"
+      },
+      {
+        "datetime": "2020-05-13T22:44:47Z",
+        "uri": "https://web.archive.org/web/20200513224447/https://zessoo.com/"
+      },
+      {
+        "datetime": "2020-08-04T16:29:52Z",
+        "uri": "https://web.archive.org/web/20200804162952/https://zessoo.com/"
+      },
+      {
+        "datetime": "2020-09-01T16:31:30Z",
+        "uri": "https://web.archive.org/web/20200901163130/https://zessoo.com/"
+      },
+      {
+        "datetime": "2020-09-25T02:43:46Z",
+        "uri": "https://web.archive.org/web/20200925024346/https://zessoo.com/"
+      },
+      {
+        "datetime": "2020-10-23T23:54:47Z",
+        "uri": "https://web.archive.org/web/20201023235447/https://zessoo.com/"
+      },
+      {
+        "datetime": "2020-10-24T11:19:37Z",
+        "uri": "https://web.archive.org/web/20201024111937/https://zessoo.com/"
+      },
+      {
+        "datetime": "2020-11-01T01:05:54Z",
+        "uri": "https://web.archive.org/web/20201101010554/http://zessoo.com/"
+      },
+      {
+        "datetime": "2020-11-01T01:05:55Z",
+        "uri": "https://web.archive.org/web/20201101010555/https://zessoo.com/"
+      },
+      {
+        "datetime": "2020-11-01T06:54:36Z",
+        "uri": "https://web.archive.org/web/20201101065436/http://zessoo.com/"
+      },
+      {
+        "datetime": "2020-11-01T06:54:37Z",
+        "uri": "https://web.archive.org/web/20201101065437/https://zessoo.com/"
+      },
+      {
+        "datetime": "2020-11-01T14:50:16Z",
+        "uri": "https://web.archive.org/web/20201101145016/https://zessoo.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-12-03T21:15:34Z",
+      "uri": "https://web.archive.org/web/20171203211534/http://zessoo.com/"
+    },
+    "last": {
+      "datetime": "2020-11-01T14:50:16Z",
+      "uri": "https://web.archive.org/web/20201101145016/https://zessoo.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://zessoo.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://zessoo.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://zessoo.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://zessoo.com/"
+}

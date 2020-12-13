@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.youtube.com/watch?v=_poD7UcGqOk",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=_poD7UcGqOk",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-08T01:24:21Z",
+        "uri": "https://web.archive.org/web/20201108012421/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-08T03:42:53Z",
+        "uri": "https://web.archive.org/web/20201108034253/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-08T07:07:12Z",
+        "uri": "https://web.archive.org/web/20201108070712/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-08T16:56:36Z",
+        "uri": "https://web.archive.org/web/20201108165636/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-08T23:07:16Z",
+        "uri": "https://web.archive.org/web/20201108230716/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-08T23:47:15Z",
+        "uri": "https://web.archive.org/web/20201108234715/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-09T04:39:44Z",
+        "uri": "https://web.archive.org/web/20201109043944/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-09T06:53:25Z",
+        "uri": "https://web.archive.org/web/20201109065325/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-09T13:26:36Z",
+        "uri": "https://web.archive.org/web/20201109132636/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-09T17:57:22Z",
+        "uri": "https://web.archive.org/web/20201109175722/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-10T02:25:57Z",
+        "uri": "https://web.archive.org/web/20201110022557/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      },
+      {
+        "datetime": "2020-11-10T23:17:00Z",
+        "uri": "https://web.archive.org/web/20201110231700/https://www.youtube.com/watch?v=_poD7UcGqOk"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-08T01:24:21Z",
+      "uri": "https://web.archive.org/web/20201108012421/https://www.youtube.com/watch?v=_poD7UcGqOk"
+    },
+    "last": {
+      "datetime": "2020-11-10T23:17:00Z",
+      "uri": "https://web.archive.org/web/20201110231700/https://www.youtube.com/watch?v=_poD7UcGqOk"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/watch?v=_poD7UcGqOk",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=_poD7UcGqOk",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/watch?v=_poD7UcGqOk"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/watch?v=_poD7UcGqOk"
+}

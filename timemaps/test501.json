@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778",
+  "self": "http://localhost:1208/timemap/json/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T03:33:48Z",
+        "uri": "https://web.archive.org/web/20201006033348/https://goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      },
+      {
+        "datetime": "2020-10-06T03:33:49Z",
+        "uri": "https://web.archive.org/web/20201006033349/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      },
+      {
+        "datetime": "2020-10-06T04:54:48Z",
+        "uri": "https://web.archive.org/web/20201006045448/https://goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      },
+      {
+        "datetime": "2020-10-06T08:32:58Z",
+        "uri": "https://web.archive.org/web/20201006083258/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      },
+      {
+        "datetime": "2020-10-06T12:23:58Z",
+        "uri": "https://perma.cc/7GZW-3VUY"
+      },
+      {
+        "datetime": "2020-10-06T12:23:59Z",
+        "uri": "https://web.archive.org/web/20201006122359/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      },
+      {
+        "datetime": "2020-10-11T18:12:33Z",
+        "uri": "https://web.archive.org/web/20201011181233/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      },
+      {
+        "datetime": "2020-10-14T08:44:58Z",
+        "uri": "https://web.archive.org/web/20201014084458/https://goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      },
+      {
+        "datetime": "2020-10-14T11:02:21Z",
+        "uri": "https://web.archive.org/web/20201014110221/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      },
+      {
+        "datetime": "2020-10-14T13:35:12Z",
+        "uri": "https://web.archive.org/web/20201014133512/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      },
+      {
+        "datetime": "2020-10-14T13:35:12Z",
+        "uri": "https://web.archive.org/web/20201014133512/https://goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      },
+      {
+        "datetime": "2020-11-23T19:49:09Z",
+        "uri": "https://web.archive.org/web/20201123194909/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T03:33:48Z",
+      "uri": "https://web.archive.org/web/20201006033348/https://goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+    },
+    "last": {
+      "datetime": "2020-11-23T19:49:09Z",
+      "uri": "https://web.archive.org/web/20201123194909/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778",
+    "json_format": "http://localhost:1208/timemap/json/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.goodmorningamerica.com/news/story/nj-judge-family-assault-killed-son-wounded-husband-73433778"
+}

@@ -1,0 +1,270 @@
+{
+  "original_uri": "https://www.instagram.com/mosseri/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/mosseri/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-05-15T13:35:40Z",
+        "uri": "https://web.archive.org/web/20130515133540/http://instagram.com:80/mosseri"
+      },
+      {
+        "datetime": "2018-10-01T18:30:38Z",
+        "uri": "https://webarchive.loc.gov/all/20181001183038/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2018-10-05T09:55:02Z",
+        "uri": "https://webarchive.loc.gov/all/20181005095502/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2018-10-29T18:17:53Z",
+        "uri": "https://wayback.archive-it.org/all/20181029181753/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2018-10-29T18:17:53Z",
+        "uri": "https://web.archive.org/web/20181029181753/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-03-05T22:59:54Z",
+        "uri": "https://wayback.archive-it.org/all/20190305225954/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-03-05T22:59:54Z",
+        "uri": "https://web.archive.org/web/20190305225954/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-03-10T19:19:52Z",
+        "uri": "https://web.archive.org/web/20190310191952/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-10T15:24:43Z",
+        "uri": "https://webarchive.loc.gov/all/20190610152443/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-16T13:18:42Z",
+        "uri": "https://web.archive.org/web/20190616131842/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-16T17:49:14Z",
+        "uri": "https://web.archive.org/web/20190616174914/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-16T18:10:23Z",
+        "uri": "https://web.archive.org/web/20190616181023/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-18T01:14:09Z",
+        "uri": "https://web.archive.org/web/20190618011409/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-18T03:59:35Z",
+        "uri": "https://web.archive.org/web/20190618035935/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-18T17:36:22Z",
+        "uri": "https://web.archive.org/web/20190618173622/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-18T17:50:05Z",
+        "uri": "https://web.archive.org/web/20190618175005/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-18T21:32:47Z",
+        "uri": "https://web.archive.org/web/20190618213247/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-20T02:30:32Z",
+        "uri": "https://web.archive.org/web/20190620023032/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-20T12:36:43Z",
+        "uri": "https://web.archive.org/web/20190620123643/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-20T14:10:29Z",
+        "uri": "https://web.archive.org/web/20190620141029/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-20T14:34:42Z",
+        "uri": "https://web.archive.org/web/20190620143442/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-20T20:14:41Z",
+        "uri": "https://web.archive.org/web/20190620201441/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-21T09:33:31Z",
+        "uri": "https://web.archive.org/web/20190621093331/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2019-06-21T17:45:36Z",
+        "uri": "https://web.archive.org/web/20190621174536/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-01-02T17:34:28Z",
+        "uri": "https://web.archive.org/web/20200102173428/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-03-30T00:31:55Z",
+        "uri": "https://web.archive.org/web/20200330003155/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-05-11T02:59:59Z",
+        "uri": "https://web.archive.org/web/20200511025959/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-06-14T15:28:00Z",
+        "uri": "https://web.archive.org/web/20200614152800/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-06-14T15:28:53Z",
+        "uri": "https://web.archive.org/web/20200614152853/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-09-06T01:44:07Z",
+        "uri": "https://web.archive.org/web/20200906014407/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-09-06T01:44:51Z",
+        "uri": "https://web.archive.org/web/20200906014451/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-10-17T05:48:21Z",
+        "uri": "https://wayback.archive-it.org/all/20201017054821/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-10-25T17:44:58Z",
+        "uri": "https://wayback.archive-it.org/all/20201025174458/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-10-31T02:22:28Z",
+        "uri": "https://wayback.archive-it.org/all/20201031022228/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-10-31T06:20:50Z",
+        "uri": "https://web.archive.org/web/20201031062050/http://instagram.com/mosseri"
+      },
+      {
+        "datetime": "2020-10-31T06:20:51Z",
+        "uri": "https://web.archive.org/web/20201031062051/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-10-31T06:20:51Z",
+        "uri": "https://web.archive.org/web/20201031062051/https://instagram.com/mosseri"
+      },
+      {
+        "datetime": "2020-11-09T17:58:48Z",
+        "uri": "https://wayback.archive-it.org/all/20201109175848/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-12T02:40:50Z",
+        "uri": "https://web.archive.org/web/20201112024050/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-13T15:27:59Z",
+        "uri": "https://web.archive.org/web/20201113152759/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-15T16:41:27Z",
+        "uri": "https://wayback.archive-it.org/all/20201115164127/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-17T00:23:42Z",
+        "uri": "https://web.archive.org/web/20201117002342/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-18T19:04:20Z",
+        "uri": "https://web.archive.org/web/20201118190420/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-19T05:01:38Z",
+        "uri": "https://web.archive.org/web/20201119050138/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-19T15:27:37Z",
+        "uri": "https://web.archive.org/web/20201119152737/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-20T00:00:02Z",
+        "uri": "https://web.archive.org/web/20201120000002/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-20T07:56:18Z",
+        "uri": "https://web.archive.org/web/20201120075618/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-21T00:06:36Z",
+        "uri": "https://web.archive.org/web/20201121000636/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-21T07:56:21Z",
+        "uri": "https://web.archive.org/web/20201121075621/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-21T17:13:48Z",
+        "uri": "https://web.archive.org/web/20201121171348/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-21T20:22:37Z",
+        "uri": "https://wayback.archive-it.org/all/20201121202237/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-22T17:13:48Z",
+        "uri": "https://web.archive.org/web/20201122171348/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-23T05:24:34Z",
+        "uri": "https://web.archive.org/web/20201123052434/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-23T17:28:06Z",
+        "uri": "https://web.archive.org/web/20201123172806/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-24T06:04:16Z",
+        "uri": "https://web.archive.org/web/20201124060416/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-24T18:11:08Z",
+        "uri": "https://web.archive.org/web/20201124181108/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-25T07:14:52Z",
+        "uri": "https://web.archive.org/web/20201125071452/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-29T05:33:15Z",
+        "uri": "https://wayback.archive-it.org/all/20201129053315/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-30T05:42:01Z",
+        "uri": "https://web.archive.org/web/20201130054201/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-11-30T05:42:01Z",
+        "uri": "https://web.archive.org/web/20201130054201/https://instagram.com/mosseri"
+      },
+      {
+        "datetime": "2020-12-01T00:26:36Z",
+        "uri": "https://web.archive.org/web/20201201002636/https://www.instagram.com/mosseri/"
+      },
+      {
+        "datetime": "2020-12-01T00:26:36Z",
+        "uri": "https://web.archive.org/web/20201201002636/https://www.instagram.com/mosseri"
+      }
+    ],
+    "first": {
+      "datetime": "2013-05-15T13:35:40Z",
+      "uri": "https://web.archive.org/web/20130515133540/http://instagram.com:80/mosseri"
+    },
+    "last": {
+      "datetime": "2020-12-01T00:26:36Z",
+      "uri": "https://web.archive.org/web/20201201002636/https://www.instagram.com/mosseri"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/mosseri/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/mosseri/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/mosseri/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/mosseri/"
+}

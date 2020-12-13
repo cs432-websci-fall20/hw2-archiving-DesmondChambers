@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.facebook.com/zuck/videos/10111936118050541",
+  "self": "http://localhost:1208/timemap/json/https://www.facebook.com/zuck/videos/10111936118050541",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-17T12:25:01Z",
+        "uri": "https://web.archive.org/web/20200617122501/https://www.facebook.com/zuck/videos/10111936118050541/"
+      },
+      {
+        "datetime": "2020-06-17T16:49:42Z",
+        "uri": "https://web.archive.org/web/20200617164942/https://www.facebook.com/zuck/videos/10111936118050541/"
+      },
+      {
+        "datetime": "2020-07-15T03:08:51Z",
+        "uri": "https://web.archive.org/web/20200715030851/https://www.facebook.com/zuck/videos/10111936118050541"
+      },
+      {
+        "datetime": "2020-08-11T19:35:30Z",
+        "uri": "https://web.archive.org/web/20200811193530/https://www.facebook.com/zuck/videos/10111936118050541"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-17T12:25:01Z",
+      "uri": "https://web.archive.org/web/20200617122501/https://www.facebook.com/zuck/videos/10111936118050541/"
+    },
+    "last": {
+      "datetime": "2020-08-11T19:35:30Z",
+      "uri": "https://web.archive.org/web/20200811193530/https://www.facebook.com/zuck/videos/10111936118050541"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.facebook.com/zuck/videos/10111936118050541",
+    "json_format": "http://localhost:1208/timemap/json/https://www.facebook.com/zuck/videos/10111936118050541",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.facebook.com/zuck/videos/10111936118050541"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.facebook.com/zuck/videos/10111936118050541"
+}

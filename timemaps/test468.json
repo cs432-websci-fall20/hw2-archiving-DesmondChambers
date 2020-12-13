@@ -1,0 +1,490 @@
+{
+  "original_uri": "https://www.facebook.com/redtabletalk/",
+  "self": "http://localhost:1208/timemap/json/https://www.facebook.com/redtabletalk/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-05-24T01:05:16Z",
+        "uri": "https://wayback.archive-it.org/all/20180524010516/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-05-24T01:05:16Z",
+        "uri": "https://web.archive.org/web/20180524010516/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-07-17T07:40:30Z",
+        "uri": "https://wayback.archive-it.org/all/20180717074030/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-07-17T07:40:30Z",
+        "uri": "https://web.archive.org/web/20180717074030/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-08-31T15:07:53Z",
+        "uri": "https://web.archive.org/web/20180831150753/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-09-25T04:22:56Z",
+        "uri": "https://web.archive.org/web/20180925042256/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2018-09-25T19:09:21Z",
+        "uri": "https://wayback.archive-it.org/all/20180925190921/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2018-09-25T19:09:21Z",
+        "uri": "https://web.archive.org/web/20180925190921/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2018-09-27T10:45:55Z",
+        "uri": "https://web.archive.org/web/20180927104555/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-16T19:28:17Z",
+        "uri": "https://wayback.archive-it.org/all/20181116192817/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-16T19:28:17Z",
+        "uri": "https://web.archive.org/web/20181116192817/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-18T08:04:18Z",
+        "uri": "https://wayback.archive-it.org/all/20181118080418/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-18T08:04:18Z",
+        "uri": "https://web.archive.org/web/20181118080418/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-19T06:49:30Z",
+        "uri": "https://wayback.archive-it.org/all/20181119064930/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-19T06:49:30Z",
+        "uri": "https://web.archive.org/web/20181119064930/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-20T07:59:26Z",
+        "uri": "https://wayback.archive-it.org/all/20181120075926/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-20T07:59:26Z",
+        "uri": "https://web.archive.org/web/20181120075926/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-21T07:42:23Z",
+        "uri": "https://wayback.archive-it.org/all/20181121074223/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-21T07:42:23Z",
+        "uri": "https://web.archive.org/web/20181121074223/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-29T17:26:42Z",
+        "uri": "https://wayback.archive-it.org/all/20181129172642/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-11-29T17:26:42Z",
+        "uri": "https://web.archive.org/web/20181129172642/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2018-12-08T12:24:25Z",
+        "uri": "https://wayback.archive-it.org/all/20181208122425/https://www.facebook.com/redtabletalk//"
+      },
+      {
+        "datetime": "2018-12-08T12:24:25Z",
+        "uri": "https://web.archive.org/web/20181208122425/https://www.facebook.com/redtabletalk//"
+      },
+      {
+        "datetime": "2018-12-12T01:23:56Z",
+        "uri": "https://wayback.archive-it.org/all/20181212012356/https://www.facebook.com/redtabletalk//"
+      },
+      {
+        "datetime": "2018-12-12T01:23:56Z",
+        "uri": "https://web.archive.org/web/20181212012356/https://www.facebook.com/redtabletalk//"
+      },
+      {
+        "datetime": "2018-12-18T09:21:47Z",
+        "uri": "https://wayback.archive-it.org/all/20181218092147/https://www.facebook.com/redtabletalk//"
+      },
+      {
+        "datetime": "2018-12-18T09:21:47Z",
+        "uri": "https://web.archive.org/web/20181218092147/https://www.facebook.com/redtabletalk//"
+      },
+      {
+        "datetime": "2018-12-18T14:18:34Z",
+        "uri": "https://wayback.archive-it.org/all/20181218141834/https://www.facebook.com/redtabletalk//"
+      },
+      {
+        "datetime": "2018-12-18T14:18:34Z",
+        "uri": "https://web.archive.org/web/20181218141834/https://www.facebook.com/redtabletalk//"
+      },
+      {
+        "datetime": "2019-01-05T06:48:54Z",
+        "uri": "https://wayback.archive-it.org/all/20190105064854/https://www.facebook.com/redtabletalk//"
+      },
+      {
+        "datetime": "2019-01-05T06:48:54Z",
+        "uri": "https://web.archive.org/web/20190105064854/https://www.facebook.com/redtabletalk//"
+      },
+      {
+        "datetime": "2019-02-26T01:00:42Z",
+        "uri": "https://web.archive.org/web/20190226010042/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-02-26T15:00:40Z",
+        "uri": "https://web.archive.org/web/20190226150040/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-02-28T07:59:32Z",
+        "uri": "https://web.archive.org/web/20190228075932/http://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-03-06T15:15:02Z",
+        "uri": "https://web.archive.org/web/20190306151502/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-03-07T14:05:34Z",
+        "uri": "https://wayback.archive-it.org/all/20190307140534/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-03-07T14:05:34Z",
+        "uri": "https://web.archive.org/web/20190307140534/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-03-08T03:56:45Z",
+        "uri": "https://wayback.archive-it.org/all/20190308035645/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-03-08T03:56:45Z",
+        "uri": "https://web.archive.org/web/20190308035645/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-03-09T01:22:38Z",
+        "uri": "https://wayback.archive-it.org/all/20190309012238/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-03-09T01:22:38Z",
+        "uri": "https://web.archive.org/web/20190309012238/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-03-29T22:47:40Z",
+        "uri": "https://web.archive.org/web/20190329224740/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-04-04T09:35:25Z",
+        "uri": "https://web.archive.org/web/20190404093525/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-04-13T18:15:26Z",
+        "uri": "https://web.archive.org/web/20190413181526/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-05-13T13:34:30Z",
+        "uri": "https://web.archive.org/web/20190513133430/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-05-14T11:08:45Z",
+        "uri": "https://web.archive.org/web/20190514110845/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-05-27T07:18:19Z",
+        "uri": "https://web.archive.org/web/20190527071819/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-06-03T02:23:07Z",
+        "uri": "https://web.archive.org/web/20190603022307/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-07-03T20:03:09Z",
+        "uri": "https://web.archive.org/web/20190703200309/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-07-13T06:13:46Z",
+        "uri": "https://web.archive.org/web/20190713061346/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-08-03T03:59:42Z",
+        "uri": "https://web.archive.org/web/20190803035942/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-09-23T21:12:07Z",
+        "uri": "https://webarchive.loc.gov/all/20190923211207/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-09-25T04:09:17Z",
+        "uri": "https://web.archive.org/web/20190925040917/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-09-29T23:05:01Z",
+        "uri": "https://web.archive.org/web/20190929230501/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-10-07T00:26:28Z",
+        "uri": "https://web.archive.org/web/20191007002628/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-10-10T10:51:46Z",
+        "uri": "https://web.archive.org/web/20191010105146/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-10-10T12:40:26Z",
+        "uri": "https://web.archive.org/web/20191010124026/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-10-16T15:59:22Z",
+        "uri": "https://web.archive.org/web/20191016155922/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-10-21T04:07:06Z",
+        "uri": "https://web.archive.org/web/20191021040706/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-10-22T03:46:47Z",
+        "uri": "https://web.archive.org/web/20191022034647/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-10-22T05:11:15Z",
+        "uri": "https://web.archive.org/web/20191022051115/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-10-23T21:45:12Z",
+        "uri": "https://web.archive.org/web/20191023214512/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-10-24T16:16:03Z",
+        "uri": "https://web.archive.org/web/20191024161603/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-10-31T01:43:08Z",
+        "uri": "https://web.archive.org/web/20191031014308/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-11-04T04:58:34Z",
+        "uri": "https://web.archive.org/web/20191104045834/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-11-04T13:56:57Z",
+        "uri": "https://web.archive.org/web/20191104135657/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-11-12T18:35:21Z",
+        "uri": "https://web.archive.org/web/20191112183521/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-11-19T20:51:25Z",
+        "uri": "https://web.archive.org/web/20191119205125/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-11-22T14:33:28Z",
+        "uri": "https://web.archive.org/web/20191122143328/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2019-11-23T05:16:07Z",
+        "uri": "https://web.archive.org/web/20191123051607/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-12-08T19:21:14Z",
+        "uri": "https://web.archive.org/web/20191208192114/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-12-13T02:33:17Z",
+        "uri": "https://web.archive.org/web/20191213023317/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2019-12-31T23:19:07Z",
+        "uri": "https://web.archive.org/web/20191231231907/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2020-02-14T05:08:40Z",
+        "uri": "https://web.archive.org/web/20200214050840/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-02-15T22:04:32Z",
+        "uri": "https://web.archive.org/web/20200215220432/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-02-18T14:14:47Z",
+        "uri": "https://web.archive.org/web/20200218141447/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-02-23T15:09:16Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20200223150916/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-07T06:54:07Z",
+        "uri": "https://web.archive.org/web/20200307065407/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-25T21:16:54Z",
+        "uri": "https://web.archive.org/web/20200325211654/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-25T21:38:18Z",
+        "uri": "https://web.archive.org/web/20200325213818/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-25T23:33:02Z",
+        "uri": "https://web.archive.org/web/20200325233302/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-26T01:14:10Z",
+        "uri": "https://web.archive.org/web/20200326011410/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-26T04:43:14Z",
+        "uri": "https://web.archive.org/web/20200326044314/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-26T05:12:38Z",
+        "uri": "https://web.archive.org/web/20200326051238/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-26T07:14:38Z",
+        "uri": "https://web.archive.org/web/20200326071438/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-26T07:53:29Z",
+        "uri": "https://web.archive.org/web/20200326075329/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-26T08:06:27Z",
+        "uri": "https://web.archive.org/web/20200326080627/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-27T03:46:19Z",
+        "uri": "https://web.archive.org/web/20200327034619/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-03-27T15:45:31Z",
+        "uri": "https://web.archive.org/web/20200327154531/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-04-02T12:58:22Z",
+        "uri": "https://web.archive.org/web/20200402125822/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-04-05T11:48:48Z",
+        "uri": "https://web.archive.org/web/20200405114848/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-04-10T08:55:00Z",
+        "uri": "https://web.archive.org/web/20200410085500/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-04-20T17:20:49Z",
+        "uri": "https://web.archive.org/web/20200420172049/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-04-24T11:51:46Z",
+        "uri": "https://web.archive.org/web/20200424115146/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-04-28T10:25:02Z",
+        "uri": "https://web.archive.org/web/20200428102502/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-05-09T02:05:19Z",
+        "uri": "https://web.archive.org/web/20200509020519/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-05-10T03:52:25Z",
+        "uri": "https://web.archive.org/web/20200510035225/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-05-10T09:43:30Z",
+        "uri": "https://web.archive.org/web/20200510094330/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-05-11T17:33:50Z",
+        "uri": "https://web.archive.org/web/20200511173350/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-05-16T12:20:06Z",
+        "uri": "https://web.archive.org/web/20200516122006/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-05-23T15:14:15Z",
+        "uri": "https://web.archive.org/web/20200523151415/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-05-26T19:14:33Z",
+        "uri": "https://web.archive.org.au/awa/20200526191433mp_/http://pandora.nla.gov.au/pan/158278/20200527-0059/www.facebook.com/redtabletalk/index.html"
+      },
+      {
+        "datetime": "2020-06-13T04:19:37Z",
+        "uri": "https://web.archive.org/web/20200613041937/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-06-21T08:05:18Z",
+        "uri": "https://web.archive.org/web/20200621080518/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-06-22T20:06:10Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20200622200610/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-06-28T22:07:27Z",
+        "uri": "https://wayback.archive-it.org/all/20200628220727/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2020-06-28T22:07:27Z",
+        "uri": "https://web.archive.org/web/20200628220727/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2020-07-16T11:46:58Z",
+        "uri": "https://web.archive.org/web/20200716114658/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-07-24T06:36:20Z",
+        "uri": "https://web.archive.org/web/20200724063620/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-08-04T04:27:28Z",
+        "uri": "https://web.archive.org/web/20200804042728/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2020-09-06T05:59:36Z",
+        "uri": "https://web.archive.org/web/20200906055936/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-09-20T01:26:19Z",
+        "uri": "https://web.archive.org/web/20200920012619/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-10-30T02:57:48Z",
+        "uri": "https://web.archive.org/web/20201030025748/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-11-11T20:07:36Z",
+        "uri": "https://web.archive.org/web/20201111200736/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-12-04T21:27:33Z",
+        "uri": "https://web.archive.org/web/20201204212733/https://www.facebook.com/redtabletalk/"
+      },
+      {
+        "datetime": "2020-12-08T06:10:43Z",
+        "uri": "https://web.archive.org/web/20201208061043/https://www.facebook.com/redtabletalk"
+      },
+      {
+        "datetime": "2020-12-08T18:26:21Z",
+        "uri": "https://web.archive.org/web/20201208182621/https://www.facebook.com/redtabletalk/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-05-24T01:05:16Z",
+      "uri": "https://wayback.archive-it.org/all/20180524010516/https://www.facebook.com/redtabletalk/"
+    },
+    "last": {
+      "datetime": "2020-12-08T18:26:21Z",
+      "uri": "https://web.archive.org/web/20201208182621/https://www.facebook.com/redtabletalk/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.facebook.com/redtabletalk/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.facebook.com/redtabletalk/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.facebook.com/redtabletalk/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.facebook.com/redtabletalk/"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://abcnews.go.com/Politics/wireStory/trump-halts-covid-19-relief-talks-election-73457247?cid=social_twitter_abcn",
+  "self": "http://localhost:1208/timemap/json/https://abcnews.go.com/Politics/wireStory/trump-halts-covid-19-relief-talks-election-73457247?cid=social_twitter_abcn",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-13T15:21:59Z",
+        "uri": "https://web.archive.org/web/20201113152159/https://abcnews.go.com/Politics/wireStory/trump-halts-covid-19-relief-talks-election-73457247?cid=social_twitter_abcn"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-13T15:21:59Z",
+      "uri": "https://web.archive.org/web/20201113152159/https://abcnews.go.com/Politics/wireStory/trump-halts-covid-19-relief-talks-election-73457247?cid=social_twitter_abcn"
+    },
+    "last": {
+      "datetime": "2020-11-13T15:21:59Z",
+      "uri": "https://web.archive.org/web/20201113152159/https://abcnews.go.com/Politics/wireStory/trump-halts-covid-19-relief-talks-election-73457247?cid=social_twitter_abcn"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://abcnews.go.com/Politics/wireStory/trump-halts-covid-19-relief-talks-election-73457247?cid=social_twitter_abcn",
+    "json_format": "http://localhost:1208/timemap/json/https://abcnews.go.com/Politics/wireStory/trump-halts-covid-19-relief-talks-election-73457247?cid=social_twitter_abcn",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://abcnews.go.com/Politics/wireStory/trump-halts-covid-19-relief-talks-election-73457247?cid=social_twitter_abcn"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://abcnews.go.com/Politics/wireStory/trump-halts-covid-19-relief-talks-election-73457247?cid=social_twitter_abcn"
+}

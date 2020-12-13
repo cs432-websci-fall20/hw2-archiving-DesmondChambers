@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.instagram.com/p/B5GItO7Ay8v/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/p/B5GItO7Ay8v/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-11-22T09:21:38Z",
+        "uri": "https://web.archive.org/web/20191122092138/http://instagram.com:80/p/B5GItO7Ay8v/"
+      },
+      {
+        "datetime": "2019-11-23T07:05:41Z",
+        "uri": "https://web.archive.org/web/20191123070541/http://instagram.com:80/p/B5GItO7Ay8v"
+      },
+      {
+        "datetime": "2020-03-07T13:56:29Z",
+        "uri": "https://web.archive.org/web/20200307135629/https://www.instagram.com/p/B5GItO7Ay8v/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-11-22T09:21:38Z",
+      "uri": "https://web.archive.org/web/20191122092138/http://instagram.com:80/p/B5GItO7Ay8v/"
+    },
+    "last": {
+      "datetime": "2020-03-07T13:56:29Z",
+      "uri": "https://web.archive.org/web/20200307135629/https://www.instagram.com/p/B5GItO7Ay8v/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/p/B5GItO7Ay8v/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/p/B5GItO7Ay8v/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/p/B5GItO7Ay8v/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/p/B5GItO7Ay8v/"
+}

@@ -1,0 +1,102 @@
+{
+  "original_uri": "https://www.instagram.com/p/CCRHPh-MNTF/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/p/CCRHPh-MNTF/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-08T02:53:57Z",
+        "uri": "https://wayback.archive-it.org/all/20200708025357/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-07-08T02:53:57Z",
+        "uri": "https://web.archive.org/web/20200708025357/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-11T05:22:28Z",
+        "uri": "https://web.archive.org/web/20201111052228/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-12T05:03:56Z",
+        "uri": "https://web.archive.org/web/20201112050356/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-14T11:47:43Z",
+        "uri": "https://web.archive.org/web/20201114114743/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-18T02:21:24Z",
+        "uri": "https://web.archive.org/web/20201118022124/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-18T23:36:01Z",
+        "uri": "https://web.archive.org/web/20201118233601/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-19T08:57:15Z",
+        "uri": "https://web.archive.org/web/20201119085715/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-19T19:12:55Z",
+        "uri": "https://web.archive.org/web/20201119191255/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-20T03:24:43Z",
+        "uri": "https://web.archive.org/web/20201120032443/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-20T11:11:21Z",
+        "uri": "https://web.archive.org/web/20201120111121/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-20T19:27:25Z",
+        "uri": "https://web.archive.org/web/20201120192725/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-21T03:27:25Z",
+        "uri": "https://web.archive.org/web/20201121032725/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-21T11:12:17Z",
+        "uri": "https://web.archive.org/web/20201121111217/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-21T22:38:29Z",
+        "uri": "https://web.archive.org/web/20201121223829/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-22T22:38:32Z",
+        "uri": "https://web.archive.org/web/20201122223832/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-23T10:38:33Z",
+        "uri": "https://web.archive.org/web/20201123103833/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-23T22:38:31Z",
+        "uri": "https://web.archive.org/web/20201123223831/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-24T10:38:33Z",
+        "uri": "https://web.archive.org/web/20201124103833/https://www.instagram.com/p/CCRHPh-MNTF/"
+      },
+      {
+        "datetime": "2020-11-24T22:38:05Z",
+        "uri": "https://web.archive.org/web/20201124223805/https://www.instagram.com/p/CCRHPh-MNTF/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-08T02:53:57Z",
+      "uri": "https://wayback.archive-it.org/all/20200708025357/https://www.instagram.com/p/CCRHPh-MNTF/"
+    },
+    "last": {
+      "datetime": "2020-11-24T22:38:05Z",
+      "uri": "https://web.archive.org/web/20201124223805/https://www.instagram.com/p/CCRHPh-MNTF/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/p/CCRHPh-MNTF/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/p/CCRHPh-MNTF/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/p/CCRHPh-MNTF/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/p/CCRHPh-MNTF/"
+}

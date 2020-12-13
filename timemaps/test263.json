@@ -1,0 +1,582 @@
+{
+  "original_uri": "https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-16T02:43:03Z",
+        "uri": "https://web.archive.org/web/20200816024303/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T03:39:22Z",
+        "uri": "https://web.archive.org/web/20200816033922/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T03:56:43Z",
+        "uri": "https://web.archive.org/web/20200816035643/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T04:29:46Z",
+        "uri": "http://archive.md/20200816042946/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T04:37:51Z",
+        "uri": "https://web.archive.org/web/20200816043751/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T04:40:55Z",
+        "uri": "https://wayback.archive-it.org/all/20200816044055/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T04:40:55Z",
+        "uri": "https://web.archive.org/web/20200816044055/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T05:18:40Z",
+        "uri": "https://web.archive.org/web/20200816051840/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T05:55:51Z",
+        "uri": "https://wayback.archive-it.org/all/20200816055551/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T05:55:51Z",
+        "uri": "https://web.archive.org/web/20200816055551/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T05:59:41Z",
+        "uri": "https://web.archive.org/web/20200816055941/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T06:37:22Z",
+        "uri": "https://web.archive.org/web/20200816063722/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T06:40:53Z",
+        "uri": "https://web.archive.org/web/20200816064053/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T07:21:55Z",
+        "uri": "https://web.archive.org/web/20200816072155/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T08:03:01Z",
+        "uri": "https://web.archive.org/web/20200816080301/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T08:40:06Z",
+        "uri": "https://web.archive.org/web/20200816084006/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T11:04:06Z",
+        "uri": "https://web.archive.org/web/20200816110406/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T13:01:06Z",
+        "uri": "https://web.archive.org/web/20200816130106/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T13:01:47Z",
+        "uri": "https://wayback.archive-it.org/all/20200816130147/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T13:01:47Z",
+        "uri": "https://web.archive.org/web/20200816130147/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T13:58:02Z",
+        "uri": "https://web.archive.org/web/20200816135802/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T17:14:16Z",
+        "uri": "https://web.archive.org/web/20200816171416/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-16T20:10:00Z",
+        "uri": "https://web.archive.org/web/20200816201000/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T02:53:20Z",
+        "uri": "https://wayback.archive-it.org/all/20200817025320/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T02:53:20Z",
+        "uri": "https://web.archive.org/web/20200817025320/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T04:15:20Z",
+        "uri": "https://wayback.archive-it.org/all/20200817041520/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T04:15:20Z",
+        "uri": "https://web.archive.org/web/20200817041520/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T04:53:13Z",
+        "uri": "https://web.archive.org/web/20200817045313/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T07:44:38Z",
+        "uri": "https://web.archive.org/web/20200817074438/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T13:41:24Z",
+        "uri": "https://wayback.archive-it.org/all/20200817134124/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T13:41:24Z",
+        "uri": "https://web.archive.org/web/20200817134124/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T13:51:40Z",
+        "uri": "https://web.archive.org/web/20200817135140/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T14:18:52Z",
+        "uri": "https://web.archive.org/web/20200817141852/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T14:36:51Z",
+        "uri": "https://web.archive.org/web/20200817143651/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T18:04:36Z",
+        "uri": "https://web.archive.org/web/20200817180436/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-17T23:10:59Z",
+        "uri": "https://web.archive.org/web/20200817231059/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-18T08:35:28Z",
+        "uri": "https://web.archive.org/web/20200818083528/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-18T15:25:01Z",
+        "uri": "https://web.archive.org/web/20200818152501/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-19T03:36:51Z",
+        "uri": "https://web.archive.org/web/20200819033651/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-19T15:14:00Z",
+        "uri": "https://web.archive.org/web/20200819151400/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-19T15:55:12Z",
+        "uri": "https://web.archive.org/web/20200819155512/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-19T16:54:48Z",
+        "uri": "https://web.archive.org/web/20200819165448/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-19T19:07:27Z",
+        "uri": "https://web.archive.org/web/20200819190727/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-20T04:19:31Z",
+        "uri": "https://web.archive.org/web/20200820041931/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-20T13:01:48Z",
+        "uri": "https://web.archive.org/web/20200820130148/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-20T16:39:07Z",
+        "uri": "https://web.archive.org/web/20200820163907/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-20T19:52:29Z",
+        "uri": "https://web.archive.org/web/20200820195229/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-21T00:36:24Z",
+        "uri": "https://web.archive.org/web/20200821003624/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-21T07:33:58Z",
+        "uri": "https://web.archive.org/web/20200821073358/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-21T12:22:06Z",
+        "uri": "https://web.archive.org/web/20200821122206/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-21T16:32:06Z",
+        "uri": "https://wayback.archive-it.org/all/20200821163206/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-21T16:32:06Z",
+        "uri": "https://web.archive.org/web/20200821163206/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-21T16:43:32Z",
+        "uri": "https://web.archive.org/web/20200821164332/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-21T20:55:23Z",
+        "uri": "https://web.archive.org/web/20200821205523/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-22T11:36:58Z",
+        "uri": "https://web.archive.org/web/20200822113658/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-22T11:36:59Z",
+        "uri": "https://web.archive.org/web/20200822113659/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-22T17:24:44Z",
+        "uri": "https://web.archive.org/web/20200822172444/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-22T21:19:01Z",
+        "uri": "https://web.archive.org/web/20200822211901/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-23T06:00:09Z",
+        "uri": "https://wayback.archive-it.org/all/20200823060009/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-23T06:00:09Z",
+        "uri": "https://web.archive.org/web/20200823060009/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-23T11:53:19Z",
+        "uri": "https://web.archive.org/web/20200823115319/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-23T14:38:41Z",
+        "uri": "https://web.archive.org/web/20200823143841/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-23T15:11:18Z",
+        "uri": "https://web.archive.org/web/20200823151118/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-23T17:56:21Z",
+        "uri": "https://web.archive.org/web/20200823175621/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-23T21:06:45Z",
+        "uri": "https://wayback.archive-it.org/all/20200823210645/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-23T21:06:45Z",
+        "uri": "https://web.archive.org/web/20200823210645/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-24T12:57:03Z",
+        "uri": "https://web.archive.org/web/20200824125703/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-24T18:57:38Z",
+        "uri": "https://web.archive.org/web/20200824185738/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-24T19:19:10Z",
+        "uri": "https://web.archive.org/web/20200824191910/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-24T19:56:31Z",
+        "uri": "https://web.archive.org/web/20200824195631/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-24T23:24:30Z",
+        "uri": "https://web.archive.org/web/20200824232430/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-25T20:17:22Z",
+        "uri": "https://web.archive.org/web/20200825201722/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-25T22:04:35Z",
+        "uri": "https://web.archive.org/web/20200825220435/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-26T19:48:24Z",
+        "uri": "https://web.archive.org/web/20200826194824/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-26T23:51:57Z",
+        "uri": "https://web.archive.org/web/20200826235157/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-27T20:46:37Z",
+        "uri": "https://web.archive.org/web/20200827204637/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-28T02:34:31Z",
+        "uri": "https://web.archive.org/web/20200828023431/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-29T01:49:04Z",
+        "uri": "https://web.archive.org/web/20200829014904/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-29T03:16:10Z",
+        "uri": "https://web.archive.org/web/20200829031610/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-30T00:04:01Z",
+        "uri": "https://web.archive.org/web/20200830000401/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-30T00:39:31Z",
+        "uri": "https://web.archive.org/web/20200830003931/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-30T23:23:38Z",
+        "uri": "https://web.archive.org/web/20200830232338/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-08-31T02:07:04Z",
+        "uri": "https://web.archive.org/web/20200831020704/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-01T00:15:44Z",
+        "uri": "https://web.archive.org/web/20200901001544/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-01T03:38:39Z",
+        "uri": "https://web.archive.org/web/20200901033839/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-02T05:54:54Z",
+        "uri": "https://web.archive.org/web/20200902055454/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-02T08:51:53Z",
+        "uri": "https://web.archive.org/web/20200902085153/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-03T05:55:41Z",
+        "uri": "https://web.archive.org/web/20200903055541/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-03T07:11:34Z",
+        "uri": "https://web.archive.org/web/20200903071134/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-04T04:54:13Z",
+        "uri": "https://web.archive.org/web/20200904045413/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-04T06:23:50Z",
+        "uri": "https://web.archive.org/web/20200904062350/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-05T08:40:57Z",
+        "uri": "https://web.archive.org/web/20200905084057/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-05T13:32:40Z",
+        "uri": "https://web.archive.org/web/20200905133240/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-06T09:12:36Z",
+        "uri": "https://web.archive.org/web/20200906091236/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-06T10:25:36Z",
+        "uri": "https://web.archive.org/web/20200906102536/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-07T01:39:13Z",
+        "uri": "https://web.archive.org/web/20200907013913/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-07T07:06:54Z",
+        "uri": "https://web.archive.org/web/20200907070654/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-07T07:48:03Z",
+        "uri": "https://web.archive.org/web/20200907074803/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-08T08:05:01Z",
+        "uri": "https://web.archive.org/web/20200908080501/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-08T08:08:55Z",
+        "uri": "https://web.archive.org/web/20200908080855/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-09T07:51:48Z",
+        "uri": "https://web.archive.org/web/20200909075148/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-09T10:21:16Z",
+        "uri": "https://web.archive.org/web/20200909102116/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-10T23:51:34Z",
+        "uri": "https://web.archive.org/web/20200910235134/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-11T10:19:26Z",
+        "uri": "https://web.archive.org/web/20200911101926/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-12T01:42:21Z",
+        "uri": "https://web.archive.org/web/20200912014221/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-12T17:12:13Z",
+        "uri": "https://web.archive.org/web/20200912171213/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-12T23:01:52Z",
+        "uri": "https://web.archive.org/web/20200912230152/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-13T18:22:32Z",
+        "uri": "https://web.archive.org/web/20200913182232/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-14T00:21:51Z",
+        "uri": "https://web.archive.org/web/20200914002151/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-14T20:56:33Z",
+        "uri": "https://web.archive.org/web/20200914205633/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-15T04:47:11Z",
+        "uri": "https://web.archive.org/web/20200915044711/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-18T08:16:44Z",
+        "uri": "https://web.archive.org/web/20200918081644/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-18T12:17:45Z",
+        "uri": "https://web.archive.org/web/20200918121745/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-19T08:43:28Z",
+        "uri": "https://web.archive.org/web/20200919084328/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-19T13:26:03Z",
+        "uri": "https://web.archive.org/web/20200919132603/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-20T09:31:22Z",
+        "uri": "https://web.archive.org/web/20200920093122/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-20T12:16:51Z",
+        "uri": "https://web.archive.org/web/20200920121651/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-22T23:30:57Z",
+        "uri": "https://web.archive.org/web/20200922233057/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-23T14:30:17Z",
+        "uri": "https://web.archive.org/web/20200923143017/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-24T02:06:24Z",
+        "uri": "https://web.archive.org/web/20200924020624/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-25T06:26:15Z",
+        "uri": "https://web.archive.org/web/20200925062615/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-26T12:18:21Z",
+        "uri": "https://web.archive.org/web/20200926121821/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-26T14:55:18Z",
+        "uri": "https://web.archive.org/web/20200926145518/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-27T05:16:46Z",
+        "uri": "https://web.archive.org/web/20200927051646/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-27T20:58:14Z",
+        "uri": "https://web.archive.org/web/20200927205814/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-28T01:06:56Z",
+        "uri": "https://web.archive.org/web/20200928010656/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-28T09:52:22Z",
+        "uri": "https://web.archive.org/web/20200928095222/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-28T18:40:41Z",
+        "uri": "https://web.archive.org/web/20200928184041/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-29T10:47:29Z",
+        "uri": "https://web.archive.org/web/20200929104729/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-09-29T18:31:10Z",
+        "uri": "https://web.archive.org/web/20200929183110/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-10-01T10:11:33Z",
+        "uri": "https://web.archive.org/web/20201001101133/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-10-09T01:08:36Z",
+        "uri": "https://web.archive.org/web/20201009010836/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-10-31T23:13:35Z",
+        "uri": "https://web.archive.org/web/20201031231335/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-11-01T01:01:40Z",
+        "uri": "https://web.archive.org/web/20201101010140/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-11-11T21:04:15Z",
+        "uri": "https://web.archive.org/web/20201111210415/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-11-18T04:02:02Z",
+        "uri": "https://web.archive.org/web/20201118040202/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-11-18T22:34:55Z",
+        "uri": "https://web.archive.org/web/20201118223455/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-11-25T03:10:53Z",
+        "uri": "https://web.archive.org/web/20201125031053/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-11-26T00:59:30Z",
+        "uri": "https://web.archive.org/web/20201126005930/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      },
+      {
+        "datetime": "2020-11-28T13:42:21Z",
+        "uri": "https://web.archive.org/web/20201128134221/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-16T02:43:03Z",
+      "uri": "https://web.archive.org/web/20200816024303/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+    },
+    "last": {
+      "datetime": "2020-11-28T13:42:21Z",
+      "uri": "https://web.archive.org/web/20201128134221/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/08/15/politics/robert-trump-dead/index.html"
+}

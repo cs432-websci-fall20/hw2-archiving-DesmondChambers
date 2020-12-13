@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.wsj.com/articles/hong-kongs-leader-says-stability-has-been-restored-with-city-under-heavy-police-presence-11601543909?mod=e2tw",
+  "self": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/hong-kongs-leader-says-stability-has-been-restored-with-city-under-heavy-police-presence-11601543909?mod=e2tw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-04T05:24:07Z",
+        "uri": "https://web.archive.org/web/20201104052407/https://www.wsj.com/articles/hong-kongs-leader-says-stability-has-been-restored-with-city-under-heavy-police-presence-11601543909?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-17T22:08:53Z",
+        "uri": "https://web.archive.org/web/20201117220853/https://www.wsj.com/articles/hong-kongs-leader-says-stability-has-been-restored-with-city-under-heavy-police-presence-11601543909?mod=e2tw"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-04T05:24:07Z",
+      "uri": "https://web.archive.org/web/20201104052407/https://www.wsj.com/articles/hong-kongs-leader-says-stability-has-been-restored-with-city-under-heavy-police-presence-11601543909?mod=e2tw"
+    },
+    "last": {
+      "datetime": "2020-11-17T22:08:53Z",
+      "uri": "https://web.archive.org/web/20201117220853/https://www.wsj.com/articles/hong-kongs-leader-says-stability-has-been-restored-with-city-under-heavy-police-presence-11601543909?mod=e2tw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wsj.com/articles/hong-kongs-leader-says-stability-has-been-restored-with-city-under-heavy-police-presence-11601543909?mod=e2tw",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/hong-kongs-leader-says-stability-has-been-restored-with-city-under-heavy-police-presence-11601543909?mod=e2tw",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wsj.com/articles/hong-kongs-leader-says-stability-has-been-restored-with-city-under-heavy-police-presence-11601543909?mod=e2tw"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wsj.com/articles/hong-kongs-leader-says-stability-has-been-restored-with-city-under-heavy-police-presence-11601543909?mod=e2tw"
+}

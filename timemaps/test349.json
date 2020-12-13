@@ -1,0 +1,702 @@
+{
+  "original_uri": "https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-02T21:32:25Z",
+        "uri": "https://web.archive.org/web/20201002213225/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-02T21:59:04Z",
+        "uri": "https://web.archive.org/web/20201002215904/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-02T22:05:30Z",
+        "uri": "https://web.archive.org/web/20201002220530/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-02T22:43:20Z",
+        "uri": "http://archive.md/20201002224320/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-02T22:45:28Z",
+        "uri": "https://web.archive.org/web/20201002224528/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-02T23:07:04Z",
+        "uri": "http://archive.md/20201002230704/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-02T23:23:01Z",
+        "uri": "https://web.archive.org/web/20201002232301/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-02T23:55:38Z",
+        "uri": "https://web.archive.org/web/20201002235538/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-02T23:55:39Z",
+        "uri": "https://web.archive.org/web/20201002235539/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T00:43:25Z",
+        "uri": "https://web.archive.org/web/20201003004325/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T01:08:22Z",
+        "uri": "https://web.archive.org/web/20201003010822/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T01:56:09Z",
+        "uri": "https://wayback.archive-it.org/all/20201003015609/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T03:19:50Z",
+        "uri": "https://web.archive.org/web/20201003031950/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T03:22:03Z",
+        "uri": "https://wayback.archive-it.org/all/20201003032203/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T03:22:05Z",
+        "uri": "https://wayback.archive-it.org/all/20201003032205/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T03:45:00Z",
+        "uri": "https://web.archive.org/web/20201003034500/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T03:59:07Z",
+        "uri": "https://web.archive.org/web/20201003035907/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T03:59:08Z",
+        "uri": "https://web.archive.org/web/20201003035908/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T05:51:33Z",
+        "uri": "https://web.archive.org/web/20201003055133/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T07:08:51Z",
+        "uri": "http://archive.md/20201003070851/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T07:36:50Z",
+        "uri": "https://web.archive.org/web/20201003073650/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T07:36:51Z",
+        "uri": "https://web.archive.org/web/20201003073651/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T07:55:53Z",
+        "uri": "https://wayback.archive-it.org/all/20201003075553/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T10:36:25Z",
+        "uri": "https://web.archive.org/web/20201003103625/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T11:51:40Z",
+        "uri": "https://web.archive.org/web/20201003115140/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T11:52:16Z",
+        "uri": "https://web.archive.org/web/20201003115216/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T13:36:55Z",
+        "uri": "https://wayback.archive-it.org/all/20201003133655/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T15:13:18Z",
+        "uri": "https://wayback.archive-it.org/all/20201003151318/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T15:13:31Z",
+        "uri": "https://wayback.archive-it.org/all/20201003151331/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T16:37:44Z",
+        "uri": "https://web.archive.org/web/20201003163744/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T16:37:55Z",
+        "uri": "https://web.archive.org/web/20201003163755/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-03T23:53:22Z",
+        "uri": "https://web.archive.org/web/20201003235322/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T00:44:49Z",
+        "uri": "https://web.archive.org/web/20201004004449/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T04:06:00Z",
+        "uri": "https://web.archive.org/web/20201004040600/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T04:18:49Z",
+        "uri": "https://wayback.archive-it.org/all/20201004041849/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T04:19:03Z",
+        "uri": "https://wayback.archive-it.org/all/20201004041903/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T04:19:35Z",
+        "uri": "https://web.archive.org/web/20201004041935/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T04:46:43Z",
+        "uri": "https://web.archive.org/web/20201004044643/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T06:44:44Z",
+        "uri": "https://web.archive.org/web/20201004064444/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T07:09:17Z",
+        "uri": "https://wayback.archive-it.org/all/20201004070917/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T07:31:43Z",
+        "uri": "https://wayback.archive-it.org/all/20201004073143/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T07:33:40Z",
+        "uri": "https://wayback.archive-it.org/all/20201004073340/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T07:56:04Z",
+        "uri": "https://web.archive.org/web/20201004075604/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T08:01:00Z",
+        "uri": "https://web.archive.org/web/20201004080100/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T08:01:01Z",
+        "uri": "https://web.archive.org/web/20201004080101/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T09:04:19Z",
+        "uri": "https://web.archive.org/web/20201004090419/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T09:38:55Z",
+        "uri": "https://web.archive.org/web/20201004093855/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T11:49:07Z",
+        "uri": "https://web.archive.org/web/20201004114907/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T11:49:08Z",
+        "uri": "https://web.archive.org/web/20201004114908/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T12:44:06Z",
+        "uri": "https://web.archive.org/web/20201004124406/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T13:47:08Z",
+        "uri": "https://wayback.archive-it.org/all/20201004134708/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T13:51:06Z",
+        "uri": "https://web.archive.org/web/20201004135106/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T13:51:17Z",
+        "uri": "https://web.archive.org/web/20201004135117/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T20:23:17Z",
+        "uri": "https://web.archive.org/web/20201004202317/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-04T23:15:11Z",
+        "uri": "https://web.archive.org/web/20201004231511/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T03:48:51Z",
+        "uri": "https://wayback.archive-it.org/all/20201005034851/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T04:47:00Z",
+        "uri": "https://web.archive.org/web/20201005044700/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T05:12:16Z",
+        "uri": "https://web.archive.org/web/20201005051216/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T05:47:11Z",
+        "uri": "https://web.archive.org/web/20201005054711/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T06:53:13Z",
+        "uri": "https://web.archive.org/web/20201005065313/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T07:04:59Z",
+        "uri": "https://web.archive.org/web/20201005070459/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T11:38:21Z",
+        "uri": "https://web.archive.org/web/20201005113821/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T11:38:23Z",
+        "uri": "https://web.archive.org/web/20201005113823/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T12:57:42Z",
+        "uri": "https://web.archive.org/web/20201005125742/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T12:57:43Z",
+        "uri": "https://web.archive.org/web/20201005125743/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T20:54:01Z",
+        "uri": "https://web.archive.org/web/20201005205401/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-05T23:44:48Z",
+        "uri": "https://web.archive.org/web/20201005234448/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-06T01:44:27Z",
+        "uri": "https://web.archive.org/web/20201006014427/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-06T05:30:36Z",
+        "uri": "https://web.archive.org/web/20201006053036/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-06T06:02:09Z",
+        "uri": "https://web.archive.org/web/20201006060209/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-06T09:56:54Z",
+        "uri": "https://web.archive.org/web/20201006095654/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-06T10:56:44Z",
+        "uri": "https://web.archive.org/web/20201006105644/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-06T13:58:48Z",
+        "uri": "https://web.archive.org/web/20201006135848/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-06T20:58:31Z",
+        "uri": "https://web.archive.org/web/20201006205831/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-06T20:58:32Z",
+        "uri": "https://web.archive.org/web/20201006205832/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T00:05:45Z",
+        "uri": "https://web.archive.org/web/20201007000545/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T01:14:38Z",
+        "uri": "https://wayback.archive-it.org/all/20201007011438/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T05:17:08Z",
+        "uri": "https://web.archive.org/web/20201007051708/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T06:19:01Z",
+        "uri": "https://web.archive.org/web/20201007061901/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T07:01:52Z",
+        "uri": "https://web.archive.org/web/20201007070152/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T09:05:29Z",
+        "uri": "https://web.archive.org/web/20201007090529/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T09:14:01Z",
+        "uri": "https://web.archive.org/web/20201007091401/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-08T01:49:25Z",
+        "uri": "https://web.archive.org/web/20201008014925/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-08T15:07:48Z",
+        "uri": "https://web.archive.org/web/20201008150748/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-08T16:39:46Z",
+        "uri": "https://web.archive.org/web/20201008163946/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-08T23:01:36Z",
+        "uri": "https://web.archive.org/web/20201008230136/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-09T01:38:59Z",
+        "uri": "https://web.archive.org/web/20201009013859/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-10T01:17:57Z",
+        "uri": "https://web.archive.org/web/20201010011757/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-11T01:28:40Z",
+        "uri": "https://web.archive.org/web/20201011012840/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-11T16:55:59Z",
+        "uri": "https://web.archive.org/web/20201011165559/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-12T02:12:11Z",
+        "uri": "https://web.archive.org/web/20201012021211/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-13T08:06:11Z",
+        "uri": "https://web.archive.org/web/20201013080611/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-13T23:13:16Z",
+        "uri": "https://web.archive.org/web/20201013231316/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-13T23:52:18Z",
+        "uri": "https://web.archive.org/web/20201013235218/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-14T11:09:10Z",
+        "uri": "https://web.archive.org/web/20201014110910/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-15T02:08:45Z",
+        "uri": "https://web.archive.org/web/20201015020845/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-15T11:51:06Z",
+        "uri": "https://web.archive.org/web/20201015115106/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-16T13:05:25Z",
+        "uri": "https://web.archive.org/web/20201016130525/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-16T13:35:15Z",
+        "uri": "https://web.archive.org/web/20201016133515/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-17T15:02:19Z",
+        "uri": "https://web.archive.org/web/20201017150219/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-17T16:28:22Z",
+        "uri": "https://web.archive.org/web/20201017162822/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-18T12:49:59Z",
+        "uri": "https://web.archive.org/web/20201018124959/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-18T15:40:27Z",
+        "uri": "https://web.archive.org/web/20201018154027/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-19T13:53:28Z",
+        "uri": "https://web.archive.org/web/20201019135328/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-19T18:22:41Z",
+        "uri": "https://web.archive.org/web/20201019182241/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-22T06:08:57Z",
+        "uri": "https://web.archive.org/web/20201022060857/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-26T01:02:41Z",
+        "uri": "https://web.archive.org/web/20201026010241/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-27T00:00:02Z",
+        "uri": "https://web.archive.org/web/20201027000002/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-27T02:06:05Z",
+        "uri": "https://web.archive.org/web/20201027020605/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-28T06:47:18Z",
+        "uri": "https://web.archive.org/web/20201028064718/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-30T02:37:27Z",
+        "uri": "https://web.archive.org/web/20201030023727/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-30T06:39:07Z",
+        "uri": "https://web.archive.org/web/20201030063907/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-31T01:29:46Z",
+        "uri": "https://web.archive.org/web/20201031012946/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-31T08:07:01Z",
+        "uri": "https://web.archive.org/web/20201031080701/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-31T11:26:25Z",
+        "uri": "https://web.archive.org/web/20201031112625/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-01T02:19:45Z",
+        "uri": "https://web.archive.org/web/20201101021945/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-01T09:53:47Z",
+        "uri": "https://web.archive.org/web/20201101095347/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-02T06:36:56Z",
+        "uri": "https://web.archive.org/web/20201102063656/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-02T09:44:04Z",
+        "uri": "https://web.archive.org/web/20201102094404/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-02T17:07:24Z",
+        "uri": "https://web.archive.org/web/20201102170724/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-03T14:38:29Z",
+        "uri": "https://web.archive.org/web/20201103143829/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-04T00:26:05Z",
+        "uri": "https://web.archive.org/web/20201104002605/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-04T01:18:45Z",
+        "uri": "https://web.archive.org/web/20201104011845/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-04T17:06:39Z",
+        "uri": "https://web.archive.org/web/20201104170639/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-05T09:11:04Z",
+        "uri": "https://web.archive.org/web/20201105091104/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-05T17:48:43Z",
+        "uri": "https://web.archive.org/web/20201105174843/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-06T00:32:16Z",
+        "uri": "https://web.archive.org/web/20201106003216/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-06T14:53:35Z",
+        "uri": "https://web.archive.org/web/20201106145335/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-07T06:21:58Z",
+        "uri": "https://web.archive.org/web/20201107062158/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-08T19:32:21Z",
+        "uri": "https://web.archive.org/web/20201108193221/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-09T10:51:48Z",
+        "uri": "https://web.archive.org/web/20201109105148/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-11T03:38:41Z",
+        "uri": "https://web.archive.org/web/20201111033841/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-13T06:03:00Z",
+        "uri": "https://web.archive.org/web/20201113060300/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-13T11:16:11Z",
+        "uri": "https://web.archive.org/web/20201113111611/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-14T05:47:50Z",
+        "uri": "https://web.archive.org/web/20201114054750/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-14T07:36:52Z",
+        "uri": "https://web.archive.org/web/20201114073652/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-14T16:44:13Z",
+        "uri": "https://web.archive.org/web/20201114164413/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-14T22:18:53Z",
+        "uri": "https://web.archive.org/web/20201114221853/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-15T09:07:43Z",
+        "uri": "https://web.archive.org/web/20201115090743/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-15T13:57:45Z",
+        "uri": "https://web.archive.org/web/20201115135745/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-15T23:41:50Z",
+        "uri": "https://web.archive.org/web/20201115234150/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-16T01:33:57Z",
+        "uri": "https://web.archive.org/web/20201116013357/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-16T17:36:15Z",
+        "uri": "https://web.archive.org/web/20201116173615/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-18T06:10:23Z",
+        "uri": "https://web.archive.org/web/20201118061023/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-18T18:57:04Z",
+        "uri": "https://web.archive.org/web/20201118185704/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-19T23:43:38Z",
+        "uri": "https://web.archive.org/web/20201119234338/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-19T23:43:53Z",
+        "uri": "https://web.archive.org/web/20201119234353/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-20T14:36:35Z",
+        "uri": "https://web.archive.org/web/20201120143635/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-21T06:50:53Z",
+        "uri": "https://web.archive.org/web/20201121065053/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-21T22:50:53Z",
+        "uri": "https://web.archive.org/web/20201121225053/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-22T17:29:21Z",
+        "uri": "https://web.archive.org/web/20201122172921/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-23T19:13:58Z",
+        "uri": "https://perma.cc/FYB8-EVPV"
+      },
+      {
+        "datetime": "2020-11-23T19:14:09Z",
+        "uri": "https://web.archive.org/web/20201123191409/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-23T23:23:58Z",
+        "uri": "https://web.archive.org/web/20201123232358/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-24T08:31:15Z",
+        "uri": "https://web.archive.org/web/20201124083115/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-11-28T13:32:41Z",
+        "uri": "https://web.archive.org/web/20201128133241/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-02T15:29:27Z",
+        "uri": "https://web.archive.org/web/20201202152927/http://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-02T15:29:28Z",
+        "uri": "https://web.archive.org/web/20201202152928/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-03T15:42:11Z",
+        "uri": "https://web.archive.org/web/20201203154211/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-04T10:32:30Z",
+        "uri": "https://web.archive.org/web/20201204103230/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-04T10:32:30Z",
+        "uri": "https://web.archive.org/web/20201204103230/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-04T11:18:48Z",
+        "uri": "https://web.archive.org/web/20201204111848/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-04T11:18:48Z",
+        "uri": "https://web.archive.org/web/20201204111848/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-06T03:40:21Z",
+        "uri": "https://web.archive.org/web/20201206034021/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-06T03:40:21Z",
+        "uri": "https://web.archive.org/web/20201206034021/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-06T10:59:27Z",
+        "uri": "https://web.archive.org/web/20201206105927/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-07T16:34:32Z",
+        "uri": "https://web.archive.org/web/20201207163432/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-07T16:34:32Z",
+        "uri": "https://web.archive.org/web/20201207163432/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-08T02:50:50Z",
+        "uri": "https://web.archive.org/web/20201208025050/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-12-08T02:50:50Z",
+        "uri": "https://web.archive.org/web/20201208025050/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-02T21:32:25Z",
+      "uri": "https://web.archive.org/web/20201002213225/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+    },
+    "last": {
+      "datetime": "2020-12-08T02:50:50Z",
+      "uri": "https://web.archive.org/web/20201208025050/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+}

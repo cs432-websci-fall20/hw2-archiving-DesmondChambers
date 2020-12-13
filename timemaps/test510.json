@@ -1,0 +1,290 @@
+{
+  "original_uri": "https://www.instagram.com/diddy/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/diddy/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-07-25T02:08:32Z",
+        "uri": "https://web.archive.org/web/20130725020832/http://instagram.com:80/diddy"
+      },
+      {
+        "datetime": "2015-06-23T16:40:44Z",
+        "uri": "https://web.archive.org/web/20150623164044/http://instagram.com:80/diddy"
+      },
+      {
+        "datetime": "2018-01-07T14:16:57Z",
+        "uri": "https://web.archive.org/web/20180107141657/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-01-07T14:16:58Z",
+        "uri": "https://web.archive.org/web/20180107141658/https://www.instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-01-07T14:17:00Z",
+        "uri": "https://web.archive.org/web/20180107141700/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-01-11T12:39:43Z",
+        "uri": "https://web.archive.org/web/20180111123943/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-01-16T11:40:48Z",
+        "uri": "https://web.archive.org/web/20180116114048/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-02-05T03:29:32Z",
+        "uri": "https://webarchive.loc.gov/all/20180205032932/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-02-27T05:47:03Z",
+        "uri": "https://webarchive.loc.gov/all/20180227054703/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-03-07T12:23:40Z",
+        "uri": "https://web.archive.org/web/20180307122340/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-03-09T22:05:28Z",
+        "uri": "https://webarchive.loc.gov/all/20180309220528/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-05-09T03:13:38Z",
+        "uri": "https://webarchive.loc.gov/all/20180509031338/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-06-05T00:55:23Z",
+        "uri": "https://web.archive.org/web/20180605005523/http://www.instagram.com:80/diddy/"
+      },
+      {
+        "datetime": "2018-08-29T12:39:56Z",
+        "uri": "https://web.archive.org/web/20180829123956/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-08-29T12:39:59Z",
+        "uri": "https://web.archive.org/web/20180829123959/https://www.instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-08-29T12:40:00Z",
+        "uri": "https://web.archive.org/web/20180829124000/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-08-31T12:32:29Z",
+        "uri": "https://web.archive.org/web/20180831123229/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-08-31T22:06:56Z",
+        "uri": "https://web.archive.org/web/20180831220656/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-01T21:29:50Z",
+        "uri": "https://web.archive.org/web/20180901212950/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-02T17:17:57Z",
+        "uri": "https://web.archive.org/web/20180902171757/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-03T17:34:04Z",
+        "uri": "https://web.archive.org/web/20180903173404/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-04T21:31:00Z",
+        "uri": "https://web.archive.org/web/20180904213100/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-11T09:49:55Z",
+        "uri": "https://web.archive.org/web/20180911094955/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-12T10:38:11Z",
+        "uri": "https://web.archive.org/web/20180912103811/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-13T10:35:54Z",
+        "uri": "https://web.archive.org/web/20180913103554/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-14T08:42:06Z",
+        "uri": "https://web.archive.org/web/20180914084206/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-18T07:57:42Z",
+        "uri": "https://web.archive.org/web/20180918075742/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-19T02:32:23Z",
+        "uri": "https://web.archive.org/web/20180919023223/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-09-21T07:49:25Z",
+        "uri": "https://web.archive.org/web/20180921074925/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-10-04T07:11:12Z",
+        "uri": "https://web.archive.org/web/20181004071112/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-10-09T06:57:02Z",
+        "uri": "https://web.archive.org/web/20181009065702/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-10-10T13:30:19Z",
+        "uri": "https://web.archive.org/web/20181010133019/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-10-10T13:30:20Z",
+        "uri": "https://web.archive.org/web/20181010133020/https://www.instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-10-10T13:30:21Z",
+        "uri": "https://web.archive.org/web/20181010133021/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-10-13T08:25:07Z",
+        "uri": "https://web.archive.org/web/20181013082507/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-10-16T15:01:52Z",
+        "uri": "https://web.archive.org/web/20181016150152/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-10-20T17:39:40Z",
+        "uri": "https://web.archive.org/web/20181020173940/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-10-27T05:53:44Z",
+        "uri": "https://web.archive.org/web/20181027055344/http://www.instagram.com:80/diddy"
+      },
+      {
+        "datetime": "2018-11-03T12:24:05Z",
+        "uri": "https://web.archive.org/web/20181103122405/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-11-19T14:46:41Z",
+        "uri": "https://webarchive.loc.gov/all/20181119144641/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-11-22T03:44:10Z",
+        "uri": "https://wayback.archive-it.org/all/20181122034410/https://www.instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-11-22T03:44:10Z",
+        "uri": "https://web.archive.org/web/20181122034410/https://www.instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-11-22T18:04:39Z",
+        "uri": "https://web.archive.org/web/20181122180439/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-11-22T22:26:20Z",
+        "uri": "https://wayback.archive-it.org/all/20181122222620/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-11-22T22:26:20Z",
+        "uri": "https://web.archive.org/web/20181122222620/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-11-23T10:44:14Z",
+        "uri": "https://web.archive.org/web/20181123104414/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2018-12-18T01:12:49Z",
+        "uri": "https://wayback.archive-it.org/all/20181218011249/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-12-18T01:12:49Z",
+        "uri": "https://web.archive.org/web/20181218011249/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-12-18T02:24:36Z",
+        "uri": "https://wayback.archive-it.org/all/20181218022436/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2018-12-18T02:24:36Z",
+        "uri": "https://web.archive.org/web/20181218022436/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2019-04-02T04:46:48Z",
+        "uri": "https://web.archive.org/web/20190402044648/http://www.instagram.com:80/diddy"
+      },
+      {
+        "datetime": "2019-05-16T04:59:34Z",
+        "uri": "https://web.archive.org/web/20190516045934/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2019-05-16T04:59:34Z",
+        "uri": "https://web.archive.org/web/20190516045934/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2019-05-16T04:59:34Z",
+        "uri": "https://web.archive.org/web/20190516045934/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2019-05-16T04:59:47Z",
+        "uri": "http://archive.md/20190516045947/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2019-10-15T14:40:52Z",
+        "uri": "https://web.archive.org/web/20191015144052/http://instagram.com/diddy"
+      },
+      {
+        "datetime": "2019-10-15T14:40:53Z",
+        "uri": "https://web.archive.org/web/20191015144053/https://instagram.com/diddy"
+      },
+      {
+        "datetime": "2019-10-15T14:40:54Z",
+        "uri": "https://web.archive.org/web/20191015144054/https://www.instagram.com/diddy"
+      },
+      {
+        "datetime": "2019-10-15T14:40:57Z",
+        "uri": "https://web.archive.org/web/20191015144057/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2019-10-20T20:23:17Z",
+        "uri": "https://web.archive.org/web/20191020202317/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2019-10-27T02:41:09Z",
+        "uri": "https://web.archive.org/web/20191027024109/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2019-12-28T19:57:57Z",
+        "uri": "https://web.archive.org/web/20191228195757/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2020-02-01T21:16:12Z",
+        "uri": "https://web.archive.org/web/20200201211612/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2020-03-07T12:03:22Z",
+        "uri": "https://web.archive.org/web/20200307120322/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2020-04-04T19:12:01Z",
+        "uri": "https://web.archive.org/web/20200404191201/https://www.instagram.com/diddy/"
+      },
+      {
+        "datetime": "2020-11-18T17:36:41Z",
+        "uri": "https://web.archive.org/web/20201118173641/https://www.instagram.com/diddy"
+      },
+      {
+        "datetime": "2020-11-18T17:57:53Z",
+        "uri": "https://web.archive.org/web/20201118175753/https://www.instagram.com/diddy/"
+      }
+    ],
+    "first": {
+      "datetime": "2013-07-25T02:08:32Z",
+      "uri": "https://web.archive.org/web/20130725020832/http://instagram.com:80/diddy"
+    },
+    "last": {
+      "datetime": "2020-11-18T17:57:53Z",
+      "uri": "https://web.archive.org/web/20201118175753/https://www.instagram.com/diddy/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/diddy/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/diddy/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/diddy/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/diddy/"
+}

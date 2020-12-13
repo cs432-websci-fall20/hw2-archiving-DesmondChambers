@@ -1,0 +1,98 @@
+{
+  "original_uri": "https://www.instagram.com/p/CCjGqhlsRij/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/p/CCjGqhlsRij/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-15T03:32:51Z",
+        "uri": "https://wayback.archive-it.org/all/20200715033251/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-07-15T03:32:51Z",
+        "uri": "https://web.archive.org/web/20200715033251/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-11T05:22:47Z",
+        "uri": "https://web.archive.org/web/20201111052247/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-12T04:45:59Z",
+        "uri": "https://web.archive.org/web/20201112044559/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-14T06:11:02Z",
+        "uri": "https://web.archive.org/web/20201114061102/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-18T05:40:51Z",
+        "uri": "https://web.archive.org/web/20201118054051/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-19T00:17:46Z",
+        "uri": "https://web.archive.org/web/20201119001746/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-19T09:44:57Z",
+        "uri": "https://web.archive.org/web/20201119094457/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-19T19:49:59Z",
+        "uri": "https://web.archive.org/web/20201119194959/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-20T03:59:49Z",
+        "uri": "https://web.archive.org/web/20201120035949/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-20T11:44:29Z",
+        "uri": "https://web.archive.org/web/20201120114429/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-20T20:02:16Z",
+        "uri": "https://web.archive.org/web/20201120200216/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-21T04:01:52Z",
+        "uri": "https://web.archive.org/web/20201121040152/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-21T11:45:29Z",
+        "uri": "https://web.archive.org/web/20201121114529/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-22T11:47:12Z",
+        "uri": "https://web.archive.org/web/20201122114712/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-23T01:44:40Z",
+        "uri": "https://web.archive.org/web/20201123014440/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-23T23:23:38Z",
+        "uri": "https://web.archive.org/web/20201123232338/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-24T11:25:37Z",
+        "uri": "https://web.archive.org/web/20201124112537/https://www.instagram.com/p/CCjGqhlsRij/"
+      },
+      {
+        "datetime": "2020-11-24T23:26:59Z",
+        "uri": "https://web.archive.org/web/20201124232659/https://www.instagram.com/p/CCjGqhlsRij/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-15T03:32:51Z",
+      "uri": "https://wayback.archive-it.org/all/20200715033251/https://www.instagram.com/p/CCjGqhlsRij/"
+    },
+    "last": {
+      "datetime": "2020-11-24T23:26:59Z",
+      "uri": "https://web.archive.org/web/20201124232659/https://www.instagram.com/p/CCjGqhlsRij/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/p/CCjGqhlsRij/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/p/CCjGqhlsRij/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/p/CCjGqhlsRij/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/p/CCjGqhlsRij/"
+}

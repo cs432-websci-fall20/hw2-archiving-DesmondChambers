@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/",
+  "self": "http://localhost:1208/timemap/json/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-01-23T02:17:11Z",
+        "uri": "https://web.archive.org/web/20200123021711/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/"
+      },
+      {
+        "datetime": "2020-01-23T14:44:20Z",
+        "uri": "https://web.archive.org/web/20200123144420/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/"
+      },
+      {
+        "datetime": "2020-03-07T13:55:10Z",
+        "uri": "https://web.archive.org/web/20200307135510/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/"
+      },
+      {
+        "datetime": "2020-03-14T09:10:00Z",
+        "uri": "https://web.archive.org/web/20200314091000/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/"
+      },
+      {
+        "datetime": "2020-09-04T13:14:04Z",
+        "uri": "https://web.archive.org/web/20200904131404/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-01-23T02:17:11Z",
+      "uri": "https://web.archive.org/web/20200123021711/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/"
+    },
+    "last": {
+      "datetime": "2020-09-04T13:14:04Z",
+      "uri": "https://web.archive.org/web/20200904131404/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.essence.com/fashion/parker-kit-hill-wants-to-see-more-queer-men-at-nyfw/"
+}

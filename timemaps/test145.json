@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://partners.wsj.com/samsung/human-touch/healthcare-tech-with-a-human-touch/#.X3yZEuznniU.twitter",
+  "self": "http://localhost:1208/timemap/json/https://partners.wsj.com/samsung/human-touch/healthcare-tech-with-a-human-touch/#.X3yZEuznniU.twitter",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-31T20:40:56Z",
+        "uri": "https://web.archive.org/web/20201031204056/https://partners.wsj.com/samsung/human-touch/healthcare-tech-with-a-human-touch/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-31T20:40:56Z",
+      "uri": "https://web.archive.org/web/20201031204056/https://partners.wsj.com/samsung/human-touch/healthcare-tech-with-a-human-touch/"
+    },
+    "last": {
+      "datetime": "2020-10-31T20:40:56Z",
+      "uri": "https://web.archive.org/web/20201031204056/https://partners.wsj.com/samsung/human-touch/healthcare-tech-with-a-human-touch/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://partners.wsj.com/samsung/human-touch/healthcare-tech-with-a-human-touch/#.X3yZEuznniU.twitter",
+    "json_format": "http://localhost:1208/timemap/json/https://partners.wsj.com/samsung/human-touch/healthcare-tech-with-a-human-touch/#.X3yZEuznniU.twitter",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://partners.wsj.com/samsung/human-touch/healthcare-tech-with-a-human-touch/#.X3yZEuznniU.twitter"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://partners.wsj.com/samsung/human-touch/healthcare-tech-with-a-human-touch/#.X3yZEuznniU.twitter"
+}

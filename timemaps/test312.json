@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-13T12:45:27Z",
+        "uri": "https://web.archive.org/web/20200913124527/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+      },
+      {
+        "datetime": "2020-09-13T14:34:51Z",
+        "uri": "https://wayback.archive-it.org/all/20200913143451/http://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+      },
+      {
+        "datetime": "2020-09-13T14:34:51Z",
+        "uri": "https://web.archive.org/web/20200913143451/http://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+      },
+      {
+        "datetime": "2020-09-13T14:34:55Z",
+        "uri": "https://wayback.archive-it.org/all/20200913143455/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+      },
+      {
+        "datetime": "2020-09-13T14:34:55Z",
+        "uri": "https://web.archive.org/web/20200913143455/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+      },
+      {
+        "datetime": "2020-09-15T04:55:00Z",
+        "uri": "https://web.archive.org/web/20200915045500/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+      },
+      {
+        "datetime": "2020-09-16T05:52:28Z",
+        "uri": "https://web.archive.org/web/20200916055228/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-13T12:45:27Z",
+      "uri": "https://web.archive.org/web/20200913124527/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+    },
+    "last": {
+      "datetime": "2020-09-16T05:52:28Z",
+      "uri": "https://web.archive.org/web/20200916055228/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/09/13/us/brooklyn-firefighters-injured/index.html"
+}

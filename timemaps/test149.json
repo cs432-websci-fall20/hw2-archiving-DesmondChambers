@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/",
+  "self": "http://localhost:1208/timemap/json/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-08T02:01:42Z",
+        "uri": "https://web.archive.org/web/20200408020142/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-09T10:34:12Z",
+        "uri": "https://web.archive.org/web/20200409103412/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-10T00:24:16Z",
+        "uri": "https://wayback.archive-it.org/all/20200410002416/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-10T00:24:16Z",
+        "uri": "https://web.archive.org/web/20200410002416/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-10T00:24:16Z",
+        "uri": "https://web.archive.org/web/20200410002416/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-10T05:00:23Z",
+        "uri": "https://web.archive.org/web/20200410050023/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-10T08:47:07Z",
+        "uri": "https://web.archive.org/web/20200410084707/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-11T19:59:49Z",
+        "uri": "https://wayback.archive-it.org/all/20200411195949/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-11T19:59:49Z",
+        "uri": "https://web.archive.org/web/20200411195949/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-11T23:31:15Z",
+        "uri": "https://wayback.archive-it.org/all/20200411233115/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-11T23:31:15Z",
+        "uri": "https://web.archive.org/web/20200411233115/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-12T04:30:58Z",
+        "uri": "https://web.archive.org/web/20200412043058/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-13T05:36:11Z",
+        "uri": "https://wayback.archive-it.org/all/20200413053611/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-04-13T05:36:11Z",
+        "uri": "https://web.archive.org/web/20200413053611/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      },
+      {
+        "datetime": "2020-06-26T23:41:10Z",
+        "uri": "https://web.archive.org/web/20200626234110/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-08T02:01:42Z",
+      "uri": "https://web.archive.org/web/20200408020142/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+    },
+    "last": {
+      "datetime": "2020-06-26T23:41:10Z",
+      "uri": "https://web.archive.org/web/20200626234110/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/",
+    "json_format": "http://localhost:1208/timemap/json/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://the1a.org/segments/instagram-ceo-adam-mosseri-on-coronavirus-misinformation-and-working-from-home/"
+}

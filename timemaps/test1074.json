@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw",
+  "self": "http://localhost:1208/timemap/json/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-09T00:19:15Z",
+        "uri": "http://archive.md/20201009001915/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-10-10T06:28:25Z",
+        "uri": "https://web.archive.org/web/20201010062825/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-10-10T12:48:21Z",
+        "uri": "http://archive.md/20201010124821/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-10-10T16:20:03Z",
+        "uri": "http://archive.md/20201010162003/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-10-10T17:26:59Z",
+        "uri": "http://archive.md/20201010172659/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-10-10T19:39:00Z",
+        "uri": "http://archive.md/20201010193900/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-10-30T20:20:35Z",
+        "uri": "https://web.archive.org/web/20201030202035/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T01:21:35Z",
+        "uri": "https://web.archive.org/web/20201101012135/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T09:22:05Z",
+        "uri": "https://web.archive.org/web/20201101092205/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-16T10:01:28Z",
+        "uri": "https://web.archive.org/web/20201116100128/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-16T10:04:15Z",
+        "uri": "https://web.archive.org/web/20201116100415/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-09T00:19:15Z",
+      "uri": "http://archive.md/20201009001915/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+    },
+    "last": {
+      "datetime": "2020-11-16T10:04:15Z",
+      "uri": "https://web.archive.org/web/20201116100415/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wsj.com/graphics/when-did-covid-hit-earliest-death/?mod=e2tw"
+}

@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn",
+  "self": "http://localhost:1208/timemap/json/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-01T01:06:54Z",
+        "uri": "https://web.archive.org/web/20201101010654/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-01T07:54:43Z",
+        "uri": "https://web.archive.org/web/20201101075443/http://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-01T18:25:19Z",
+        "uri": "https://web.archive.org/web/20201101182519/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-01T18:25:19Z",
+        "uri": "https://web.archive.org/web/20201101182519/http://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-02T09:54:51Z",
+        "uri": "https://web.archive.org/web/20201102095451/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-02T19:37:22Z",
+        "uri": "https://web.archive.org/web/20201102193722/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-02T22:25:42Z",
+        "uri": "https://web.archive.org/web/20201102222542/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-03T14:20:47Z",
+        "uri": "https://web.archive.org/web/20201103142047/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-01T01:06:54Z",
+      "uri": "https://web.archive.org/web/20201101010654/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+    },
+    "last": {
+      "datetime": "2020-11-03T14:20:47Z",
+      "uri": "https://web.archive.org/web/20201103142047/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn",
+    "json_format": "http://localhost:1208/timemap/json/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://projects.fivethirtyeight.com/how-to-vote-2020/?cid=social_twitter_abcn"
+}

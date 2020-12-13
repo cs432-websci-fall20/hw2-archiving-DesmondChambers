@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://en-gb.facebook.com/help/231208473756221",
+  "self": "http://localhost:1208/timemap/json/https://en-gb.facebook.com/help/231208473756221",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-11T19:05:12Z",
+        "uri": "https://web.archive.org/web/20201111190512/https://en-gb.facebook.com/help/231208473756221"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-11T19:05:12Z",
+      "uri": "https://web.archive.org/web/20201111190512/https://en-gb.facebook.com/help/231208473756221"
+    },
+    "last": {
+      "datetime": "2020-11-11T19:05:12Z",
+      "uri": "https://web.archive.org/web/20201111190512/https://en-gb.facebook.com/help/231208473756221"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://en-gb.facebook.com/help/231208473756221",
+    "json_format": "http://localhost:1208/timemap/json/https://en-gb.facebook.com/help/231208473756221",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://en-gb.facebook.com/help/231208473756221"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://en-gb.facebook.com/help/231208473756221"
+}

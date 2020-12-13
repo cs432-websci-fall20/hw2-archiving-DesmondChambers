@@ -1,0 +1,2026 @@
+{
+  "original_uri": "https://www.youtube.com/Fashion",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/Fashion",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-04-26T23:21:28Z",
+        "uri": "https://web.archive.org/web/20120426232128/http://youtube.com/Fashion"
+      },
+      {
+        "datetime": "2012-04-26T23:21:38Z",
+        "uri": "https://web.archive.org/web/20120426232138/http://www.youtube.com/Fashion"
+      },
+      {
+        "datetime": "2014-01-08T15:23:45Z",
+        "uri": "https://web.archive.org/web/20140108152345/http://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-08-19T16:58:43Z",
+        "uri": "https://wayback.archive-it.org/all/20190819165843/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-08-19T16:58:43Z",
+        "uri": "https://web.archive.org/web/20190819165843/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-08-19T17:40:52Z",
+        "uri": "https://web.archive.org/web/20190819174052/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-08-19T20:54:00Z",
+        "uri": "https://wayback.archive-it.org/all/20190819205400/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-08-19T20:54:00Z",
+        "uri": "https://web.archive.org/web/20190819205400/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-05T21:37:39Z",
+        "uri": "https://web.archive.org/web/20190905213739/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-05T22:07:47Z",
+        "uri": "https://web.archive.org/web/20190905220747/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-05T22:47:17Z",
+        "uri": "https://web.archive.org/web/20190905224717/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-05T23:06:48Z",
+        "uri": "https://web.archive.org/web/20190905230648/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-05T23:20:48Z",
+        "uri": "https://web.archive.org/web/20190905232048/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-05T23:45:27Z",
+        "uri": "https://web.archive.org/web/20190905234527/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-05T23:59:05Z",
+        "uri": "https://web.archive.org/web/20190905235905/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-06T00:33:52Z",
+        "uri": "https://web.archive.org/web/20190906003352/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-06T01:52:16Z",
+        "uri": "https://web.archive.org/web/20190906015216/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-06T02:55:19Z",
+        "uri": "https://web.archive.org/web/20190906025519/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-06T06:19:48Z",
+        "uri": "https://web.archive.org/web/20190906061948/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-06T06:31:00Z",
+        "uri": "https://web.archive.org/web/20190906063100/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-06T07:26:09Z",
+        "uri": "https://web.archive.org/web/20190906072609/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-07T09:36:09Z",
+        "uri": "https://web.archive.org/web/20190907093609/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-08T06:07:57Z",
+        "uri": "https://web.archive.org/web/20190908060757/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-10T21:28:33Z",
+        "uri": "https://webarchive.loc.gov/all/20190910212833/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-26T01:00:15Z",
+        "uri": "https://wayback.archive-it.org/all/20190926010015/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-09-26T01:00:15Z",
+        "uri": "https://web.archive.org/web/20190926010015/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-10-03T03:12:18Z",
+        "uri": "https://wayback.archive-it.org/all/20191003031218/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-10-03T03:12:18Z",
+        "uri": "https://web.archive.org/web/20191003031218/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-10-04T02:08:14Z",
+        "uri": "https://wayback.archive-it.org/all/20191004020814/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-10-04T02:08:14Z",
+        "uri": "https://web.archive.org/web/20191004020814/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-10-04T11:49:33Z",
+        "uri": "https://web.archive.org/web/20191004114933/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-10-04T17:54:59Z",
+        "uri": "https://web.archive.org/web/20191004175459/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-10-07T01:58:50Z",
+        "uri": "https://wayback.archive-it.org/all/20191007015850/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-10-07T01:58:50Z",
+        "uri": "https://web.archive.org/web/20191007015850/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-10-18T13:01:42Z",
+        "uri": "https://web.archive.org/web/20191018130142/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-11-14T19:58:41Z",
+        "uri": "https://web.archive.org/web/20191114195841/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-11-18T03:57:37Z",
+        "uri": "https://web.archive.org/web/20191118035737/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-11-18T16:01:51Z",
+        "uri": "https://wayback.archive-it.org/all/20191118160151/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-11-18T16:01:51Z",
+        "uri": "https://web.archive.org/web/20191118160151/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-11-20T01:34:56Z",
+        "uri": "https://web.archive.org/web/20191120013456/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-11-26T01:53:06Z",
+        "uri": "https://web.archive.org/web/20191126015306/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-03T18:17:25Z",
+        "uri": "https://web.archive.org/web/20191203181725/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-04T13:03:41Z",
+        "uri": "https://web.archive.org/web/20191204130341/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-04T14:15:55Z",
+        "uri": "https://web.archive.org/web/20191204141555/http://youtube.com/Fashion"
+      },
+      {
+        "datetime": "2019-12-04T23:05:10Z",
+        "uri": "https://wayback.archive-it.org/all/20191204230510/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-04T23:05:10Z",
+        "uri": "https://web.archive.org/web/20191204230510/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-08T10:57:08Z",
+        "uri": "https://web.archive.org/web/20191208105708/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-10T00:23:52Z",
+        "uri": "https://wayback.archive-it.org/all/20191210002352/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-10T00:23:52Z",
+        "uri": "https://web.archive.org/web/20191210002352/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-13T13:53:42Z",
+        "uri": "https://web.archive.org/web/20191213135342/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-18T00:26:06Z",
+        "uri": "https://wayback.archive-it.org/all/20191218002606/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-18T00:26:06Z",
+        "uri": "https://web.archive.org/web/20191218002606/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-19T01:29:10Z",
+        "uri": "https://wayback.archive-it.org/all/20191219012910/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-19T01:29:10Z",
+        "uri": "https://web.archive.org/web/20191219012910/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-22T23:24:28Z",
+        "uri": "https://web.archive.org/web/20191222232428/https://youtube.com/fashion"
+      },
+      {
+        "datetime": "2019-12-22T23:24:29Z",
+        "uri": "https://web.archive.org/web/20191222232429/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-01-03T17:39:00Z",
+        "uri": "https://web.archive.org/web/20200103173900/http://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-01-06T17:00:22Z",
+        "uri": "https://wayback.archive-it.org/all/20200106170022/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-01-06T17:00:22Z",
+        "uri": "https://web.archive.org/web/20200106170022/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-01-06T17:00:24Z",
+        "uri": "https://wayback.archive-it.org/all/20200106170024/https://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-01-06T17:00:24Z",
+        "uri": "https://web.archive.org/web/20200106170024/https://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-01-07T00:35:21Z",
+        "uri": "https://wayback.archive-it.org/all/20200107003521/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-01-07T00:35:21Z",
+        "uri": "https://web.archive.org/web/20200107003521/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-01-31T01:38:56Z",
+        "uri": "https://web.archive.org/web/20200131013856/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-01-31T01:41:52Z",
+        "uri": "https://web.archive.org/web/20200131014152/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-01T02:10:40Z",
+        "uri": "https://web.archive.org/web/20200201021040/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-02T03:35:13Z",
+        "uri": "https://web.archive.org/web/20200202033513/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-03T03:42:24Z",
+        "uri": "https://web.archive.org/web/20200203034224/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-03T04:18:14Z",
+        "uri": "https://web.archive.org/web/20200203041814/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-04T00:29:25Z",
+        "uri": "https://web.archive.org/web/20200204002925/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-04T04:37:14Z",
+        "uri": "https://web.archive.org/web/20200204043714/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-04T05:17:53Z",
+        "uri": "https://web.archive.org/web/20200204051753/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-05T05:24:30Z",
+        "uri": "https://web.archive.org/web/20200205052430/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-05T06:16:52Z",
+        "uri": "https://web.archive.org/web/20200205061652/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-05T07:43:47Z",
+        "uri": "https://web.archive.org/web/20200205074347/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-05T15:26:56Z",
+        "uri": "https://wayback.archive-it.org/all/20200205152656/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-05T15:26:56Z",
+        "uri": "https://web.archive.org/web/20200205152656/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-06T05:45:39Z",
+        "uri": "https://web.archive.org/web/20200206054539/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-07T06:09:53Z",
+        "uri": "https://web.archive.org/web/20200207060953/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-07T21:26:32Z",
+        "uri": "https://web.archive.org/web/20200207212632/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-08T06:35:51Z",
+        "uri": "https://web.archive.org/web/20200208063551/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-09T07:16:59Z",
+        "uri": "https://web.archive.org/web/20200209071659/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-10T08:05:34Z",
+        "uri": "https://web.archive.org/web/20200210080534/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-10T10:22:02Z",
+        "uri": "https://web.archive.org/web/20200210102202/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-11T00:49:29Z",
+        "uri": "https://web.archive.org/web/20200211004929/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-11T08:47:49Z",
+        "uri": "https://web.archive.org/web/20200211084749/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-12T09:46:48Z",
+        "uri": "https://web.archive.org/web/20200212094648/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-13T10:15:18Z",
+        "uri": "https://web.archive.org/web/20200213101518/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-14T10:43:12Z",
+        "uri": "https://web.archive.org/web/20200214104312/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-15T11:04:18Z",
+        "uri": "https://web.archive.org/web/20200215110418/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-16T11:37:55Z",
+        "uri": "https://web.archive.org/web/20200216113755/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-17T12:28:11Z",
+        "uri": "https://web.archive.org/web/20200217122811/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-18T12:55:55Z",
+        "uri": "https://web.archive.org/web/20200218125555/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-19T13:40:38Z",
+        "uri": "https://web.archive.org/web/20200219134038/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-20T14:30:59Z",
+        "uri": "https://web.archive.org/web/20200220143059/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-21T06:29:13Z",
+        "uri": "https://wayback.archive-it.org/all/20200221062913/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-21T06:29:13Z",
+        "uri": "https://web.archive.org/web/20200221062913/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-21T06:29:13Z",
+        "uri": "https://web.archive.org/web/20200221062913/http://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-21T15:25:18Z",
+        "uri": "https://web.archive.org/web/20200221152518/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-22T15:47:00Z",
+        "uri": "https://web.archive.org/web/20200222154700/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-23T15:58:50Z",
+        "uri": "https://web.archive.org/web/20200223155850/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-24T16:41:05Z",
+        "uri": "https://web.archive.org/web/20200224164105/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-25T17:07:15Z",
+        "uri": "https://web.archive.org/web/20200225170715/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-25T23:35:13Z",
+        "uri": "https://web.archive.org/web/20200225233513/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-26T17:42:53Z",
+        "uri": "https://web.archive.org/web/20200226174253/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-27T18:01:35Z",
+        "uri": "https://web.archive.org/web/20200227180135/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-28T11:34:29Z",
+        "uri": "https://wayback.archive-it.org/all/20200228113429/http://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-28T11:34:29Z",
+        "uri": "https://web.archive.org/web/20200228113429/http://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-28T18:45:19Z",
+        "uri": "https://web.archive.org/web/20200228184519/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-02-29T19:19:59Z",
+        "uri": "https://web.archive.org/web/20200229191959/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-01T19:45:01Z",
+        "uri": "https://web.archive.org/web/20200301194501/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-02T20:43:43Z",
+        "uri": "https://web.archive.org/web/20200302204343/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-03T21:15:23Z",
+        "uri": "https://web.archive.org/web/20200303211523/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-04T21:47:54Z",
+        "uri": "https://web.archive.org/web/20200304214754/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-05T22:05:16Z",
+        "uri": "https://web.archive.org/web/20200305220516/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-06T15:29:15Z",
+        "uri": "https://web.archive.org/web/20200306152915/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-06T23:05:03Z",
+        "uri": "https://web.archive.org/web/20200306230503/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-07T14:05:38Z",
+        "uri": "https://web.archive.org/web/20200307140538/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-07T14:05:39Z",
+        "uri": "https://web.archive.org/web/20200307140539/https://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-07T14:05:41Z",
+        "uri": "https://web.archive.org/web/20200307140541/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-07T23:15:36Z",
+        "uri": "https://web.archive.org/web/20200307231536/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-08T23:35:51Z",
+        "uri": "https://web.archive.org/web/20200308233551/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-09T23:53:31Z",
+        "uri": "https://web.archive.org/web/20200309235331/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-11T00:27:59Z",
+        "uri": "https://web.archive.org/web/20200311002759/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-12T00:41:38Z",
+        "uri": "https://web.archive.org/web/20200312004138/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-13T01:04:25Z",
+        "uri": "https://web.archive.org/web/20200313010425/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-13T23:05:30Z",
+        "uri": "https://web.archive.org/web/20200313230530/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-13T23:05:33Z",
+        "uri": "https://web.archive.org/web/20200313230533/https://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-14T00:43:46Z",
+        "uri": "https://web.archive.org/web/20200314004346/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-14T01:25:11Z",
+        "uri": "https://web.archive.org/web/20200314012511/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-15T02:01:34Z",
+        "uri": "https://web.archive.org/web/20200315020134/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-16T14:51:54Z",
+        "uri": "https://wayback.archive-it.org/all/20200316145154/https://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-16T14:51:54Z",
+        "uri": "https://web.archive.org/web/20200316145154/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-17T02:55:58Z",
+        "uri": "https://web.archive.org/web/20200317025558/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-18T03:55:26Z",
+        "uri": "https://web.archive.org/web/20200318035526/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-20T05:01:35Z",
+        "uri": "https://web.archive.org/web/20200320050135/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-21T05:18:48Z",
+        "uri": "https://web.archive.org/web/20200321051848/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-22T06:21:03Z",
+        "uri": "https://web.archive.org/web/20200322062103/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-23T07:12:36Z",
+        "uri": "https://web.archive.org/web/20200323071236/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-24T07:53:27Z",
+        "uri": "https://web.archive.org/web/20200324075327/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-25T08:17:21Z",
+        "uri": "https://web.archive.org/web/20200325081721/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-26T08:54:41Z",
+        "uri": "https://web.archive.org/web/20200326085441/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-27T09:23:33Z",
+        "uri": "https://web.archive.org/web/20200327092333/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-28T09:58:02Z",
+        "uri": "https://web.archive.org/web/20200328095802/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-29T10:33:07Z",
+        "uri": "https://web.archive.org/web/20200329103307/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-03-30T10:48:30Z",
+        "uri": "https://web.archive.org/web/20200330104830/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-01T12:06:29Z",
+        "uri": "https://web.archive.org/web/20200401120629/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-02T12:50:11Z",
+        "uri": "https://web.archive.org/web/20200402125011/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-03T10:10:18Z",
+        "uri": "https://web.archive.org/web/20200403101018/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-03T13:28:16Z",
+        "uri": "https://web.archive.org/web/20200403132816/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-04T14:15:05Z",
+        "uri": "https://web.archive.org/web/20200404141505/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-05T15:30:22Z",
+        "uri": "https://web.archive.org/web/20200405153022/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-06T15:38:23Z",
+        "uri": "https://web.archive.org/web/20200406153823/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-07T16:46:59Z",
+        "uri": "https://web.archive.org/web/20200407164659/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-08T17:54:11Z",
+        "uri": "https://web.archive.org/web/20200408175411/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-09T18:52:05Z",
+        "uri": "https://web.archive.org/web/20200409185205/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-10T19:19:13Z",
+        "uri": "https://web.archive.org/web/20200410191913/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-11T19:41:13Z",
+        "uri": "https://web.archive.org/web/20200411194113/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-12T20:19:01Z",
+        "uri": "https://web.archive.org/web/20200412201901/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-13T20:38:03Z",
+        "uri": "https://web.archive.org/web/20200413203803/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-14T21:08:52Z",
+        "uri": "https://web.archive.org/web/20200414210852/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-15T21:29:53Z",
+        "uri": "https://web.archive.org/web/20200415212953/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-16T00:34:38Z",
+        "uri": "https://web.archive.org/web/20200416003438/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-16T22:42:28Z",
+        "uri": "https://web.archive.org/web/20200416224228/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-17T22:42:00Z",
+        "uri": "https://web.archive.org/web/20200417224200/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-18T23:06:26Z",
+        "uri": "https://web.archive.org/web/20200418230626/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-19T23:31:33Z",
+        "uri": "https://web.archive.org/web/20200419233133/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-20T23:46:27Z",
+        "uri": "https://web.archive.org/web/20200420234627/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-22T00:20:00Z",
+        "uri": "https://web.archive.org/web/20200422002000/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-23T00:48:14Z",
+        "uri": "https://web.archive.org/web/20200423004814/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-24T01:36:22Z",
+        "uri": "https://web.archive.org/web/20200424013622/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-25T02:13:15Z",
+        "uri": "https://web.archive.org/web/20200425021315/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-26T02:50:57Z",
+        "uri": "https://web.archive.org/web/20200426025057/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-27T03:28:37Z",
+        "uri": "https://web.archive.org/web/20200427032837/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-28T04:17:20Z",
+        "uri": "https://web.archive.org/web/20200428041720/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-28T22:47:18Z",
+        "uri": "https://web.archive.org/web/20200428224718/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-29T04:50:26Z",
+        "uri": "https://web.archive.org/web/20200429045026/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-04-30T05:28:56Z",
+        "uri": "https://web.archive.org/web/20200430052856/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-01T05:57:26Z",
+        "uri": "https://web.archive.org/web/20200501055726/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-02T06:49:24Z",
+        "uri": "https://web.archive.org/web/20200502064924/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-02T14:41:37Z",
+        "uri": "https://web.archive.org/web/20200502144137/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-03T05:15:48Z",
+        "uri": "https://web.archive.org/web/20200503051548/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-03T07:48:20Z",
+        "uri": "https://web.archive.org/web/20200503074820/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-03T17:47:14Z",
+        "uri": "https://web.archive.org/web/20200503174714/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-04T08:40:02Z",
+        "uri": "https://web.archive.org/web/20200504084002/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-04T20:36:31Z",
+        "uri": "https://web.archive.org/web/20200504203631/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-05T00:41:53Z",
+        "uri": "https://web.archive.org/web/20200505004153/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-05T04:24:21Z",
+        "uri": "https://web.archive.org/web/20200505042421/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-05T09:37:04Z",
+        "uri": "https://web.archive.org/web/20200505093704/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-06T08:04:34Z",
+        "uri": "https://web.archive.org/web/20200506080434/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-06T09:59:22Z",
+        "uri": "https://web.archive.org/web/20200506095922/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-06T18:51:32Z",
+        "uri": "https://web.archive.org/web/20200506185132/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-06T21:57:27Z",
+        "uri": "https://web.archive.org/web/20200506215727/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-07T11:22:12Z",
+        "uri": "https://web.archive.org/web/20200507112212/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-07T20:10:14Z",
+        "uri": "https://web.archive.org/web/20200507201014/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-08T11:42:51Z",
+        "uri": "https://web.archive.org/web/20200508114251/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-09T12:41:38Z",
+        "uri": "https://web.archive.org/web/20200509124138/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-10T13:58:43Z",
+        "uri": "https://web.archive.org/web/20200510135843/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-10T22:32:07Z",
+        "uri": "https://web.archive.org/web/20200510223207/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-11T14:59:07Z",
+        "uri": "https://web.archive.org/web/20200511145907/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-12T16:41:10Z",
+        "uri": "https://web.archive.org/web/20200512164110/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-13T10:11:20Z",
+        "uri": "https://web.archive.org/web/20200513101120/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-13T13:41:32Z",
+        "uri": "https://web.archive.org/web/20200513134132/http://youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-05-13T17:26:19Z",
+        "uri": "https://web.archive.org/web/20200513172619/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-14T00:59:31Z",
+        "uri": "https://web.archive.org/web/20200514005931/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-14T03:15:10Z",
+        "uri": "https://web.archive.org/web/20200514031510/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-14T18:48:08Z",
+        "uri": "https://web.archive.org/web/20200514184808/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-15T02:57:08Z",
+        "uri": "https://web.archive.org/web/20200515025708/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-15T19:38:30Z",
+        "uri": "https://web.archive.org/web/20200515193830/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-16T20:07:32Z",
+        "uri": "https://web.archive.org/web/20200516200732/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-17T20:48:37Z",
+        "uri": "https://web.archive.org/web/20200517204837/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-18T21:11:50Z",
+        "uri": "https://web.archive.org/web/20200518211150/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-19T21:47:25Z",
+        "uri": "https://web.archive.org/web/20200519214725/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-20T21:58:27Z",
+        "uri": "https://web.archive.org/web/20200520215827/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-21T16:40:51Z",
+        "uri": "https://web.archive.org/web/20200521164051/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-21T22:37:37Z",
+        "uri": "https://web.archive.org/web/20200521223737/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-22T21:07:46Z",
+        "uri": "https://web.archive.org/web/20200522210746/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-22T23:40:40Z",
+        "uri": "https://web.archive.org/web/20200522234040/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-23T07:38:16Z",
+        "uri": "https://web.archive.org/web/20200523073816/https://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-23T23:38:32Z",
+        "uri": "https://web.archive.org/web/20200523233832/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-24T08:13:00Z",
+        "uri": "https://web.archive.org/web/20200524081300/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-25T00:29:03Z",
+        "uri": "https://web.archive.org/web/20200525002903/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-26T01:16:55Z",
+        "uri": "https://web.archive.org/web/20200526011655/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-27T01:59:01Z",
+        "uri": "https://web.archive.org/web/20200527015901/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-28T02:55:40Z",
+        "uri": "https://web.archive.org/web/20200528025540/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-29T03:19:06Z",
+        "uri": "https://web.archive.org/web/20200529031906/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-30T03:47:14Z",
+        "uri": "https://web.archive.org/web/20200530034714/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-05-31T04:12:37Z",
+        "uri": "https://web.archive.org/web/20200531041237/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-01T04:42:11Z",
+        "uri": "https://web.archive.org/web/20200601044211/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-02T05:15:24Z",
+        "uri": "https://web.archive.org/web/20200602051524/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-03T05:36:46Z",
+        "uri": "https://web.archive.org/web/20200603053646/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-04T06:21:18Z",
+        "uri": "https://web.archive.org/web/20200604062118/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-05T07:13:16Z",
+        "uri": "https://web.archive.org/web/20200605071316/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-06T07:38:18Z",
+        "uri": "https://web.archive.org/web/20200606073818/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-07T08:07:28Z",
+        "uri": "https://web.archive.org/web/20200607080728/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-08T09:07:06Z",
+        "uri": "https://web.archive.org/web/20200608090706/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-09T09:23:55Z",
+        "uri": "https://web.archive.org/web/20200609092355/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-09T19:45:38Z",
+        "uri": "https://web.archive.org/web/20200609194538/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-10T10:07:15Z",
+        "uri": "https://web.archive.org/web/20200610100715/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-11T10:31:50Z",
+        "uri": "https://web.archive.org/web/20200611103150/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-12T11:15:34Z",
+        "uri": "https://web.archive.org/web/20200612111534/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-12T13:24:51Z",
+        "uri": "https://web.archive.org/web/20200612132451/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-13T12:29:28Z",
+        "uri": "https://web.archive.org/web/20200613122928/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-13T14:33:13Z",
+        "uri": "https://web.archive.org/web/20200613143313/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-14T13:13:28Z",
+        "uri": "https://web.archive.org/web/20200614131328/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-15T13:46:01Z",
+        "uri": "https://web.archive.org/web/20200615134601/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-16T14:31:33Z",
+        "uri": "https://web.archive.org/web/20200616143133/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-17T14:51:09Z",
+        "uri": "https://web.archive.org/web/20200617145109/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-18T15:30:34Z",
+        "uri": "https://web.archive.org/web/20200618153034/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-19T04:02:54Z",
+        "uri": "https://web.archive.org/web/20200619040254/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-19T16:12:23Z",
+        "uri": "https://web.archive.org/web/20200619161223/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-20T17:01:47Z",
+        "uri": "https://web.archive.org/web/20200620170147/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-21T18:24:09Z",
+        "uri": "https://web.archive.org/web/20200621182409/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-22T18:59:14Z",
+        "uri": "https://web.archive.org/web/20200622185914/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-23T19:32:28Z",
+        "uri": "https://web.archive.org/web/20200623193228/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-24T12:00:04Z",
+        "uri": "https://web.archive.org/web/20200624120004/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-24T13:53:16Z",
+        "uri": "https://web.archive.org/web/20200624135316/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-24T16:28:41Z",
+        "uri": "https://web.archive.org/web/20200624162841/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-24T20:07:40Z",
+        "uri": "https://web.archive.org/web/20200624200740/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-25T13:10:25Z",
+        "uri": "https://web.archive.org/web/20200625131025/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-25T20:44:08Z",
+        "uri": "https://web.archive.org/web/20200625204408/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-26T10:14:35Z",
+        "uri": "https://web.archive.org/web/20200626101435/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-26T20:58:38Z",
+        "uri": "https://web.archive.org/web/20200626205838/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-27T04:34:56Z",
+        "uri": "https://web.archive.org/web/20200627043456/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-27T21:26:33Z",
+        "uri": "https://web.archive.org/web/20200627212633/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-28T16:32:41Z",
+        "uri": "https://web.archive.org/web/20200628163241/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-28T22:00:39Z",
+        "uri": "https://web.archive.org/web/20200628220039/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-29T08:37:06Z",
+        "uri": "https://web.archive.org/web/20200629083706/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-29T22:48:07Z",
+        "uri": "https://web.archive.org/web/20200629224807/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-06-30T23:28:35Z",
+        "uri": "https://web.archive.org/web/20200630232835/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-02T00:10:43Z",
+        "uri": "https://web.archive.org/web/20200702001043/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-03T00:55:46Z",
+        "uri": "https://web.archive.org/web/20200703005546/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-04T01:35:31Z",
+        "uri": "https://web.archive.org/web/20200704013531/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-04T14:30:20Z",
+        "uri": "https://web.archive.org/web/20200704143020/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-05T02:00:48Z",
+        "uri": "https://web.archive.org/web/20200705020048/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-06T02:51:15Z",
+        "uri": "https://web.archive.org/web/20200706025115/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-07T04:26:49Z",
+        "uri": "https://web.archive.org/web/20200707042649/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-07T23:07:02Z",
+        "uri": "https://web.archive.org/web/20200707230702/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-08T05:37:27Z",
+        "uri": "https://web.archive.org/web/20200708053727/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-09T06:14:15Z",
+        "uri": "https://web.archive.org/web/20200709061415/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-10T17:42:16Z",
+        "uri": "https://web.archive.org/web/20200710174216/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-11T03:07:10Z",
+        "uri": "https://web.archive.org/web/20200711030710/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-11T18:29:53Z",
+        "uri": "https://web.archive.org/web/20200711182953/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-12T19:05:50Z",
+        "uri": "https://web.archive.org/web/20200712190550/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-13T20:06:05Z",
+        "uri": "https://web.archive.org/web/20200713200605/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-14T21:16:26Z",
+        "uri": "https://web.archive.org/web/20200714211626/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-15T02:22:25Z",
+        "uri": "https://web.archive.org/web/20200715022225/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-15T03:01:17Z",
+        "uri": "https://web.archive.org/web/20200715030117/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-15T21:15:06Z",
+        "uri": "https://web.archive.org/web/20200715211506/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-16T16:08:41Z",
+        "uri": "https://web.archive.org/web/20200716160841/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-16T22:24:55Z",
+        "uri": "https://web.archive.org/web/20200716222455/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-17T22:58:59Z",
+        "uri": "https://web.archive.org/web/20200717225859/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-18T23:42:05Z",
+        "uri": "https://web.archive.org/web/20200718234205/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-20T00:07:36Z",
+        "uri": "https://web.archive.org/web/20200720000736/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-21T00:42:58Z",
+        "uri": "https://web.archive.org/web/20200721004258/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-22T01:54:16Z",
+        "uri": "https://web.archive.org/web/20200722015416/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-22T01:58:03Z",
+        "uri": "https://web.archive.org/web/20200722015803/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-23T02:36:28Z",
+        "uri": "https://web.archive.org/web/20200723023628/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-24T03:17:44Z",
+        "uri": "https://web.archive.org/web/20200724031744/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-25T01:22:30Z",
+        "uri": "https://web.archive.org/web/20200725012230/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-25T03:55:48Z",
+        "uri": "https://web.archive.org/web/20200725035548/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-26T01:25:15Z",
+        "uri": "https://web.archive.org/web/20200726012515/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-26T04:51:30Z",
+        "uri": "https://web.archive.org/web/20200726045130/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-27T05:32:03Z",
+        "uri": "https://web.archive.org/web/20200727053203/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-28T06:15:22Z",
+        "uri": "https://web.archive.org/web/20200728061522/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-29T02:47:02Z",
+        "uri": "https://web.archive.org/web/20200729024702/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-29T06:41:26Z",
+        "uri": "https://web.archive.org/web/20200729064126/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-30T07:24:22Z",
+        "uri": "https://web.archive.org/web/20200730072422/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-30T11:47:23Z",
+        "uri": "https://web.archive.org/web/20200730114723/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-30T12:28:22Z",
+        "uri": "https://wayback.archive-it.org/all/20200730122822/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-30T12:28:22Z",
+        "uri": "https://web.archive.org/web/20200730122822/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-31T02:49:08Z",
+        "uri": "https://wayback.archive-it.org/all/20200731024908/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-31T02:49:08Z",
+        "uri": "https://web.archive.org/web/20200731024908/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-31T07:33:16Z",
+        "uri": "https://web.archive.org/web/20200731073316/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-07-31T08:11:08Z",
+        "uri": "https://web.archive.org/web/20200731081108/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-01T09:01:08Z",
+        "uri": "https://web.archive.org/web/20200801090108/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-02T09:48:42Z",
+        "uri": "https://web.archive.org/web/20200802094842/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-03T10:16:58Z",
+        "uri": "https://web.archive.org/web/20200803101658/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-04T10:49:32Z",
+        "uri": "https://web.archive.org/web/20200804104932/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-05T05:20:00Z",
+        "uri": "https://web.archive.org/web/20200805052000/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-05T12:28:41Z",
+        "uri": "https://web.archive.org/web/20200805122841/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-06T12:11:38Z",
+        "uri": "https://web.archive.org/web/20200806121138/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-07T08:48:45Z",
+        "uri": "https://web.archive.org/web/20200807084845/http://youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-08-07T12:35:49Z",
+        "uri": "https://web.archive.org/web/20200807123549/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-08T14:16:51Z",
+        "uri": "https://web.archive.org/web/20200808141651/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-09T13:50:33Z",
+        "uri": "https://web.archive.org/web/20200809135033/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-10T14:36:04Z",
+        "uri": "https://web.archive.org/web/20200810143604/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-10T23:01:00Z",
+        "uri": "https://wayback.archive-it.org/all/20200810230100/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-10T23:01:00Z",
+        "uri": "https://web.archive.org/web/20200810230100/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-11T15:31:38Z",
+        "uri": "https://web.archive.org/web/20200811153138/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-12T03:30:29Z",
+        "uri": "https://web.archive.org/web/20200812033029/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-12T16:27:21Z",
+        "uri": "https://web.archive.org/web/20200812162721/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-13T08:09:50Z",
+        "uri": "https://web.archive.org/web/20200813080950/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-13T16:57:55Z",
+        "uri": "https://web.archive.org/web/20200813165755/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-14T14:12:11Z",
+        "uri": "https://web.archive.org/web/20200814141211/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-14T17:18:42Z",
+        "uri": "https://web.archive.org/web/20200814171842/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-15T17:47:42Z",
+        "uri": "https://web.archive.org/web/20200815174742/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-16T18:13:22Z",
+        "uri": "https://web.archive.org/web/20200816181322/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-17T19:31:15Z",
+        "uri": "https://web.archive.org/web/20200817193115/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-18T20:10:15Z",
+        "uri": "https://web.archive.org/web/20200818201015/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-19T03:53:53Z",
+        "uri": "https://web.archive.org/web/20200819035353/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-19T20:56:16Z",
+        "uri": "https://web.archive.org/web/20200819205616/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-20T21:20:32Z",
+        "uri": "https://web.archive.org/web/20200820212032/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-21T22:07:52Z",
+        "uri": "https://web.archive.org/web/20200821220752/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-22T22:28:24Z",
+        "uri": "https://web.archive.org/web/20200822222824/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-23T22:55:23Z",
+        "uri": "https://web.archive.org/web/20200823225523/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-24T23:19:00Z",
+        "uri": "https://web.archive.org/web/20200824231900/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-25T23:47:02Z",
+        "uri": "https://web.archive.org/web/20200825234702/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-26T04:32:04Z",
+        "uri": "https://web.archive.org/web/20200826043204/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-27T00:00:42Z",
+        "uri": "https://web.archive.org/web/20200827000042/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-28T00:31:17Z",
+        "uri": "https://web.archive.org/web/20200828003117/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-28T08:38:26Z",
+        "uri": "https://web.archive.org/web/20200828083826/http://youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-08-29T00:52:15Z",
+        "uri": "https://web.archive.org/web/20200829005215/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-30T01:15:12Z",
+        "uri": "https://web.archive.org/web/20200830011512/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-08-31T01:57:28Z",
+        "uri": "https://web.archive.org/web/20200831015728/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-01T02:16:25Z",
+        "uri": "https://web.archive.org/web/20200901021625/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-02T03:03:10Z",
+        "uri": "https://web.archive.org/web/20200902030310/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-02T05:04:48Z",
+        "uri": "https://web.archive.org/web/20200902050448/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-03T03:44:23Z",
+        "uri": "https://web.archive.org/web/20200903034423/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-03T05:24:25Z",
+        "uri": "https://wayback.archive-it.org/all/20200903052425/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-03T05:24:25Z",
+        "uri": "https://web.archive.org/web/20200903052425/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-04T05:10:04Z",
+        "uri": "https://web.archive.org/web/20200904051004/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-05T06:03:40Z",
+        "uri": "https://web.archive.org/web/20200905060340/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-06T06:31:10Z",
+        "uri": "https://web.archive.org/web/20200906063110/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-07T06:53:55Z",
+        "uri": "https://web.archive.org/web/20200907065355/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-08T07:20:49Z",
+        "uri": "https://web.archive.org/web/20200908072049/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-09T05:22:01Z",
+        "uri": "https://web.archive.org/web/20200909052201/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-09T08:00:45Z",
+        "uri": "https://web.archive.org/web/20200909080045/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-10T08:23:41Z",
+        "uri": "https://web.archive.org/web/20200910082341/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-11T09:14:26Z",
+        "uri": "https://web.archive.org/web/20200911091426/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-11T09:32:25Z",
+        "uri": "https://wayback.archive-it.org/all/20200911093225/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-11T09:32:25Z",
+        "uri": "https://web.archive.org/web/20200911093225/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-12T09:51:58Z",
+        "uri": "https://web.archive.org/web/20200912095158/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-13T10:28:42Z",
+        "uri": "https://web.archive.org/web/20200913102842/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-14T11:50:51Z",
+        "uri": "https://web.archive.org/web/20200914115051/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-16T23:44:18Z",
+        "uri": "https://web.archive.org/web/20200916234418/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-09-17T00:42:16Z",
+        "uri": "https://web.archive.org/web/20200917004216/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-01T02:51:20Z",
+        "uri": "https://web.archive.org/web/20201001025120/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-01T13:34:49Z",
+        "uri": "https://web.archive.org/web/20201001133449/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-02T14:46:06Z",
+        "uri": "https://web.archive.org/web/20201002144606/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-03T13:43:18Z",
+        "uri": "https://web.archive.org/web/20201003134318/http://youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-10-03T14:55:03Z",
+        "uri": "https://web.archive.org/web/20201003145503/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-04T15:17:37Z",
+        "uri": "https://web.archive.org/web/20201004151737/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-05T07:00:37Z",
+        "uri": "https://web.archive.org/web/20201005070037/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-05T15:47:39Z",
+        "uri": "https://web.archive.org/web/20201005154739/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-06T16:22:18Z",
+        "uri": "https://web.archive.org/web/20201006162218/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-07T17:09:43Z",
+        "uri": "https://web.archive.org/web/20201007170943/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-08T00:14:00Z",
+        "uri": "https://web.archive.org/web/20201008001400/https://youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-10-08T03:12:22Z",
+        "uri": "https://web.archive.org/web/20201008031222/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-08T03:33:45Z",
+        "uri": "https://web.archive.org/web/20201008033345/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-08T06:13:28Z",
+        "uri": "https://web.archive.org/web/20201008061328/https://www.youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-10-08T17:58:51Z",
+        "uri": "https://web.archive.org/web/20201008175851/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-09T18:16:24Z",
+        "uri": "https://web.archive.org/web/20201009181624/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-10T15:17:08Z",
+        "uri": "https://web.archive.org/web/20201010151708/http://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-10T19:46:05Z",
+        "uri": "https://web.archive.org/web/20201010194605/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-11T20:10:37Z",
+        "uri": "https://web.archive.org/web/20201011201037/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-12T20:35:08Z",
+        "uri": "https://web.archive.org/web/20201012203508/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-13T23:12:41Z",
+        "uri": "https://web.archive.org/web/20201013231241/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-14T23:59:57Z",
+        "uri": "https://web.archive.org/web/20201014235957/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-15T04:07:10Z",
+        "uri": "https://web.archive.org/web/20201015040710/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-15T09:08:41Z",
+        "uri": "https://web.archive.org/web/20201015090841/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-16T00:22:37Z",
+        "uri": "https://web.archive.org/web/20201016002237/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-17T00:42:56Z",
+        "uri": "https://web.archive.org/web/20201017004256/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-18T04:18:52Z",
+        "uri": "https://web.archive.org/web/20201018041852/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-19T04:54:05Z",
+        "uri": "https://web.archive.org/web/20201019045405/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-20T05:19:11Z",
+        "uri": "https://web.archive.org/web/20201020051911/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-21T06:16:48Z",
+        "uri": "https://web.archive.org/web/20201021061648/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-22T04:53:28Z",
+        "uri": "https://web.archive.org/web/20201022045328/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-22T06:48:12Z",
+        "uri": "https://web.archive.org/web/20201022064812/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-23T07:17:37Z",
+        "uri": "https://web.archive.org/web/20201023071737/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-24T12:12:04Z",
+        "uri": "https://web.archive.org/web/20201024121204/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-25T13:04:12Z",
+        "uri": "https://web.archive.org/web/20201025130412/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-26T13:22:32Z",
+        "uri": "https://web.archive.org/web/20201026132232/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-27T15:15:46Z",
+        "uri": "https://web.archive.org/web/20201027151546/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-28T15:40:57Z",
+        "uri": "https://web.archive.org/web/20201028154057/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-29T05:27:46Z",
+        "uri": "https://web.archive.org/web/20201029052746/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-29T16:27:15Z",
+        "uri": "https://web.archive.org/web/20201029162715/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-30T17:06:53Z",
+        "uri": "https://web.archive.org/web/20201030170653/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-10-31T17:33:34Z",
+        "uri": "https://web.archive.org/web/20201031173334/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-01T10:33:12Z",
+        "uri": "https://web.archive.org/web/20201101103312/https://www.youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-11-01T10:33:12Z",
+        "uri": "https://web.archive.org/web/20201101103312/http://youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-11-01T17:57:19Z",
+        "uri": "https://web.archive.org/web/20201101175719/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-01T18:47:45Z",
+        "uri": "https://web.archive.org/web/20201101184745/https://www.youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-11-01T18:47:45Z",
+        "uri": "https://web.archive.org/web/20201101184745/http://youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-11-02T01:11:22Z",
+        "uri": "https://web.archive.org/web/20201102011122/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-02T07:43:28Z",
+        "uri": "https://wayback.archive-it.org/all/20201102074328/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-02T18:59:06Z",
+        "uri": "https://web.archive.org/web/20201102185906/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-03T01:08:46Z",
+        "uri": "https://web.archive.org/web/20201103010846/https://youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-03T20:37:45Z",
+        "uri": "https://web.archive.org/web/20201103203745/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-04T09:11:20Z",
+        "uri": "https://wayback.archive-it.org/all/20201104091120/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-04T21:02:57Z",
+        "uri": "https://web.archive.org/web/20201104210257/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-05T05:43:31Z",
+        "uri": "https://web.archive.org/web/20201105054331/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-05T09:26:39Z",
+        "uri": "https://web.archive.org/web/20201105092639/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-05T20:36:15Z",
+        "uri": "https://web.archive.org/web/20201105203615/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-05T21:19:32Z",
+        "uri": "https://web.archive.org/web/20201105211932/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-06T16:19:43Z",
+        "uri": "https://web.archive.org/web/20201106161943/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-06T21:20:30Z",
+        "uri": "https://web.archive.org/web/20201106212030/http://youtube.com/Fashion"
+      },
+      {
+        "datetime": "2020-11-06T23:15:10Z",
+        "uri": "https://web.archive.org/web/20201106231510/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-07T23:55:17Z",
+        "uri": "https://web.archive.org/web/20201107235517/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-09T00:36:55Z",
+        "uri": "https://web.archive.org/web/20201109003655/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-10T01:15:49Z",
+        "uri": "https://web.archive.org/web/20201110011549/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-11T01:43:21Z",
+        "uri": "https://web.archive.org/web/20201111014321/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-12T04:50:10Z",
+        "uri": "https://web.archive.org/web/20201112045010/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-12T06:55:24Z",
+        "uri": "https://web.archive.org/web/20201112065524/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-13T05:39:41Z",
+        "uri": "https://web.archive.org/web/20201113053941/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-14T06:11:57Z",
+        "uri": "https://web.archive.org/web/20201114061157/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-15T06:45:02Z",
+        "uri": "https://web.archive.org/web/20201115064502/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-15T07:39:13Z",
+        "uri": "https://web.archive.org/web/20201115073913/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-15T08:48:28Z",
+        "uri": "https://web.archive.org/web/20201115084828/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-16T07:21:49Z",
+        "uri": "https://web.archive.org/web/20201116072149/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-17T08:06:51Z",
+        "uri": "https://web.archive.org/web/20201117080651/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-18T08:29:07Z",
+        "uri": "https://web.archive.org/web/20201118082907/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-19T06:58:23Z",
+        "uri": "https://web.archive.org/web/20201119065823/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-19T08:54:13Z",
+        "uri": "https://web.archive.org/web/20201119085413/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-20T09:43:36Z",
+        "uri": "https://web.archive.org/web/20201120094336/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-20T09:53:39Z",
+        "uri": "https://web.archive.org/web/20201120095339/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-21T10:29:38Z",
+        "uri": "https://web.archive.org/web/20201121102938/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-21T18:12:47Z",
+        "uri": "https://web.archive.org/web/20201121181247/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-21T19:41:13Z",
+        "uri": "https://web.archive.org/web/20201121194113/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-22T11:06:11Z",
+        "uri": "https://web.archive.org/web/20201122110611/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-22T19:10:15Z",
+        "uri": "https://web.archive.org/web/20201122191015/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-23T13:04:08Z",
+        "uri": "https://wayback.archive-it.org/all/20201123130408/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-23T19:49:09Z",
+        "uri": "https://web.archive.org/web/20201123194909/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-24T20:14:46Z",
+        "uri": "https://web.archive.org/web/20201124201446/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-25T21:15:32Z",
+        "uri": "https://web.archive.org/web/20201125211532/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-26T21:49:45Z",
+        "uri": "https://web.archive.org/web/20201126214945/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-27T03:43:42Z",
+        "uri": "https://web.archive.org/web/20201127034342/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-27T22:35:33Z",
+        "uri": "https://web.archive.org/web/20201127223533/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-28T14:09:11Z",
+        "uri": "https://web.archive.org/web/20201128140911/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-28T23:05:59Z",
+        "uri": "https://web.archive.org/web/20201128230559/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-29T15:58:13Z",
+        "uri": "https://web.archive.org/web/20201129155813/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-29T16:48:52Z",
+        "uri": "https://web.archive.org/web/20201129164852/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-29T23:17:39Z",
+        "uri": "https://web.archive.org/web/20201129231739/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-11-30T01:38:47Z",
+        "uri": "https://web.archive.org/web/20201130013847/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-01T00:17:35Z",
+        "uri": "https://web.archive.org/web/20201201001735/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-02T00:35:34Z",
+        "uri": "https://web.archive.org/web/20201202003534/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-02T03:39:44Z",
+        "uri": "https://web.archive.org/web/20201202033944/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-03T01:01:18Z",
+        "uri": "https://web.archive.org/web/20201203010118/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-03T10:22:34Z",
+        "uri": "https://web.archive.org/web/20201203102234/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-03T16:02:38Z",
+        "uri": "https://web.archive.org/web/20201203160238/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-04T01:07:43Z",
+        "uri": "https://web.archive.org/web/20201204010743/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-04T04:33:04Z",
+        "uri": "https://web.archive.org/web/20201204043304/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-04T11:11:02Z",
+        "uri": "https://web.archive.org/web/20201204111102/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-04T16:43:08Z",
+        "uri": "https://web.archive.org/web/20201204164308/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-05T01:30:45Z",
+        "uri": "https://web.archive.org/web/20201205013045/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-05T06:44:49Z",
+        "uri": "https://web.archive.org/web/20201205064449/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-05T12:20:38Z",
+        "uri": "https://web.archive.org/web/20201205122038/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-06T02:08:55Z",
+        "uri": "https://web.archive.org/web/20201206020855/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-06T07:14:47Z",
+        "uri": "https://web.archive.org/web/20201206071447/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-06T07:39:40Z",
+        "uri": "https://web.archive.org/web/20201206073940/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-06T13:00:45Z",
+        "uri": "https://web.archive.org/web/20201206130045/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-06T19:14:06Z",
+        "uri": "https://web.archive.org/web/20201206191406/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-07T03:05:34Z",
+        "uri": "https://web.archive.org/web/20201207030534/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-07T13:58:01Z",
+        "uri": "https://web.archive.org/web/20201207135801/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-07T17:50:07Z",
+        "uri": "https://web.archive.org/web/20201207175007/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-07T20:36:08Z",
+        "uri": "https://web.archive.org/web/20201207203608/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-08T03:47:57Z",
+        "uri": "https://web.archive.org/web/20201208034757/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-08T06:36:47Z",
+        "uri": "https://web.archive.org/web/20201208063647/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-08T08:53:54Z",
+        "uri": "https://web.archive.org/web/20201208085354/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-08T14:44:18Z",
+        "uri": "https://web.archive.org/web/20201208144418/https://www.youtube.com/fashion"
+      },
+      {
+        "datetime": "2020-12-08T18:00:35Z",
+        "uri": "https://web.archive.org/web/20201208180035/https://www.youtube.com/fashion"
+      }
+    ],
+    "first": {
+      "datetime": "2012-04-26T23:21:28Z",
+      "uri": "https://web.archive.org/web/20120426232128/http://youtube.com/Fashion"
+    },
+    "last": {
+      "datetime": "2020-12-08T18:00:35Z",
+      "uri": "https://web.archive.org/web/20201208180035/https://www.youtube.com/fashion"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/Fashion",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/Fashion",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/Fashion"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/Fashion"
+}

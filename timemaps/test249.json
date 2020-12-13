@@ -1,0 +1,94 @@
+{
+  "original_uri": "https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-05T00:18:32Z",
+        "uri": "https://web.archive.org/web/20200805001832/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-08-05T01:44:08Z",
+        "uri": "https://wayback.archive-it.org/all/20200805014408/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-08-05T01:44:08Z",
+        "uri": "https://web.archive.org/web/20200805014408/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-08-05T02:40:41Z",
+        "uri": "https://web.archive.org/web/20200805024041/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-08-05T03:06:22Z",
+        "uri": "https://web.archive.org/web/20200805030622/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-08-05T10:12:16Z",
+        "uri": "https://web.archive.org/web/20200805101216/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-08-05T18:10:49Z",
+        "uri": "https://web.archive.org/web/20200805181049/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-08-06T02:35:03Z",
+        "uri": "https://web.archive.org/web/20200806023503/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-08-07T14:53:00Z",
+        "uri": "https://web.archive.org/web/20200807145300/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-08-11T21:06:59Z",
+        "uri": "https://web.archive.org/web/20200811210659/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-08-14T01:50:33Z",
+        "uri": "https://web.archive.org/web/20200814015033/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-09-18T10:32:04Z",
+        "uri": "https://web.archive.org/web/20200918103204/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-09-19T00:40:46Z",
+        "uri": "https://web.archive.org/web/20200919004046/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-09-27T06:29:24Z",
+        "uri": "https://web.archive.org/web/20200927062924/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-10-04T06:57:01Z",
+        "uri": "https://web.archive.org/web/20201004065701/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-12-06T17:50:32Z",
+        "uri": "https://web.archive.org/web/20201206175032/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-12-07T18:48:35Z",
+        "uri": "https://web.archive.org/web/20201207184835/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      },
+      {
+        "datetime": "2020-12-08T12:38:58Z",
+        "uri": "https://web.archive.org/web/20201208123858/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-05T00:18:32Z",
+      "uri": "https://web.archive.org/web/20200805001832/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+    },
+    "last": {
+      "datetime": "2020-12-08T12:38:58Z",
+      "uri": "https://web.archive.org/web/20201208123858/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/08/04/business/virgin-atlantic-bankruptcy/index.html"
+}

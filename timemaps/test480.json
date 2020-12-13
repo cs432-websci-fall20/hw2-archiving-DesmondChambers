@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.goodmorningamerica.com/culture/story/chadwick-boseman-donated-part-salary-star-sienna-miller-73310010?cid=social_twitter_abcn",
+  "self": "http://localhost:1208/timemap/json/https://www.goodmorningamerica.com/culture/story/chadwick-boseman-donated-part-salary-star-sienna-miller-73310010?cid=social_twitter_abcn",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-01T02:51:20Z",
+        "uri": "https://web.archive.org/web/20201101025120/https://www.goodmorningamerica.com/culture/story/chadwick-boseman-donated-part-salary-star-sienna-miller-73310010?cid=social_twitter_abcn"
+      },
+      {
+        "datetime": "2020-11-08T19:46:16Z",
+        "uri": "https://web.archive.org/web/20201108194616/https://www.goodmorningamerica.com/culture/story/chadwick-boseman-donated-part-salary-star-sienna-miller-73310010?cid=social_twitter_abcn"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-01T02:51:20Z",
+      "uri": "https://web.archive.org/web/20201101025120/https://www.goodmorningamerica.com/culture/story/chadwick-boseman-donated-part-salary-star-sienna-miller-73310010?cid=social_twitter_abcn"
+    },
+    "last": {
+      "datetime": "2020-11-08T19:46:16Z",
+      "uri": "https://web.archive.org/web/20201108194616/https://www.goodmorningamerica.com/culture/story/chadwick-boseman-donated-part-salary-star-sienna-miller-73310010?cid=social_twitter_abcn"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.goodmorningamerica.com/culture/story/chadwick-boseman-donated-part-salary-star-sienna-miller-73310010?cid=social_twitter_abcn",
+    "json_format": "http://localhost:1208/timemap/json/https://www.goodmorningamerica.com/culture/story/chadwick-boseman-donated-part-salary-star-sienna-miller-73310010?cid=social_twitter_abcn",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.goodmorningamerica.com/culture/story/chadwick-boseman-donated-part-salary-star-sienna-miller-73310010?cid=social_twitter_abcn"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.goodmorningamerica.com/culture/story/chadwick-boseman-donated-part-salary-star-sienna-miller-73310010?cid=social_twitter_abcn"
+}

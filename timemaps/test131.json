@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://apps.apple.com/gb/app/get-stuff-done/id1185631908",
+  "self": "http://localhost:1208/timemap/json/https://apps.apple.com/gb/app/get-stuff-done/id1185631908",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-22T13:49:20Z",
+        "uri": "https://web.archive.org/web/20201022134920/https://apps.apple.com/gb/app/get-stuff-done/id1185631908"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-22T13:49:20Z",
+      "uri": "https://web.archive.org/web/20201022134920/https://apps.apple.com/gb/app/get-stuff-done/id1185631908"
+    },
+    "last": {
+      "datetime": "2020-10-22T13:49:20Z",
+      "uri": "https://web.archive.org/web/20201022134920/https://apps.apple.com/gb/app/get-stuff-done/id1185631908"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://apps.apple.com/gb/app/get-stuff-done/id1185631908",
+    "json_format": "http://localhost:1208/timemap/json/https://apps.apple.com/gb/app/get-stuff-done/id1185631908",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://apps.apple.com/gb/app/get-stuff-done/id1185631908"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://apps.apple.com/gb/app/get-stuff-done/id1185631908"
+}

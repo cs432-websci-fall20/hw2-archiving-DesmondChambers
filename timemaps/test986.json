@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.wsj.com/articles/can-books-compete-with-netflix-yes-and-heres-why-11601571397?mod=e2tw",
+  "self": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/can-books-compete-with-netflix-yes-and-heres-why-11601571397?mod=e2tw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-01T01:48:17Z",
+        "uri": "https://web.archive.org/web/20201101014817/https://www.wsj.com/articles/can-books-compete-with-netflix-yes-and-heres-why-11601571397?mod=e2tw"
+      },
+      {
+        "datetime": "2020-11-01T05:19:18Z",
+        "uri": "https://web.archive.org/web/20201101051918/https://www.wsj.com/articles/can-books-compete-with-netflix-yes-and-heres-why-11601571397?mod=e2tw"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-01T01:48:17Z",
+      "uri": "https://web.archive.org/web/20201101014817/https://www.wsj.com/articles/can-books-compete-with-netflix-yes-and-heres-why-11601571397?mod=e2tw"
+    },
+    "last": {
+      "datetime": "2020-11-01T05:19:18Z",
+      "uri": "https://web.archive.org/web/20201101051918/https://www.wsj.com/articles/can-books-compete-with-netflix-yes-and-heres-why-11601571397?mod=e2tw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wsj.com/articles/can-books-compete-with-netflix-yes-and-heres-why-11601571397?mod=e2tw",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/can-books-compete-with-netflix-yes-and-heres-why-11601571397?mod=e2tw",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wsj.com/articles/can-books-compete-with-netflix-yes-and-heres-why-11601571397?mod=e2tw"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wsj.com/articles/can-books-compete-with-netflix-yes-and-heres-why-11601571397?mod=e2tw"
+}

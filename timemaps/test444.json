@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.facebook.com/careers/life/inside-the-creative-mind-of-instagrams-ian-spalter",
+  "self": "http://localhost:1208/timemap/json/https://www.facebook.com/careers/life/inside-the-creative-mind-of-instagrams-ian-spalter",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-07T13:59:43Z",
+        "uri": "https://web.archive.org/web/20200307135943/https://www.facebook.com/careers/life/inside-the-creative-mind-of-instagrams-ian-spalter"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-07T13:59:43Z",
+      "uri": "https://web.archive.org/web/20200307135943/https://www.facebook.com/careers/life/inside-the-creative-mind-of-instagrams-ian-spalter"
+    },
+    "last": {
+      "datetime": "2020-03-07T13:59:43Z",
+      "uri": "https://web.archive.org/web/20200307135943/https://www.facebook.com/careers/life/inside-the-creative-mind-of-instagrams-ian-spalter"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.facebook.com/careers/life/inside-the-creative-mind-of-instagrams-ian-spalter",
+    "json_format": "http://localhost:1208/timemap/json/https://www.facebook.com/careers/life/inside-the-creative-mind-of-instagrams-ian-spalter",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.facebook.com/careers/life/inside-the-creative-mind-of-instagrams-ian-spalter"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.facebook.com/careers/life/inside-the-creative-mind-of-instagrams-ian-spalter"
+}

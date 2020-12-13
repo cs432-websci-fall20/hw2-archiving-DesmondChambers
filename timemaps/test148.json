@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/",
+  "self": "http://localhost:1208/timemap/json/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-29T16:59:09Z",
+        "uri": "https://web.archive.org/web/20200229165909/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/"
+      },
+      {
+        "datetime": "2020-03-07T13:59:24Z",
+        "uri": "https://web.archive.org/web/20200307135924/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/"
+      },
+      {
+        "datetime": "2020-03-22T00:37:50Z",
+        "uri": "https://web.archive.org/web/20200322003750/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/"
+      },
+      {
+        "datetime": "2020-03-26T23:42:35Z",
+        "uri": "https://web.archive.org/web/20200326234235/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/"
+      },
+      {
+        "datetime": "2020-09-29T14:42:53Z",
+        "uri": "https://web.archive.org/web/20200929144253/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-29T16:59:09Z",
+      "uri": "https://web.archive.org/web/20200229165909/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/"
+    },
+    "last": {
+      "datetime": "2020-09-29T14:42:53Z",
+      "uri": "https://web.archive.org/web/20200929144253/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/",
+    "json_format": "http://localhost:1208/timemap/json/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://tech.fb.com/3d-photos-how-they-work-and-how-anyone-can-take-them/"
+}

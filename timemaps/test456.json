@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://www.facebook.com/help/contact/logout?id=260749603972907",
+  "self": "http://localhost:1208/timemap/json/https://www.facebook.com/help/contact/logout?id=260749603972907",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-10-09T12:34:34Z",
+        "uri": "https://web.archive.org/web/20141009123434/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2014-11-13T13:27:18Z",
+        "uri": "https://web.archive.org/web/20141113132718/https://www.facebook.com//help//contact//logout?id=260749603972907"
+      },
+      {
+        "datetime": "2016-04-28T07:21:06Z",
+        "uri": "http://archive.md/20160428072106/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2016-09-10T16:49:40Z",
+        "uri": "https://web.archive.org/web/20160910164940/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2016-12-20T04:05:57Z",
+        "uri": "https://web.archive.org/web/20161220040557/http://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2017-05-13T11:04:12Z",
+        "uri": "https://web.archive.org/web/20170513110412/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2017-05-14T11:25:47Z",
+        "uri": "https://web.archive.org/web/20170514112547/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2017-05-16T12:27:59Z",
+        "uri": "https://web.archive.org/web/20170516122759/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2019-10-24T14:41:50Z",
+        "uri": "https://web.archive.org/web/20191024144150/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2020-03-07T15:57:28Z",
+        "uri": "https://web.archive.org/web/20200307155728/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2020-10-30T20:18:20Z",
+        "uri": "https://web.archive.org/web/20201030201820/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2020-11-01T04:45:41Z",
+        "uri": "https://web.archive.org/web/20201101044541/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      },
+      {
+        "datetime": "2020-11-24T18:58:35Z",
+        "uri": "https://web.archive.org/web/20201124185835/https://www.facebook.com/help/contact/logout?id=260749603972907"
+      }
+    ],
+    "first": {
+      "datetime": "2014-10-09T12:34:34Z",
+      "uri": "https://web.archive.org/web/20141009123434/https://www.facebook.com/help/contact/logout?id=260749603972907"
+    },
+    "last": {
+      "datetime": "2020-11-24T18:58:35Z",
+      "uri": "https://web.archive.org/web/20201124185835/https://www.facebook.com/help/contact/logout?id=260749603972907"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.facebook.com/help/contact/logout?id=260749603972907",
+    "json_format": "http://localhost:1208/timemap/json/https://www.facebook.com/help/contact/logout?id=260749603972907",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.facebook.com/help/contact/logout?id=260749603972907"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.facebook.com/help/contact/logout?id=260749603972907"
+}

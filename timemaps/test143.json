@@ -1,0 +1,150 @@
+{
+  "original_uri": "https://launchnightin.withgoogle.com/",
+  "self": "http://localhost:1208/timemap/json/https://launchnightin.withgoogle.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-21T16:11:03Z",
+        "uri": "https://web.archive.org/web/20200921161103/http://launchnightin.withgoogle.com"
+      },
+      {
+        "datetime": "2020-09-27T13:04:31Z",
+        "uri": "https://web.archive.org/web/20200927130431/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-28T16:48:02Z",
+        "uri": "https://web.archive.org/web/20200928164802/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-28T16:48:02Z",
+        "uri": "https://web.archive.org/web/20200928164802/http://launchnightin.withgoogle.com"
+      },
+      {
+        "datetime": "2020-09-30T07:24:15Z",
+        "uri": "https://web.archive.org/web/20200930072415/http://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-30T08:37:08Z",
+        "uri": "https://web.archive.org/web/20200930083708/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-30T11:32:07Z",
+        "uri": "https://web.archive.org/web/20200930113207/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-30T11:40:56Z",
+        "uri": "https://web.archive.org/web/20200930114056/http://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-30T15:14:16Z",
+        "uri": "https://web.archive.org/web/20200930151416/http://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-30T15:25:24Z",
+        "uri": "https://web.archive.org/web/20200930152524/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-30T16:14:28Z",
+        "uri": "https://web.archive.org/web/20200930161428/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-30T16:49:15Z",
+        "uri": "https://web.archive.org/web/20200930164915/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-30T17:25:23Z",
+        "uri": "https://web.archive.org/web/20200930172523/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-30T18:04:29Z",
+        "uri": "https://web.archive.org/web/20200930180429/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-09-30T18:25:15Z",
+        "uri": "https://web.archive.org/web/20200930182515/https://launchnightin.withgoogle.com"
+      },
+      {
+        "datetime": "2020-09-30T23:39:15Z",
+        "uri": "https://web.archive.org/web/20200930233915/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-01T12:09:00Z",
+        "uri": "https://web.archive.org/web/20201001120900/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-01T13:08:32Z",
+        "uri": "https://web.archive.org/web/20201001130832/http://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-01T13:08:34Z",
+        "uri": "https://web.archive.org/web/20201001130834/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-01T13:27:11Z",
+        "uri": "https://web.archive.org/web/20201001132711/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-01T17:26:42Z",
+        "uri": "https://web.archive.org/web/20201001172642/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-01T19:52:47Z",
+        "uri": "https://web.archive.org/web/20201001195247/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-01T21:34:05Z",
+        "uri": "https://web.archive.org/web/20201001213405/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-03T04:17:05Z",
+        "uri": "https://web.archive.org/web/20201003041705/http://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-03T09:16:07Z",
+        "uri": "https://web.archive.org/web/20201003091607/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-05T18:54:37Z",
+        "uri": "https://web.archive.org/web/20201005185437/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-08T02:21:37Z",
+        "uri": "https://web.archive.org/web/20201008022137/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-10-22T06:20:50Z",
+        "uri": "https://web.archive.org/web/20201022062050/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-11-01T03:45:24Z",
+        "uri": "https://web.archive.org/web/20201101034524/http://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-11-01T03:45:25Z",
+        "uri": "https://web.archive.org/web/20201101034525/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-11-01T07:20:47Z",
+        "uri": "https://web.archive.org/web/20201101072047/https://launchnightin.withgoogle.com/"
+      },
+      {
+        "datetime": "2020-11-01T07:20:47Z",
+        "uri": "https://web.archive.org/web/20201101072047/http://launchnightin.withgoogle.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-21T16:11:03Z",
+      "uri": "https://web.archive.org/web/20200921161103/http://launchnightin.withgoogle.com"
+    },
+    "last": {
+      "datetime": "2020-11-01T07:20:47Z",
+      "uri": "https://web.archive.org/web/20201101072047/http://launchnightin.withgoogle.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://launchnightin.withgoogle.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://launchnightin.withgoogle.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://launchnightin.withgoogle.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://launchnightin.withgoogle.com/"
+}

@@ -1,0 +1,282 @@
+{
+  "original_uri": "https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926",
+  "self": "http://localhost:1208/timemap/json/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T11:34:13Z",
+        "uri": "https://web.archive.org/web/20201007113413/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-07T14:28:21Z",
+        "uri": "https://web.archive.org/web/20201007142821/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-08T04:43:57Z",
+        "uri": "https://web.archive.org/web/20201008044357/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-08T05:05:45Z",
+        "uri": "https://web.archive.org/web/20201008050545/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-08T12:29:42Z",
+        "uri": "https://web.archive.org/web/20201008122942/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-08T12:56:28Z",
+        "uri": "https://web.archive.org/web/20201008125628/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-09T05:30:23Z",
+        "uri": "https://web.archive.org/web/20201009053023/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-09T06:46:39Z",
+        "uri": "https://web.archive.org/web/20201009064639/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-09T20:20:46Z",
+        "uri": "https://web.archive.org/web/20201009202046/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-09T22:25:20Z",
+        "uri": "https://web.archive.org/web/20201009222520/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-10T06:29:53Z",
+        "uri": "https://web.archive.org/web/20201010062953/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-10T06:53:25Z",
+        "uri": "https://web.archive.org/web/20201010065325/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-10T07:47:48Z",
+        "uri": "https://web.archive.org/web/20201010074748/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-10T10:51:54Z",
+        "uri": "https://web.archive.org/web/20201010105154/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-11T16:01:33Z",
+        "uri": "https://web.archive.org/web/20201011160133/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-11T16:01:40Z",
+        "uri": "https://web.archive.org/web/20201011160140/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-12T17:55:49Z",
+        "uri": "https://web.archive.org/web/20201012175549/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-12T17:56:06Z",
+        "uri": "https://web.archive.org/web/20201012175606/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-13T19:01:37Z",
+        "uri": "https://web.archive.org/web/20201013190137/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-13T19:01:49Z",
+        "uri": "https://web.archive.org/web/20201013190149/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-14T19:56:08Z",
+        "uri": "https://web.archive.org/web/20201014195608/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-14T19:56:17Z",
+        "uri": "https://web.archive.org/web/20201014195617/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-15T20:32:56Z",
+        "uri": "https://web.archive.org/web/20201015203256/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-15T20:33:09Z",
+        "uri": "https://web.archive.org/web/20201015203309/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-16T21:47:49Z",
+        "uri": "https://web.archive.org/web/20201016214749/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-16T21:48:00Z",
+        "uri": "https://web.archive.org/web/20201016214800/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-17T22:13:31Z",
+        "uri": "https://web.archive.org/web/20201017221331/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-17T22:13:42Z",
+        "uri": "https://web.archive.org/web/20201017221342/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-18T22:25:41Z",
+        "uri": "https://web.archive.org/web/20201018222541/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-18T22:25:48Z",
+        "uri": "https://web.archive.org/web/20201018222548/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-19T23:35:28Z",
+        "uri": "https://web.archive.org/web/20201019233528/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-19T23:35:38Z",
+        "uri": "https://web.archive.org/web/20201019233538/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-21T01:06:48Z",
+        "uri": "https://web.archive.org/web/20201021010648/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-21T01:07:04Z",
+        "uri": "https://web.archive.org/web/20201021010704/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-22T00:47:55Z",
+        "uri": "https://web.archive.org/web/20201022004755/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-22T00:48:09Z",
+        "uri": "https://web.archive.org/web/20201022004809/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-23T01:40:54Z",
+        "uri": "https://web.archive.org/web/20201023014054/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-23T01:41:03Z",
+        "uri": "https://web.archive.org/web/20201023014103/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-24T02:35:13Z",
+        "uri": "https://web.archive.org/web/20201024023513/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-24T02:35:23Z",
+        "uri": "https://web.archive.org/web/20201024023523/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-25T12:24:30Z",
+        "uri": "https://web.archive.org/web/20201025122430/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-25T12:24:38Z",
+        "uri": "https://web.archive.org/web/20201025122438/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-26T18:50:24Z",
+        "uri": "https://web.archive.org/web/20201026185024/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-26T18:50:32Z",
+        "uri": "https://web.archive.org/web/20201026185032/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-27T19:53:49Z",
+        "uri": "https://web.archive.org/web/20201027195349/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-27T19:53:58Z",
+        "uri": "https://web.archive.org/web/20201027195358/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-28T21:47:50Z",
+        "uri": "https://web.archive.org/web/20201028214750/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-28T21:48:00Z",
+        "uri": "https://web.archive.org/web/20201028214800/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-29T23:42:55Z",
+        "uri": "https://web.archive.org/web/20201029234255/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-29T23:43:12Z",
+        "uri": "https://web.archive.org/web/20201029234312/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-30T23:30:53Z",
+        "uri": "https://web.archive.org/web/20201030233053/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-30T23:31:01Z",
+        "uri": "https://web.archive.org/web/20201030233101/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-31T22:51:28Z",
+        "uri": "https://web.archive.org/web/20201031225128/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-10-31T22:51:38Z",
+        "uri": "https://web.archive.org/web/20201031225138/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-02T01:38:31Z",
+        "uri": "https://web.archive.org/web/20201102013831/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-02T01:38:42Z",
+        "uri": "https://web.archive.org/web/20201102013842/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-04T03:08:59Z",
+        "uri": "https://web.archive.org/web/20201104030859/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-04T03:09:06Z",
+        "uri": "https://web.archive.org/web/20201104030906/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-05T03:02:25Z",
+        "uri": "https://web.archive.org/web/20201105030225/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-05T03:02:33Z",
+        "uri": "https://web.archive.org/web/20201105030233/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-06T03:33:22Z",
+        "uri": "https://web.archive.org/web/20201106033322/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-06T03:33:30Z",
+        "uri": "https://web.archive.org/web/20201106033330/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-07T05:30:22Z",
+        "uri": "https://web.archive.org/web/20201107053022/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-07T05:30:35Z",
+        "uri": "https://web.archive.org/web/20201107053035/http://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      },
+      {
+        "datetime": "2020-11-17T11:37:03Z",
+        "uri": "https://web.archive.org/web/20201117113703/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T11:34:13Z",
+      "uri": "https://web.archive.org/web/20201007113413/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+    },
+    "last": {
+      "datetime": "2020-11-17T11:37:03Z",
+      "uri": "https://web.archive.org/web/20201117113703/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926",
+    "json_format": "http://localhost:1208/timemap/json/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://abcnews.go.com/US/delta-makes-landfall-category-hurricane-mexico-forecast-hit/story?id=73467926"
+}

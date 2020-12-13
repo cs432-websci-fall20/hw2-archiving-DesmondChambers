@@ -1,0 +1,178 @@
+{
+  "original_uri": "https://about.instagram.com/blog/announcements/safer-internet-day-2020",
+  "self": "http://localhost:1208/timemap/json/https://about.instagram.com/blog/announcements/safer-internet-day-2020",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-01T18:53:43Z",
+        "uri": "https://web.archive.org/web/20200301185343/http://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-03-07T13:54:38Z",
+        "uri": "https://web.archive.org/web/20200307135438/http://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-03-07T13:54:40Z",
+        "uri": "https://web.archive.org/web/20200307135440/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-03-11T21:30:57Z",
+        "uri": "https://web.archive.org/web/20200311213057/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-03-13T19:49:25Z",
+        "uri": "https://web.archive.org/web/20200313194925/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-03-20T23:01:07Z",
+        "uri": "https://web.archive.org/web/20200320230107/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-04-20T17:52:45Z",
+        "uri": "https://web.archive.org/web/20200420175245/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-04-20T21:49:16Z",
+        "uri": "https://web.archive.org/web/20200420214916/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-04-26T17:02:59Z",
+        "uri": "https://web.archive.org/web/20200426170259/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-04-26T17:28:36Z",
+        "uri": "https://web.archive.org/web/20200426172836/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-04-26T18:59:46Z",
+        "uri": "https://web.archive.org/web/20200426185946/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-04-26T19:35:28Z",
+        "uri": "https://web.archive.org/web/20200426193528/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-04-27T13:06:50Z",
+        "uri": "https://web.archive.org/web/20200427130650/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-05-06T20:23:50Z",
+        "uri": "https://web.archive.org/web/20200506202350/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-05-17T20:00:01Z",
+        "uri": "https://web.archive.org/web/20200517200001/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-05-24T12:20:40Z",
+        "uri": "https://web.archive.org/web/20200524122040/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-05-28T18:39:47Z",
+        "uri": "https://web.archive.org/web/20200528183947/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-05-31T00:56:59Z",
+        "uri": "https://web.archive.org/web/20200531005659/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-06-16T18:29:23Z",
+        "uri": "https://web.archive.org/web/20200616182923/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-06-17T10:46:28Z",
+        "uri": "https://web.archive.org/web/20200617104628/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-07-21T20:24:17Z",
+        "uri": "https://web.archive.org/web/20200721202417/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-07-21T20:24:22Z",
+        "uri": "https://web.archive.org/web/20200721202422/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-07-21T20:24:28Z",
+        "uri": "https://web.archive.org/web/20200721202428/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-07-25T01:33:55Z",
+        "uri": "https://web.archive.org/web/20200725013355/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-08-01T14:44:47Z",
+        "uri": "https://web.archive.org/web/20200801144447/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-08-02T18:55:43Z",
+        "uri": "https://web.archive.org/web/20200802185543/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-08-03T03:39:34Z",
+        "uri": "https://web.archive.org/web/20200803033934/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-08-13T17:51:26Z",
+        "uri": "https://web.archive.org/web/20200813175126/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-08-17T01:28:04Z",
+        "uri": "https://web.archive.org/web/20200817012804/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-08-17T01:28:10Z",
+        "uri": "https://web.archive.org/web/20200817012810/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-08-17T14:04:15Z",
+        "uri": "https://web.archive.org/web/20200817140415/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-08-17T14:04:21Z",
+        "uri": "https://web.archive.org/web/20200817140421/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-08-17T14:04:28Z",
+        "uri": "https://web.archive.org/web/20200817140428/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-08-17T14:04:34Z",
+        "uri": "https://web.archive.org/web/20200817140434/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-09-17T00:17:01Z",
+        "uri": "https://web.archive.org/web/20200917001701/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-09-26T21:37:22Z",
+        "uri": "https://web.archive.org/web/20200926213722/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-10-20T03:43:06Z",
+        "uri": "https://web.archive.org/web/20201020034306/https://about.instagram.com/blog/announcements/safer-internet-day-2020/"
+      },
+      {
+        "datetime": "2020-10-28T20:17:48Z",
+        "uri": "https://web.archive.org/web/20201028201748/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      },
+      {
+        "datetime": "2020-12-02T12:32:33Z",
+        "uri": "https://web.archive.org/web/20201202123233/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-01T18:53:43Z",
+      "uri": "https://web.archive.org/web/20200301185343/http://about.instagram.com/blog/announcements/safer-internet-day-2020"
+    },
+    "last": {
+      "datetime": "2020-12-02T12:32:33Z",
+      "uri": "https://web.archive.org/web/20201202123233/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://about.instagram.com/blog/announcements/safer-internet-day-2020",
+    "json_format": "http://localhost:1208/timemap/json/https://about.instagram.com/blog/announcements/safer-internet-day-2020",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://about.instagram.com/blog/announcements/safer-internet-day-2020"
+}

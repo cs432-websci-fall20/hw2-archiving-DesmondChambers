@@ -1,0 +1,162 @@
+{
+  "original_uri": "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653",
+  "self": "http://localhost:1208/timemap/json/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-05T20:11:13Z",
+        "uri": "http://archive.md/20201005201113/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-05T22:30:19Z",
+        "uri": "https://web.archive.org/web/20201005223019/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-06T02:11:14Z",
+        "uri": "https://web.archive.org/web/20201006021114/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-06T03:29:57Z",
+        "uri": "https://web.archive.org/web/20201006032957/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-06T06:11:08Z",
+        "uri": "https://web.archive.org/web/20201006061108/http://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-06T23:41:21Z",
+        "uri": "https://web.archive.org/web/20201006234121/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-07T07:28:40Z",
+        "uri": "https://web.archive.org/web/20201007072840/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-07T09:45:52Z",
+        "uri": "https://web.archive.org/web/20201007094552/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-07T12:37:31Z",
+        "uri": "https://web.archive.org/web/20201007123731/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-08T01:42:31Z",
+        "uri": "https://web.archive.org/web/20201008014231/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-08T04:10:16Z",
+        "uri": "https://web.archive.org/web/20201008041016/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-08T10:54:30Z",
+        "uri": "https://web.archive.org/web/20201008105430/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-09T05:15:05Z",
+        "uri": "https://web.archive.org/web/20201009051505/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-11T05:29:58Z",
+        "uri": "https://web.archive.org/web/20201011052958/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-17T15:51:57Z",
+        "uri": "https://web.archive.org/web/20201017155157/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-17T19:34:11Z",
+        "uri": "https://web.archive.org/web/20201017193411/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-18T12:27:28Z",
+        "uri": "https://web.archive.org/web/20201018122728/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-18T16:29:09Z",
+        "uri": "https://web.archive.org/web/20201018162909/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-10-25T17:50:31Z",
+        "uri": "https://web.archive.org/web/20201025175031/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-02T16:44:49Z",
+        "uri": "https://web.archive.org/web/20201102164449/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-02T20:32:02Z",
+        "uri": "https://web.archive.org/web/20201102203202/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-03T21:24:34Z",
+        "uri": "https://web.archive.org/web/20201103212434/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-04T18:45:10Z",
+        "uri": "https://web.archive.org/web/20201104184510/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-04T21:29:40Z",
+        "uri": "https://web.archive.org/web/20201104212940/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-04T21:35:08Z",
+        "uri": "https://web.archive.org/web/20201104213508/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-04T21:43:51Z",
+        "uri": "https://web.archive.org/web/20201104214351/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-04T23:59:44Z",
+        "uri": "https://web.archive.org/web/20201104235944/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-05T00:34:00Z",
+        "uri": "https://web.archive.org/web/20201105003400/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-14T07:03:37Z",
+        "uri": "https://web.archive.org/web/20201114070337/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-16T06:51:44Z",
+        "uri": "https://web.archive.org/web/20201116065144/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-16T21:02:27Z",
+        "uri": "https://web.archive.org/web/20201116210227/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-16T21:02:46Z",
+        "uri": "https://web.archive.org/web/20201116210246/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-19T07:13:03Z",
+        "uri": "https://web.archive.org/web/20201119071303/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-11-19T10:36:04Z",
+        "uri": "https://web.archive.org/web/20201119103604/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      },
+      {
+        "datetime": "2020-12-01T19:29:56Z",
+        "uri": "https://web.archive.org/web/20201201192956/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-05T20:11:13Z",
+      "uri": "http://archive.md/20201005201113/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    },
+    "last": {
+      "datetime": "2020-12-01T19:29:56Z",
+      "uri": "https://web.archive.org/web/20201201192956/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653",
+    "json_format": "http://localhost:1208/timemap/json/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+}

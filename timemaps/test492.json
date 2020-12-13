@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.goodmorningamerica.com/family/story/year-died-furniture-tip-accident-mom-makes-desperate-73147597?cid=social_twitter_abcn",
+  "self": "http://localhost:1208/timemap/json/https://www.goodmorningamerica.com/family/story/year-died-furniture-tip-accident-mom-makes-desperate-73147597?cid=social_twitter_abcn",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-11T13:01:25Z",
+        "uri": "https://web.archive.org/web/20201111130125/https://www.goodmorningamerica.com/family/story/year-died-furniture-tip-accident-mom-makes-desperate-73147597?cid=social_twitter_abcn"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-11T13:01:25Z",
+      "uri": "https://web.archive.org/web/20201111130125/https://www.goodmorningamerica.com/family/story/year-died-furniture-tip-accident-mom-makes-desperate-73147597?cid=social_twitter_abcn"
+    },
+    "last": {
+      "datetime": "2020-11-11T13:01:25Z",
+      "uri": "https://web.archive.org/web/20201111130125/https://www.goodmorningamerica.com/family/story/year-died-furniture-tip-accident-mom-makes-desperate-73147597?cid=social_twitter_abcn"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.goodmorningamerica.com/family/story/year-died-furniture-tip-accident-mom-makes-desperate-73147597?cid=social_twitter_abcn",
+    "json_format": "http://localhost:1208/timemap/json/https://www.goodmorningamerica.com/family/story/year-died-furniture-tip-accident-mom-makes-desperate-73147597?cid=social_twitter_abcn",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.goodmorningamerica.com/family/story/year-died-furniture-tip-accident-mom-makes-desperate-73147597?cid=social_twitter_abcn"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.goodmorningamerica.com/family/story/year-died-furniture-tip-accident-mom-makes-desperate-73147597?cid=social_twitter_abcn"
+}

@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.instagram.com/p/CFAq350jcXz/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/p/CFAq350jcXz/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-01T10:20:22Z",
+        "uri": "https://web.archive.org/web/20201101102022/http://www.instagram.com/p/CFAq350jcXz/"
+      },
+      {
+        "datetime": "2020-11-01T18:25:04Z",
+        "uri": "https://web.archive.org/web/20201101182504/http://www.instagram.com/p/CFAq350jcXz/"
+      },
+      {
+        "datetime": "2020-11-01T19:37:41Z",
+        "uri": "https://web.archive.org/web/20201101193741/http://www.instagram.com/p/CFAq350jcXz/"
+      },
+      {
+        "datetime": "2020-11-01T20:19:49Z",
+        "uri": "https://web.archive.org/web/20201101201949/http://www.instagram.com/p/CFAq350jcXz/"
+      },
+      {
+        "datetime": "2020-11-01T21:57:28Z",
+        "uri": "https://web.archive.org/web/20201101215728/http://www.instagram.com/p/CFAq350jcXz/"
+      },
+      {
+        "datetime": "2020-11-01T23:41:44Z",
+        "uri": "https://web.archive.org/web/20201101234144/http://www.instagram.com/p/CFAq350jcXz/"
+      },
+      {
+        "datetime": "2020-11-02T04:35:10Z",
+        "uri": "https://web.archive.org/web/20201102043510/http://www.instagram.com/p/CFAq350jcXz/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-01T10:20:22Z",
+      "uri": "https://web.archive.org/web/20201101102022/http://www.instagram.com/p/CFAq350jcXz/"
+    },
+    "last": {
+      "datetime": "2020-11-02T04:35:10Z",
+      "uri": "https://web.archive.org/web/20201102043510/http://www.instagram.com/p/CFAq350jcXz/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/p/CFAq350jcXz/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/p/CFAq350jcXz/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/p/CFAq350jcXz/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/p/CFAq350jcXz/"
+}

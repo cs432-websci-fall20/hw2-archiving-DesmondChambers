@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.instagram.com/p/B0v8aXWg8aG/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/p/B0v8aXWg8aG/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-07T13:58:32Z",
+        "uri": "https://web.archive.org/web/20200307135832/https://www.instagram.com/p/B0v8aXWg8aG/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-07T13:58:32Z",
+      "uri": "https://web.archive.org/web/20200307135832/https://www.instagram.com/p/B0v8aXWg8aG/"
+    },
+    "last": {
+      "datetime": "2020-03-07T13:58:32Z",
+      "uri": "https://web.archive.org/web/20200307135832/https://www.instagram.com/p/B0v8aXWg8aG/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/p/B0v8aXWg8aG/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/p/B0v8aXWg8aG/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/p/B0v8aXWg8aG/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/p/B0v8aXWg8aG/"
+}

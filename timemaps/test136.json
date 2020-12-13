@@ -1,0 +1,206 @@
+{
+  "original_uri": "https://fit.live/",
+  "self": "http://localhost:1208/timemap/json/https://fit.live/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-05-28T17:46:29Z",
+        "uri": "https://web.archive.org/web/20160528174629/http://fit.live/"
+      },
+      {
+        "datetime": "2016-10-06T14:04:59Z",
+        "uri": "https://web.archive.org/web/20161006140459/http://fit.live/"
+      },
+      {
+        "datetime": "2017-01-27T04:28:53Z",
+        "uri": "https://web.archive.org/web/20170127042853/http://www.fit.live:80/"
+      },
+      {
+        "datetime": "2017-01-27T04:28:57Z",
+        "uri": "https://web.archive.org/web/20170127042857/http://www.fit.live:80/?"
+      },
+      {
+        "datetime": "2017-03-08T09:07:46Z",
+        "uri": "https://wayback.archive-it.org/all/20170308090746/http://fit.live/"
+      },
+      {
+        "datetime": "2017-03-08T09:07:46Z",
+        "uri": "https://web.archive.org/web/20170308090746/http://fit.live/"
+      },
+      {
+        "datetime": "2017-03-08T09:07:53Z",
+        "uri": "https://wayback.archive-it.org/all/20170308090753/http://www.fit.live/"
+      },
+      {
+        "datetime": "2017-03-08T09:07:53Z",
+        "uri": "https://web.archive.org/web/20170308090753/http://www.fit.live/"
+      },
+      {
+        "datetime": "2017-03-12T21:53:57Z",
+        "uri": "https://web.archive.org/web/20170312215357/http://fit.live/"
+      },
+      {
+        "datetime": "2017-03-12T21:58:27Z",
+        "uri": "https://web.archive.org/web/20170312215827/http://www.fit.live/"
+      },
+      {
+        "datetime": "2017-05-03T22:00:05Z",
+        "uri": "https://web.archive.org/web/20170503220005/http://www.fit.live:80/"
+      },
+      {
+        "datetime": "2017-05-03T22:00:05Z",
+        "uri": "https://web.archive.org/web/20170503220005/http://fit.live:80/"
+      },
+      {
+        "datetime": "2017-05-19T19:22:49Z",
+        "uri": "https://web.archive.org/web/20170519192249/http://fit.live/"
+      },
+      {
+        "datetime": "2017-05-19T19:22:51Z",
+        "uri": "https://web.archive.org/web/20170519192251/http://www.fit.live/"
+      },
+      {
+        "datetime": "2017-05-19T19:22:53Z",
+        "uri": "https://web.archive.org/web/20170519192253/http://fit.live/"
+      },
+      {
+        "datetime": "2017-05-19T19:22:54Z",
+        "uri": "https://web.archive.org/web/20170519192254/http://www.fit.live/"
+      },
+      {
+        "datetime": "2017-08-29T18:46:50Z",
+        "uri": "https://web.archive.org/web/20170829184650/http://fit.live/"
+      },
+      {
+        "datetime": "2017-09-05T13:00:02Z",
+        "uri": "https://web.archive.org/web/20170905130002/http://fit.live/"
+      },
+      {
+        "datetime": "2017-11-09T01:04:48Z",
+        "uri": "https://web.archive.org/web/20171109010448/http://fit.live/"
+      },
+      {
+        "datetime": "2017-11-17T07:15:41Z",
+        "uri": "https://wayback.archive-it.org/all/20171117071541/http://fit.live/"
+      },
+      {
+        "datetime": "2017-11-17T07:15:41Z",
+        "uri": "https://web.archive.org/web/20171117071541/http://fit.live/"
+      },
+      {
+        "datetime": "2017-11-17T20:34:49Z",
+        "uri": "https://wayback.archive-it.org/all/20171117203449/http://fit.live/"
+      },
+      {
+        "datetime": "2017-11-17T20:34:49Z",
+        "uri": "https://web.archive.org/web/20171117203449/http://fit.live/"
+      },
+      {
+        "datetime": "2018-01-07T06:50:20Z",
+        "uri": "https://web.archive.org/web/20180107065020/http://fit.live/"
+      },
+      {
+        "datetime": "2018-01-30T16:53:21Z",
+        "uri": "https://web.archive.org/web/20180130165321/http://fit.live/"
+      },
+      {
+        "datetime": "2018-03-19T13:19:10Z",
+        "uri": "https://web.archive.org/web/20180319131910/http://fit.live/"
+      },
+      {
+        "datetime": "2018-05-29T18:12:30Z",
+        "uri": "http://archive.md/20180529181230/http://fit.live/"
+      },
+      {
+        "datetime": "2018-08-08T04:10:03Z",
+        "uri": "https://web.archive.org/web/20180808041003/http://fit.live/"
+      },
+      {
+        "datetime": "2018-12-28T10:53:11Z",
+        "uri": "https://web.archive.org/web/20181228105311/http://fit.live/"
+      },
+      {
+        "datetime": "2019-03-30T06:45:14Z",
+        "uri": "https://web.archive.org/web/20190330064514/http://fit.live/"
+      },
+      {
+        "datetime": "2019-03-31T10:21:36Z",
+        "uri": "https://web.archive.org/web/20190331102136/https://fit.live/"
+      },
+      {
+        "datetime": "2020-05-27T04:08:55Z",
+        "uri": "https://web.archive.org/web/20200527040855/https://fit.live/"
+      },
+      {
+        "datetime": "2020-05-28T00:40:36Z",
+        "uri": "https://web.archive.org/web/20200528004036/https://fit.live/"
+      },
+      {
+        "datetime": "2020-08-05T20:08:59Z",
+        "uri": "https://web.archive.org/web/20200805200859/https://fit.live/"
+      },
+      {
+        "datetime": "2020-08-10T06:29:29Z",
+        "uri": "https://web.archive.org/web/20200810062929/https://fit.live/"
+      },
+      {
+        "datetime": "2020-08-17T08:22:11Z",
+        "uri": "https://web.archive.org/web/20200817082211/https://fit.live/"
+      },
+      {
+        "datetime": "2020-10-06T09:48:04Z",
+        "uri": "https://web.archive.org/web/20201006094804/http://fit.live/"
+      },
+      {
+        "datetime": "2020-10-06T10:37:42Z",
+        "uri": "https://web.archive.org/web/20201006103742/http://fit.live/"
+      },
+      {
+        "datetime": "2020-10-06T11:54:31Z",
+        "uri": "https://web.archive.org/web/20201006115431/http://fit.live/"
+      },
+      {
+        "datetime": "2020-10-06T15:06:01Z",
+        "uri": "https://web.archive.org/web/20201006150601/http://fit.live/"
+      },
+      {
+        "datetime": "2020-10-07T01:14:32Z",
+        "uri": "https://web.archive.org/web/20201007011432/http://fit.live/"
+      },
+      {
+        "datetime": "2020-10-26T23:50:36Z",
+        "uri": "https://web.archive.org/web/20201026235036/https://fit.live/"
+      },
+      {
+        "datetime": "2020-10-28T11:10:31Z",
+        "uri": "https://web.archive.org/web/20201028111031/https://fit.live/"
+      },
+      {
+        "datetime": "2020-10-30T18:06:05Z",
+        "uri": "https://web.archive.org/web/20201030180605/http://fit.live/"
+      },
+      {
+        "datetime": "2020-11-01T14:18:59Z",
+        "uri": "https://web.archive.org/web/20201101141859/https://fit.live/"
+      },
+      {
+        "datetime": "2020-11-01T14:18:59Z",
+        "uri": "https://web.archive.org/web/20201101141859/http://fit.live/"
+      }
+    ],
+    "first": {
+      "datetime": "2016-05-28T17:46:29Z",
+      "uri": "https://web.archive.org/web/20160528174629/http://fit.live/"
+    },
+    "last": {
+      "datetime": "2020-11-01T14:18:59Z",
+      "uri": "https://web.archive.org/web/20201101141859/http://fit.live/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://fit.live/",
+    "json_format": "http://localhost:1208/timemap/json/https://fit.live/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://fit.live/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://fit.live/"
+}

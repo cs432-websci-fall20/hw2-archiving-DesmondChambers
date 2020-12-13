@@ -1,0 +1,78 @@
+{
+  "original_uri": "https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-22T07:39:41Z",
+        "uri": "https://web.archive.org/web/20200722073941/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-07-22T09:53:30Z",
+        "uri": "https://web.archive.org/web/20200722095330/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-07-22T10:29:44Z",
+        "uri": "https://web.archive.org/web/20200722102944/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-07-22T11:01:32Z",
+        "uri": "http://archive.md/20200722110132/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-07-22T13:28:25Z",
+        "uri": "https://web.archive.org/web/20200722132825/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-07-22T14:05:56Z",
+        "uri": "https://web.archive.org/web/20200722140556/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-07-23T02:35:31Z",
+        "uri": "https://web.archive.org/web/20200723023531/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-07-23T13:13:08Z",
+        "uri": "https://web.archive.org/web/20200723131308/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-08-15T06:03:14Z",
+        "uri": "https://web.archive.org/web/20200815060314/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-08-19T07:27:40Z",
+        "uri": "https://web.archive.org/web/20200819072740/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-09-15T11:17:03Z",
+        "uri": "https://web.archive.org/web/20200915111703/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-09-26T18:32:45Z",
+        "uri": "https://web.archive.org/web/20200926183245/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-11-03T19:41:27Z",
+        "uri": "https://web.archive.org/web/20201103194127/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      },
+      {
+        "datetime": "2020-11-07T19:35:02Z",
+        "uri": "https://web.archive.org/web/20201107193502/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-22T07:39:41Z",
+      "uri": "https://web.archive.org/web/20200722073941/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+    },
+    "last": {
+      "datetime": "2020-11-07T19:35:02Z",
+      "uri": "https://web.archive.org/web/20201107193502/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2020/07/22/us/alaska-7-8-magnitude-earthquake/index.html"
+}

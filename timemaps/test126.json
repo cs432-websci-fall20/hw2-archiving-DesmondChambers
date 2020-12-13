@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools",
+  "self": "http://localhost:1208/timemap/json/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-15T02:38:39Z",
+        "uri": "https://web.archive.org/web/20200215023839/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools"
+      },
+      {
+        "datetime": "2020-02-22T12:48:47Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20200222124847/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools"
+      },
+      {
+        "datetime": "2020-03-07T06:18:38Z",
+        "uri": "https://web.archive.org/web/20200307061838/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools"
+      },
+      {
+        "datetime": "2020-03-07T13:59:39Z",
+        "uri": "https://web.archive.org/web/20200307135939/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools"
+      },
+      {
+        "datetime": "2020-03-16T09:48:38Z",
+        "uri": "https://web.archive.org/web/20200316094838/https://about.instagram.com/blog/announcements/celebrating-LGBTQ-Pride-with-new-features-and-tools/"
+      },
+      {
+        "datetime": "2020-05-23T06:16:39Z",
+        "uri": "https://web.archive.org/web/20200523061639/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools"
+      },
+      {
+        "datetime": "2020-08-04T14:33:25Z",
+        "uri": "https://web.archive.org/web/20200804143325/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools/"
+      },
+      {
+        "datetime": "2020-09-26T07:35:49Z",
+        "uri": "https://web.archive.org/web/20200926073549/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-15T02:38:39Z",
+      "uri": "https://web.archive.org/web/20200215023839/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools"
+    },
+    "last": {
+      "datetime": "2020-09-26T07:35:49Z",
+      "uri": "https://web.archive.org/web/20200926073549/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools",
+    "json_format": "http://localhost:1208/timemap/json/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://about.instagram.com/blog/announcements/celebrating-lgbtq-pride-with-new-features-and-tools"
+}

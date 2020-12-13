@@ -1,0 +1,262 @@
+{
+  "original_uri": "https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746",
+  "self": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-28T09:51:34Z",
+        "uri": "https://web.archive.org/web/20200928095134/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-28T11:05:39Z",
+        "uri": "https://web.archive.org/web/20200928110539/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-28T11:31:41Z",
+        "uri": "https://web.archive.org/web/20200928113141/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-28T14:46:22Z",
+        "uri": "https://web.archive.org/web/20200928144622/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-28T18:25:30Z",
+        "uri": "http://archive.md/20200928182530/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-28T19:37:31Z",
+        "uri": "https://web.archive.org/web/20200928193731/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-29T01:02:43Z",
+        "uri": "https://wayback.archive-it.org/all/20200929010243/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-29T01:03:00Z",
+        "uri": "https://web.archive.org/web/20200929010300/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-29T07:11:49Z",
+        "uri": "https://web.archive.org/web/20200929071149/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-29T10:52:47Z",
+        "uri": "https://web.archive.org/web/20200929105247/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-29T13:32:50Z",
+        "uri": "https://web.archive.org/web/20200929133250/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-29T18:03:23Z",
+        "uri": "https://web.archive.org/web/20200929180323/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-30T03:26:09Z",
+        "uri": "https://web.archive.org/web/20200930032609/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-30T05:36:26Z",
+        "uri": "https://web.archive.org/web/20200930053626/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-30T07:39:49Z",
+        "uri": "https://web.archive.org/web/20200930073949/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-30T12:38:42Z",
+        "uri": "https://web.archive.org/web/20200930123842/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-09-30T17:57:59Z",
+        "uri": "https://web.archive.org/web/20200930175759/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-01T00:06:36Z",
+        "uri": "https://web.archive.org/web/20201001000636/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-01T05:49:30Z",
+        "uri": "https://web.archive.org/web/20201001054930/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-01T06:28:49Z",
+        "uri": "https://web.archive.org/web/20201001062849/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-01T14:02:33Z",
+        "uri": "https://web.archive.org/web/20201001140233/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-01T20:35:26Z",
+        "uri": "https://web.archive.org/web/20201001203526/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-02T08:08:23Z",
+        "uri": "https://web.archive.org/web/20201002080823/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-02T14:29:24Z",
+        "uri": "https://web.archive.org/web/20201002142924/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-02T17:10:41Z",
+        "uri": "https://web.archive.org/web/20201002171041/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-02T22:10:02Z",
+        "uri": "https://web.archive.org/web/20201002221002/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-02T23:47:14Z",
+        "uri": "https://web.archive.org/web/20201002234714/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-02T23:51:44Z",
+        "uri": "https://web.archive.org/web/20201002235144/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-03T08:19:35Z",
+        "uri": "https://web.archive.org/web/20201003081935/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-03T21:42:28Z",
+        "uri": "https://web.archive.org/web/20201003214228/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-03T21:55:55Z",
+        "uri": "https://web.archive.org/web/20201003215555/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-03T22:53:55Z",
+        "uri": "https://web.archive.org/web/20201003225355/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-04T09:17:03Z",
+        "uri": "https://web.archive.org/web/20201004091703/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-05T00:31:14Z",
+        "uri": "https://web.archive.org/web/20201005003114/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-05T03:20:51Z",
+        "uri": "https://web.archive.org/web/20201005032051/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-05T09:49:15Z",
+        "uri": "https://web.archive.org/web/20201005094915/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-05T22:46:40Z",
+        "uri": "https://web.archive.org/web/20201005224640/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-06T02:35:19Z",
+        "uri": "https://web.archive.org/web/20201006023519/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-06T02:59:21Z",
+        "uri": "https://web.archive.org/web/20201006025921/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-06T10:27:58Z",
+        "uri": "https://web.archive.org/web/20201006102758/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-06T12:06:14Z",
+        "uri": "https://web.archive.org/web/20201006120614/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-07T01:00:09Z",
+        "uri": "https://web.archive.org/web/20201007010009/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-07T06:13:08Z",
+        "uri": "https://web.archive.org/web/20201007061308/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-07T10:32:07Z",
+        "uri": "https://web.archive.org/web/20201007103207/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-07T12:17:47Z",
+        "uri": "https://web.archive.org/web/20201007121747/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-07T15:17:39Z",
+        "uri": "https://web.archive.org/web/20201007151739/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-08T11:06:18Z",
+        "uri": "https://web.archive.org/web/20201008110618/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-08T12:37:53Z",
+        "uri": "https://web.archive.org/web/20201008123753/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-08T13:13:52Z",
+        "uri": "https://web.archive.org/web/20201008131352/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-08T14:29:01Z",
+        "uri": "https://web.archive.org/web/20201008142901/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-08T14:59:50Z",
+        "uri": "https://web.archive.org/web/20201008145950/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-09T07:54:49Z",
+        "uri": "https://web.archive.org/web/20201009075449/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-09T13:25:30Z",
+        "uri": "https://web.archive.org/web/20201009132530/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-09T15:14:09Z",
+        "uri": "https://web.archive.org/web/20201009151409/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-09T21:44:59Z",
+        "uri": "https://web.archive.org/web/20201009214459/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-10T01:00:13Z",
+        "uri": "https://web.archive.org/web/20201010010013/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-10T11:39:04Z",
+        "uri": "https://web.archive.org/web/20201010113904/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-10T14:28:23Z",
+        "uri": "https://web.archive.org/web/20201010142823/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-13T18:23:44Z",
+        "uri": "https://web.archive.org/web/20201013182344/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      },
+      {
+        "datetime": "2020-10-13T21:08:44Z",
+        "uri": "https://web.archive.org/web/20201013210844/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-28T09:51:34Z",
+      "uri": "https://web.archive.org/web/20200928095134/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+    },
+    "last": {
+      "datetime": "2020-10-13T21:08:44Z",
+      "uri": "https://web.archive.org/web/20201013210844/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wsj.com/articles/complex-aircraft-investments-face-a-reckoning-11601285746"
+}

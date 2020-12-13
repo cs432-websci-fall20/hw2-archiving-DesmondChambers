@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.instagram.com/p/CCYzSQ9sbXY/",
+  "self": "http://localhost:1208/timemap/json/https://www.instagram.com/p/CCYzSQ9sbXY/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-11-01T04:17:13Z",
+        "uri": "https://web.archive.org/web/20201101041713/https://www.instagram.com/p/CCYzSQ9sbXY/"
+      },
+      {
+        "datetime": "2020-11-01T16:42:37Z",
+        "uri": "https://web.archive.org/web/20201101164237/https://www.instagram.com/p/CCYzSQ9sbXY/"
+      },
+      {
+        "datetime": "2020-11-01T18:26:26Z",
+        "uri": "https://web.archive.org/web/20201101182626/https://www.instagram.com/p/CCYzSQ9sbXY/"
+      },
+      {
+        "datetime": "2020-11-01T19:19:41Z",
+        "uri": "https://web.archive.org/web/20201101191941/https://www.instagram.com/p/CCYzSQ9sbXY/"
+      },
+      {
+        "datetime": "2020-11-01T20:24:58Z",
+        "uri": "https://web.archive.org/web/20201101202458/https://www.instagram.com/p/CCYzSQ9sbXY/"
+      },
+      {
+        "datetime": "2020-11-01T21:11:34Z",
+        "uri": "https://web.archive.org/web/20201101211134/https://www.instagram.com/p/CCYzSQ9sbXY/"
+      },
+      {
+        "datetime": "2020-11-01T23:23:59Z",
+        "uri": "https://web.archive.org/web/20201101232359/https://www.instagram.com/p/CCYzSQ9sbXY/"
+      },
+      {
+        "datetime": "2020-11-02T00:14:01Z",
+        "uri": "https://web.archive.org/web/20201102001401/https://www.instagram.com/p/CCYzSQ9sbXY/"
+      },
+      {
+        "datetime": "2020-11-02T02:47:50Z",
+        "uri": "https://web.archive.org/web/20201102024750/https://www.instagram.com/p/CCYzSQ9sbXY/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-11-01T04:17:13Z",
+      "uri": "https://web.archive.org/web/20201101041713/https://www.instagram.com/p/CCYzSQ9sbXY/"
+    },
+    "last": {
+      "datetime": "2020-11-02T02:47:50Z",
+      "uri": "https://web.archive.org/web/20201102024750/https://www.instagram.com/p/CCYzSQ9sbXY/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.instagram.com/p/CCYzSQ9sbXY/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.instagram.com/p/CCYzSQ9sbXY/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.instagram.com/p/CCYzSQ9sbXY/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.instagram.com/p/CCYzSQ9sbXY/"
+}

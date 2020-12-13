@@ -1,0 +1,610 @@
+{
+  "original_uri": "https://about.fb.com/news/2020/10/coronavirus/",
+  "self": "http://localhost:1208/timemap/json/https://about.fb.com/news/2020/10/coronavirus/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T11:33:00Z",
+        "uri": "https://wayback.archive-it.org/all/20201006113300/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-07T09:05:48Z",
+        "uri": "https://web.archive.org/web/20201007090548/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-07T17:19:57Z",
+        "uri": "https://web.archive.org/web/20201007171957/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-07T23:50:17Z",
+        "uri": "https://web.archive.org/web/20201007235017/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-08T00:26:36Z",
+        "uri": "https://wayback.archive-it.org/all/20201008002636/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-08T10:13:38Z",
+        "uri": "https://web.archive.org/web/20201008101338/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-08T13:38:48Z",
+        "uri": "https://web.archive.org/web/20201008133848/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-08T16:37:40Z",
+        "uri": "https://wayback.archive-it.org/all/20201008163740/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-08T17:34:03Z",
+        "uri": "https://web.archive.org/web/20201008173403/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-08T22:35:46Z",
+        "uri": "https://wayback.archive-it.org/all/20201008223546/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-09T11:06:59Z",
+        "uri": "https://web.archive.org/web/20201009110659/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-09T18:39:09Z",
+        "uri": "https://web.archive.org/web/20201009183909/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-10T01:14:12Z",
+        "uri": "https://wayback.archive-it.org/all/20201010011412/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-10T01:33:16Z",
+        "uri": "https://web.archive.org/web/20201010013316/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-10T11:58:39Z",
+        "uri": "https://web.archive.org/web/20201010115839/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-11T00:26:43Z",
+        "uri": "https://wayback.archive-it.org/all/20201011002643/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-11T12:21:10Z",
+        "uri": "https://web.archive.org/web/20201011122110/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-11T15:37:48Z",
+        "uri": "https://wayback.archive-it.org/all/20201011153748/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-12T13:51:08Z",
+        "uri": "https://web.archive.org/web/20201012135108/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-12T15:03:27Z",
+        "uri": "https://wayback.archive-it.org/all/20201012150327/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-13T04:37:39Z",
+        "uri": "https://web.archive.org/web/20201013043739/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-13T19:41:03Z",
+        "uri": "https://wayback.archive-it.org/all/20201013194103/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-14T06:53:18Z",
+        "uri": "https://web.archive.org/web/20201014065318/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-14T15:24:51Z",
+        "uri": "https://web.archive.org/web/20201014152451/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-14T22:45:14Z",
+        "uri": "https://wayback.archive-it.org/all/20201014224514/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-14T23:41:59Z",
+        "uri": "https://wayback.archive-it.org/all/20201014234159/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-15T16:15:55Z",
+        "uri": "https://web.archive.org/web/20201015161555/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-16T17:26:28Z",
+        "uri": "https://web.archive.org/web/20201016172628/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-17T02:18:55Z",
+        "uri": "https://wayback.archive-it.org/all/20201017021855/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-17T12:58:11Z",
+        "uri": "https://web.archive.org/web/20201017125811/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-17T23:34:52Z",
+        "uri": "https://wayback.archive-it.org/all/20201017233452/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-18T18:26:04Z",
+        "uri": "https://web.archive.org/web/20201018182604/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-19T00:50:35Z",
+        "uri": "https://wayback.archive-it.org/all/20201019005035/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-19T19:20:15Z",
+        "uri": "https://web.archive.org/web/20201019192015/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-21T09:22:21Z",
+        "uri": "https://wayback.archive-it.org/all/20201021092221/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-21T11:04:46Z",
+        "uri": "https://web.archive.org/web/20201021110446/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-21T14:37:00Z",
+        "uri": "https://web.archive.org/web/20201021143700/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-21T20:23:36Z",
+        "uri": "https://web.archive.org/web/20201021202336/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-22T16:07:34Z",
+        "uri": "https://wayback.archive-it.org/all/20201022160734/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-23T01:11:32Z",
+        "uri": "https://web.archive.org/web/20201023011132/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-23T19:13:44Z",
+        "uri": "https://perma.cc/4A8Y-2PW4"
+      },
+      {
+        "datetime": "2020-10-23T19:13:45Z",
+        "uri": "https://web.archive.org/web/20201023191345/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-23T22:28:26Z",
+        "uri": "https://web.archive.org/web/20201023222826/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-24T02:19:25Z",
+        "uri": "https://wayback.archive-it.org/all/20201024021925/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-24T16:49:08Z",
+        "uri": "https://wayback.archive-it.org/all/20201024164908/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-24T16:57:51Z",
+        "uri": "https://wayback.archive-it.org/all/20201024165751/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-24T19:41:44Z",
+        "uri": "https://wayback.archive-it.org/all/20201024194144/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-24T23:27:20Z",
+        "uri": "https://web.archive.org/web/20201024232720/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-26T14:52:38Z",
+        "uri": "https://web.archive.org/web/20201026145238/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-26T20:36:00Z",
+        "uri": "https://web.archive.org/web/20201026203600/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-27T15:45:39Z",
+        "uri": "https://web.archive.org/web/20201027154539/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-29T02:24:57Z",
+        "uri": "https://web.archive.org/web/20201029022457/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-29T02:25:57Z",
+        "uri": "https://web.archive.org/web/20201029022557/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-29T13:34:41Z",
+        "uri": "https://web.archive.org/web/20201029133441/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-29T18:37:34Z",
+        "uri": "https://web.archive.org/web/20201029183734/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-30T00:37:25Z",
+        "uri": "https://wayback.archive-it.org/all/20201030003725/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-30T15:10:47Z",
+        "uri": "https://wayback.archive-it.org/all/20201030151047/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-30T19:08:24Z",
+        "uri": "https://web.archive.org/web/20201030190824/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-30T19:34:58Z",
+        "uri": "https://web.archive.org/web/20201030193458/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-31T17:14:24Z",
+        "uri": "https://wayback.archive-it.org/all/20201031171424/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-31T19:01:24Z",
+        "uri": "https://web.archive.org/web/20201031190124/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-01T01:57:15Z",
+        "uri": "https://web.archive.org/web/20201101015715/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-01T06:42:53Z",
+        "uri": "https://web.archive.org/web/20201101064253/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-01T21:17:13Z",
+        "uri": "https://web.archive.org/web/20201101211713/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-02T18:02:35Z",
+        "uri": "https://wayback.archive-it.org/all/20201102180235/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-02T22:15:12Z",
+        "uri": "https://web.archive.org/web/20201102221512/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-03T18:51:01Z",
+        "uri": "https://wayback.archive-it.org/all/20201103185101/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-03T23:10:15Z",
+        "uri": "https://web.archive.org/web/20201103231015/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-04T22:36:53Z",
+        "uri": "https://wayback.archive-it.org/all/20201104223653/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-04T22:58:00Z",
+        "uri": "https://web.archive.org/web/20201104225800/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-04T23:12:46Z",
+        "uri": "https://wayback.archive-it.org/all/20201104231246/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-05T13:41:54Z",
+        "uri": "https://web.archive.org/web/20201105134154/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-05T23:40:27Z",
+        "uri": "https://web.archive.org/web/20201105234027/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-06T20:03:12Z",
+        "uri": "https://wayback.archive-it.org/all/20201106200312/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-06T22:01:02Z",
+        "uri": "https://web.archive.org/web/20201106220102/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-07T01:10:31Z",
+        "uri": "https://web.archive.org/web/20201107011031/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-07T06:26:18Z",
+        "uri": "https://wayback.archive-it.org/all/20201107062618/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-07T18:49:53Z",
+        "uri": "https://wayback.archive-it.org/all/20201107184953/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-08T01:55:12Z",
+        "uri": "https://web.archive.org/web/20201108015512/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-08T04:25:11Z",
+        "uri": "https://web.archive.org/web/20201108042511/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-09T03:14:02Z",
+        "uri": "https://web.archive.org/web/20201109031402/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-09T05:15:23Z",
+        "uri": "https://web.archive.org/web/20201109051523/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-09T21:50:04Z",
+        "uri": "https://wayback.archive-it.org/all/20201109215004/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-10T04:13:54Z",
+        "uri": "https://web.archive.org/web/20201110041354/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-10T07:24:58Z",
+        "uri": "https://web.archive.org/web/20201110072458/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-10T17:40:22Z",
+        "uri": "https://wayback.archive-it.org/all/20201110174022/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-11T04:38:40Z",
+        "uri": "https://web.archive.org/web/20201111043840/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-11T08:22:50Z",
+        "uri": "https://web.archive.org/web/20201111082250/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-11T18:04:01Z",
+        "uri": "https://web.archive.org/web/20201111180401/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-12T01:24:41Z",
+        "uri": "https://wayback.archive-it.org/all/20201112012441/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-12T08:40:05Z",
+        "uri": "https://wayback.archive-it.org/all/20201112084005/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-12T17:31:05Z",
+        "uri": "https://wayback.archive-it.org/all/20201112173105/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-12T19:20:46Z",
+        "uri": "https://web.archive.org/web/20201112192046/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-13T02:12:35Z",
+        "uri": "https://web.archive.org/web/20201113021235/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-13T20:57:46Z",
+        "uri": "https://wayback.archive-it.org/all/20201113205746/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-14T03:16:19Z",
+        "uri": "https://web.archive.org/web/20201114031619/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-14T20:57:38Z",
+        "uri": "https://wayback.archive-it.org/all/20201114205738/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-14T21:43:20Z",
+        "uri": "https://web.archive.org/web/20201114214320/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-15T04:07:00Z",
+        "uri": "https://web.archive.org/web/20201115040700/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-15T08:46:53Z",
+        "uri": "https://web.archive.org/web/20201115084653/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-15T19:25:02Z",
+        "uri": "https://wayback.archive-it.org/all/20201115192502/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-16T04:15:06Z",
+        "uri": "https://web.archive.org/web/20201116041506/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-16T10:00:07Z",
+        "uri": "https://web.archive.org/web/20201116100007/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-16T16:07:35Z",
+        "uri": "https://wayback.archive-it.org/all/20201116160735/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-17T05:15:35Z",
+        "uri": "https://web.archive.org/web/20201117051535/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-17T11:14:19Z",
+        "uri": "https://web.archive.org/web/20201117111419/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-17T23:13:34Z",
+        "uri": "https://wayback.archive-it.org/all/20201117231334/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-18T06:49:12Z",
+        "uri": "https://web.archive.org/web/20201118064912/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-18T12:35:16Z",
+        "uri": "https://web.archive.org/web/20201118123516/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-18T16:56:16Z",
+        "uri": "https://wayback.archive-it.org/all/20201118165616/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-19T01:14:37Z",
+        "uri": "https://wayback.archive-it.org/all/20201119011437/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-19T06:27:45Z",
+        "uri": "https://web.archive.org/web/20201119062745/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-19T19:15:11Z",
+        "uri": "https://wayback.archive-it.org/all/20201119191511/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-20T02:46:15Z",
+        "uri": "https://web.archive.org/web/20201120024615/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-20T07:28:23Z",
+        "uri": "https://web.archive.org/web/20201120072823/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-20T12:15:30Z",
+        "uri": "https://web.archive.org/web/20201120121530/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-20T15:50:24Z",
+        "uri": "https://wayback.archive-it.org/all/20201120155024/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-21T07:39:27Z",
+        "uri": "https://web.archive.org/web/20201121073927/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-22T08:36:46Z",
+        "uri": "https://web.archive.org/web/20201122083646/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-23T07:40:00Z",
+        "uri": "https://wayback.archive-it.org/all/20201123074000/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-23T08:44:59Z",
+        "uri": "https://web.archive.org/web/20201123084459/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-24T09:38:38Z",
+        "uri": "https://web.archive.org/web/20201124093838/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-24T19:01:59Z",
+        "uri": "https://web.archive.org/web/20201124190159/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-25T03:23:46Z",
+        "uri": "https://web.archive.org/web/20201125032346/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-25T09:31:17Z",
+        "uri": "https://wayback.archive-it.org/all/20201125093117/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-25T10:12:19Z",
+        "uri": "https://web.archive.org/web/20201125101219/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-26T00:09:37Z",
+        "uri": "https://wayback.archive-it.org/all/20201126000937/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-26T11:20:20Z",
+        "uri": "https://web.archive.org/web/20201126112020/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-26T13:04:49Z",
+        "uri": "https://web.archive.org/web/20201126130449/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-26T20:30:14Z",
+        "uri": "https://web.archive.org/web/20201126203014/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-26T22:23:17Z",
+        "uri": "https://wayback.archive-it.org/all/20201126222317/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-27T00:17:06Z",
+        "uri": "https://web.archive.org/web/20201127001706/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-27T11:58:34Z",
+        "uri": "https://web.archive.org/web/20201127115834/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-27T16:35:03Z",
+        "uri": "https://wayback.archive-it.org/all/20201127163503/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-27T16:57:40Z",
+        "uri": "https://web.archive.org/web/20201127165740/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-28T03:26:22Z",
+        "uri": "https://web.archive.org/web/20201128032622/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-28T03:51:47Z",
+        "uri": "https://web.archive.org/web/20201128035147/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-28T11:44:27Z",
+        "uri": "https://wayback.archive-it.org/all/20201128114427/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-28T13:29:26Z",
+        "uri": "https://web.archive.org/web/20201128132926/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-28T17:08:33Z",
+        "uri": "https://web.archive.org/web/20201128170833/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-29T13:38:31Z",
+        "uri": "https://wayback.archive-it.org/all/20201129133831/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-29T13:55:12Z",
+        "uri": "https://web.archive.org/web/20201129135512/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-29T18:10:37Z",
+        "uri": "https://web.archive.org/web/20201129181037/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-30T08:00:22Z",
+        "uri": "https://web.archive.org/web/20201130080022/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-30T15:49:06Z",
+        "uri": "https://web.archive.org/web/20201130154906/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-30T20:13:30Z",
+        "uri": "https://web.archive.org/web/20201130201330/https://about.fb.com/news/2020/10/coronavirus/"
+      },
+      {
+        "datetime": "2020-11-30T22:03:35Z",
+        "uri": "https://wayback.archive-it.org/all/20201130220335/https://about.fb.com/news/2020/10/coronavirus/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T11:33:00Z",
+      "uri": "https://wayback.archive-it.org/all/20201006113300/https://about.fb.com/news/2020/10/coronavirus/"
+    },
+    "last": {
+      "datetime": "2020-11-30T22:03:35Z",
+      "uri": "https://wayback.archive-it.org/all/20201130220335/https://about.fb.com/news/2020/10/coronavirus/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://about.fb.com/news/2020/10/coronavirus/",
+    "json_format": "http://localhost:1208/timemap/json/https://about.fb.com/news/2020/10/coronavirus/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://about.fb.com/news/2020/10/coronavirus/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://about.fb.com/news/2020/10/coronavirus/"
+}

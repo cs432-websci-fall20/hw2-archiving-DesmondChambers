@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.latimes.com/california/story/2020-01-22/homeless-facebook-support-group",
+  "self": "http://localhost:1208/timemap/json/https://www.latimes.com/california/story/2020-01-22/homeless-facebook-support-group",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-01-23T15:03:01Z",
+        "uri": "https://wayback.archive-it.org/all/20200123150301/https://www.latimes.com/california/story/2020-01-22/homeless-facebook-support-group"
+      }
+    ],
+    "first": {
+      "datetime": "2020-01-23T15:03:01Z",
+      "uri": "https://wayback.archive-it.org/all/20200123150301/https://www.latimes.com/california/story/2020-01-22/homeless-facebook-support-group"
+    },
+    "last": {
+      "datetime": "2020-01-23T15:03:01Z",
+      "uri": "https://wayback.archive-it.org/all/20200123150301/https://www.latimes.com/california/story/2020-01-22/homeless-facebook-support-group"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.latimes.com/california/story/2020-01-22/homeless-facebook-support-group",
+    "json_format": "http://localhost:1208/timemap/json/https://www.latimes.com/california/story/2020-01-22/homeless-facebook-support-group",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.latimes.com/california/story/2020-01-22/homeless-facebook-support-group"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.latimes.com/california/story/2020-01-22/homeless-facebook-support-group"
+}

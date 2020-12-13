@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw",
+  "self": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-10-04T11:03:06Z",
+        "uri": "http://archive.md/20191004110306/https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw"
+      },
+      {
+        "datetime": "2020-01-20T10:00:22Z",
+        "uri": "https://web.archive.org/web/20200120100022/https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw"
+      },
+      {
+        "datetime": "2020-02-10T18:04:29Z",
+        "uri": "https://web.archive.org/web/20200210180429/https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw"
+      }
+    ],
+    "first": {
+      "datetime": "2019-10-04T11:03:06Z",
+      "uri": "http://archive.md/20191004110306/https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw"
+    },
+    "last": {
+      "datetime": "2020-02-10T18:04:29Z",
+      "uri": "https://web.archive.org/web/20200210180429/https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wsj.com/articles/what-we-know-about-hunter-bidens-dealings-in-china-11570181403?mod=e2tw"
+}
