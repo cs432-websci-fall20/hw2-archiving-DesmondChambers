@@ -85,7 +85,7 @@ Create a histogram of URIs vs. number of mementos (as computed from the TimeMaps
 
 *How well archived are the URIs in your collection?*
 
-The internet is more archived that I thought it would be as shown by the graph a little less than 50% of the urls have been archived. Some had alot of timemaps and seem like they were archived daily. 
+The internet is more archived that I thought it would be. As shown by the graph a little less than 50% of the urls have been archived. Some had alot of timemaps and seem like they were archived daily. 
 
 ### Q3
 
