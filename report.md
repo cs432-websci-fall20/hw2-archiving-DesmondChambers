@@ -111,6 +111,12 @@ Create an account at [Conifer](https://conifer.rhizome.org) and create a collect
 
 *Why did you choose this particular topic?  Did you have any issues in archiving the webpages?  Do the archived webpages look like the original webpages?*
 
+I choose to archive websites for some of the new concepts and tools I was introduced to this semester. I choose these sites because I really enjoyed interacting with the tools they provided. I will continue to use most if not all the tools archive. I think it will be good to compare the information as it is now with that of the future. Not only will this bring new insight, but it will also serve as a way to look back at where it all started. 
+I did not have any issues in archiving the webpages. The process was simple, I visited the sites, copied the URLs, and then paste them in the Conifer window. I then used the autopilot feature provided by Conifer to scan the entire page before adding it to the collection. 
+The archived webpages looked similar to the original webpages, as I did not notice any difference between them and the original. 
+
+The link to the collection is https://conifer.rhizome.org/Dchambers/development-tools 
+
 After creating your collection at Conifer, download the collection as a WARC file (see [Exporting or Downloading Content](https://guide.conifer.rhizome.org/docs/manage-sessions/exporting-warc/)).
 
 Then load this WARC file into [ReplayWeb.page](https://replayweb.page), a tool from the Webrecorder Project (folks who developed Conifer).  From https://webrecorder.net/tools:
@@ -121,9 +127,24 @@ Once the WARC file has loaded, click on the "Pages" tab.  Take a screenshot that
 
 Then click on the "URLs" tab and choose "All URLs" from the dropdown menu.  How many URLs were archived in the WARC file?  How does this compare to the number of Pages?
 
+After uploading the warc file to replayweb.page 1009 webpages were archived. This was 10 times the number of webpages. This is a lot more than I expected. After going through the drop-down menu. I discovered that not only the HTML files were archived, but many other file types such as images, javascript, JSON, audio/video, CSS, fonts, PDF, plaintext, and DASH/HLS were also archived as well. 
+
 Create a bar chart showing the number of URLs in the WARC file for each of the file types in the dropdown menu.
 
 *Which file type had the most URLs?  Were you surprised by this?*
+
+Images, JSON, and Javascript all had over 100 files. Javascript had the most with 179 files. I was surprised that there were this many files. Internet speed is at present relatively fast, so a website can host a lot of data. Nevertheless, I was still pretty surprised by the number of archived files. 
+
+HTML 46,
+images 169,
+javascript 179, 
+JSON 27, 
+audio/video 16, 
+CSS 106, 
+fonts 38, 
+PDF 0, 
+plaintext 16,
+DASH/HLS 10
 
 ## Submission
 
