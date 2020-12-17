@@ -136,6 +136,8 @@ Create a bar chart showing the number of URLs in the WARC file for each of the f
 
 ![Q4 graph ](./q4.png)
 
+[question 4 code](./q4_extracredit.ipynb) was used to create the graph. 
+
 *Which file type had the most URLs?  Were you surprised by this?*
 
 Images, JSON, and Javascript all had over 100 files. Javascript had the most with 179 files. I was surprised that there were this many files. Internet speed is at present relatively fast, so a website can host a lot of data. Nevertheless, I was still pretty surprised by the number of archived files. 
