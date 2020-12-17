@@ -125,8 +125,8 @@ Then load this WARC file into [ReplayWeb.page](https://replayweb.page), a tool f
 
 Once the WARC file has loaded, click on the "Pages" tab.  Take a screenshot that includes the list of pages and the browser address bar (showing `replayweb.page/?source=file%3A%2F%2F`..., which indicates that the WARC file is being loaded from your local computer).
 
-![Q4 ](./q4.png)
-![Q4 list ](./q4.png)
+![Q4 ](./pages.jpg)
+![Q4 list ](./listofpages.jpg)
 
 Then click on the "URLs" tab and choose "All URLs" from the dropdown menu.  How many URLs were archived in the WARC file?  How does this compare to the number of Pages?
 
